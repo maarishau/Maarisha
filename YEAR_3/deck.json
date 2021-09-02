@@ -1,0 +1,1187 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e5999030-0bf8-11ec-b866-c4b301a027bc",
+                    "deck_config_uuid": "e59999a4-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "paste-0291ac3d726749f10ce6a717e96fd74a22fdf645.jpg",
+                        "paste-149199aceff65f6f0ed6a23efa1cc359acd0a0a6.jpg",
+                        "paste-17c7d1389c77e169049a4cd3e3d2d9a6b0b525cb.jpg",
+                        "paste-2abe134fec3b1b814acf2cf98f4617ac36f0d712.jpg",
+                        "paste-7683701d354cb9f615a0e9da6db298baefb05682.jpg",
+                        "paste-7cd10be9f5cedb1a431cb7969bcaf15110112eb1.jpg",
+                        "paste-d221c0cff5c9c597bba1780970d4a09f81113be4.jpg",
+                        "paste-d4f9918ea951ccabed7b077f0b416999934adce6.jpg",
+                        "paste-e2ac61022953c4f2c97c0ea24d0203541da88eac.jpg",
+                        "paste-e5952e975fb90c568bf2993f192e61caad91608e.jpg",
+                        "paste-ec3f3d6ecf083ce2acb860d4d63f32bf05325f5b.jpg",
+                        "paste-efe17d13c32df0a6a050c6b4faece8cd4ece34c0.jpg"
+                    ],
+                    "mid": 1590007127250,
+                    "name": "Lecture 1: Trauma to the head",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Scalp lacerations easily occur due to tight apposition of the scalp to the&nbsp;{{c1::calvarium}}. As there is free communication between the scalp and&nbsp;face vessels to the veins of the&nbsp;{{c1::meninges}}, there is a <b>danger of&nbsp;</b>{{c1::meningitis}} (especially when there's a skull fracture!)",
+                                ""
+                            ],
+                            "guid": "rb[<EP<T5_",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "If a patient has a skull fracture, you should look for bleeding from the&nbsp;{{c1::ears}} or into the&nbsp;{{c1::orbit}}. A leak of CSF from the nose is due to injury to the&nbsp;{{c1::ethmoid}} bone. A \"black eye\" means bleeding into the eye socket due to {{c1::orbital}} injury.",
+                                "<img src=\"paste-7cd10be9f5cedb1a431cb7969bcaf15110112eb1.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "Jm],T^iBlG",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-7683701d354cb9f615a0e9da6db298baefb05682.jpg\"><div>This image represents inhalation of blood from injury to the&nbsp;{{c1::base}} of the skull.<br><div><br></div><div><img src=\"paste-17c7d1389c77e169049a4cd3e3d2d9a6b0b525cb.jpg\"><br></div></div><div>This image represents injury to the&nbsp;{{c1::orbital plate}}.</div>",
+                                ""
+                            ],
+                            "guid": "BaQdV*dds[",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Injuries on the <b>vertex</b>&nbsp;of the skull should always raise suspicion of&nbsp;{{c1::assault}}.",
+                                "(Unusual to fall on top of head)"
+                            ],
+                            "guid": "HyTVQR3^0j",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Concussion}} is a transient paralytic state due to head injury which is of&nbsp;{{c1::instantaneous}} onset, does not show any evidence of structural cerebral injury and is always followed by&nbsp;{{c1::amnesia}} from the actual moment of the accident. The duration of loss of&nbsp;{{c1::consciousness}} is usually a guide to the degree of cerebral pathology.<br>",
+                                "&nbsp;- extremely common<div>- cause controversial: some mechanical process temporarily distupts the function, if not necessarily the structure, of the brain.<br><div><br></div></div>"
+                            ],
+                            "guid": "lL1Eu6nE(m",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chronic {{c1::Traumatic}} {{c1::Encephalopathy}} is a sports-related neurological injury due to repeated bouts of concussion, especially repetitive concussion, often mild!",
+                                "Contact (collision) sports: boxing, football (NFL). Others include wrestling, karate, rugby, parachuting. Also iraq war soldiers."
+                            ],
+                            "guid": "g&jY;6x6zo",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Chronic Traumatic encephalopathy</b> includes clinical features such as&nbsp;{{c1::memory}} disturbances, behavioural and&nbsp;{{c1::personality}} changes,&nbsp;{{c1::parkin}}sonism, speech and gait abnormalities (depends on area affected).",
+                                "Remember \"<b>second impact syndrome\"</b>"
+                            ],
+                            "guid": "Fx6DSPdjz1",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Chronic Traumatic Encephalopathy </b>includes pathological features such as&nbsp;{{c1::atrophy}} of cerebral hemispheres, medial temporal lobe,&nbsp;{{c1::thalamus}},&nbsp;{{c1::mammilary}} bodies and brainstem with ventricular&nbsp;{{c1::dilatation}}.",
+                                "Treatment: decrease no. of concussive episodes, limit exposure to trauma with severe penalties for deliberate blows to the head, adherence to strict return to play guidelines, avoid second concussive episode at all costs within weeks of the first, give up the sport."
+                            ],
+                            "guid": "umN>6<+NV.",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Diffuse axonal injury}} is primarily a <b>non-impact rotational acceleration-deceleration </b>phenomenon. Most significant factor is probably deformation by&nbsp;{{c1::stretching}}. Gross pathology&nbsp;{{c1::is not::is/is not}} seen.Brain should be histologically examined post&nbsp;{{c1::10-14::#}} days fixation.&nbsp;{{c1::\"Retraction globes\"}} can be seen on microscopy due to axonal disruption. It is the most common cause of longterm&nbsp;{{c1::morbidity}} from head injury.<br>",
+                                ""
+                            ],
+                            "guid": "Hv?~9csgJP",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The meninges include the&nbsp;{{c1::dura}},&nbsp;{{c1::arachnoid}},and&nbsp;{{c1::pia}} mater.",
+                                ""
+                            ],
+                            "guid": "D[7<r]CF0K",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Subarachnoid}} haemorrhage is when there is blood between the arachnoid and pia mater (<b>Trauma, ruptured berry aneurysm</b>).{{c1::Extradural}} haemorrhage is when there is blood between the skull and the dura mater (<b>injury to temporal bone</b>).&nbsp;{{c1::Subdural}} haemorrhage is when there is blood between the dura and arachnoid mater (<b>Simple fall - often in&nbsp;</b>{{c1::elderly}} people).&nbsp;{{c1::Intracerebral}} haemorrhage is due to hypertension and sometimes trauma.<br>",
+                                "Know intracranial (broad category of all haemorrhages) vs intracerebral difference"
+                            ],
+                            "guid": "KG3<kG]4^G",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Extradural haemorrhage is trauma to the&nbsp;{{c1::squamous temporal::2 words}} bone. May be no significant trauma to the underlying brain so can have <b>good prognosis</b> if <b>detected early</b>. Clinical presentation of EDH includes trauma (to side of head) which leads to a&nbsp;{{c1::concusssion}} followed by a&nbsp;<b>{{c1::lucid}} interval</b> and then a loss of&nbsp;{{c1::consciousness}}. This can be followed by coma/death.",
+                                "<img src=\"paste-d221c0cff5c9c597bba1780970d4a09f81113be4.jpg\"><div><br></div><div><br></div><div><img src=\"paste-149199aceff65f6f0ed6a23efa1cc359acd0a0a6.jpg\"><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "g?BI_-J<H=",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathologically, EDH can present with injury of thin&nbsp;{{c1::temporal}} bone with tearing of the middle&nbsp;<b>{{c1::meningeal}} </b>artery. It also presents with&nbsp;{{c1::bleeding}} with separation of dura from bone, usuall&nbsp; over 6-12 hours. Lastly, it can present with accumulation of a large&nbsp;{{c1::haematoma}} outside the dura - leading to compression of the adjacent cerebral hemisphere.",
+                                "-injury to meningeal NOT temporal artery<div>-VERY THIN temporal bone<br><div><br></div><div>Haematoma outside dura</div><div><img src=\"paste-2abe134fec3b1b814acf2cf98f4617ac36f0d712.jpg\"><br></div></div><div><br></div><div>Injury to temporal bone below</div><div><img src=\"paste-e2ac61022953c4f2c97c0ea24d0203541da88eac.jpg\"></div><div><br></div><div>EDH</div><div><img src=\"paste-e5952e975fb90c568bf2993f192e61caad91608e.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "n#bDvA~GeX",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A subdural haemorrhage/haematoma (SDH) is often a minor head trauma in&nbsp;{{c1::elderly}} patients with often no skull injury. It may be associated with&nbsp;{{c1::child abuse}} in infants.",
+                                ""
+                            ],
+                            "guid": "B^QIT@>?EW",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "SDH pathology presents with the tearing of&nbsp;{{c1::bridging}} veins as they enter the superior sagittal sinus, due to&nbsp;{{c1::shearing}} force on veins (often coming from a small atrophic brain) which is oscillating due to minor head trauma. It is associated with&nbsp;{{c1::slow::fast/slow}} venous bleeding. In chronic SDH,&nbsp;{{c1::granulation}} tissue grows into the hematoma and tries to organize and remove it. This tissue originates from the {{c1::dura}} rather than the brain.",
+                                "<img src=\"paste-efe17d13c32df0a6a050c6b4faece8cd4ece34c0.jpg\">"
+                            ],
+                            "guid": "FJmnN?iCx9",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Acute traumatic subarachnoid haemorrhage</b> (SAH) can have trauma to&nbsp;{{c1::Circle of Willis}} vessels. <b>Basal subarachnoid haemorrhage </b>has trauma to {{c1::vertebral}} arteries.&nbsp;These arteries are vulnerable when they enter the&nbsp;foramen&nbsp;{{c1::magnum}}.",
+                                "Vertebral artery trauma - typically caused by blunt force to the side of the neck behind the ear (\"karate chop\" - type blow).<div><br></div><div><br></div><div><img src=\"paste-d4f9918ea951ccabed7b077f0b416999934adce6.jpg\"><br></div>"
+                            ],
+                            "guid": "qQVLP{Z~g,",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Non traumatic SAH</b> are associated with ruptured&nbsp;{{c1::berry}} aneurysms - 5-10mm in diameter. These are&nbsp;{{c1::saccular}} type of aneurysms and are usually located at&nbsp;{{c1::bifurcations}} of arteries.",
+                                "-Most common locations: Anterior and posterior communicating arteries, middle cerebral artery<div>-Congenital</div><div>-Non CNS condition related to berry aneurysms - adult PCKD</div><div><br></div><div><img src=\"paste-0291ac3d726749f10ce6a717e96fd74a22fdf645.jpg\"><br></div>"
+                            ],
+                            "guid": "yi=W:fB&]4",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ruptured {{c1::berry aneurysm}} clinically presents with a sudden onset of the \"worst headache of my life\". May have history of preceding, less severe, headaches:&nbsp;<b>{{c1::herald}} bleeds</b>.",
+                                "herald bleed - episode of haemorrhage, often accompanied by abdominal pain (may precede a catastrophic haemorrhage)."
+                            ],
+                            "guid": "G{ZQ0OD=GM",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A rarer cause of SAH is&nbsp;{{c1::vascular malformation}}.",
+                                "<img src=\"paste-ec3f3d6ecf083ce2acb860d4d63f32bf05325f5b.jpg\"><br><div><br></div><div><br></div>"
+                            ],
+                            "guid": "iL)1m;y}^!",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "With hypertension, intracerebral haemorrhages tend to be in the&nbsp;{{c1::thalamus}}, external capsule, pons and&nbsp;{{c1::cerebellum}}, and are more often&nbsp;{{c1::occipital}} than frontal or temporal. With trauma, intracerebral haemorrhage may be caused by&nbsp;{{c1::coup}} or&nbsp;{{c1::contrecoup}} mechanisms and may be situated anywhere within the hemispheres.",
+                                "can sometimes be difficult to determine if a head injury was responsible for an intracerebral haemorrhage or if an intracerebral haemorrhage led to a fall which caused a head injury."
+                            ],
+                            "guid": "8IE5y(xil",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e59b17a2-0bf8-11ec-b866-c4b301a027bc",
+                    "deck_config_uuid": "e59b21c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "paste-02190bc09b68c3514d7ef5f180983f241d4a567b.jpg",
+                        "paste-226bea45fcd276285c558b6c9b123d13be456b52.jpg",
+                        "paste-36c54722c5010cd5d638822f5ea0ecf24173dfbe.jpg",
+                        "paste-38f7ca3eb04a4271c8f35048a41c64f0eafd34d2.jpg",
+                        "paste-4948ab3f7a1023561ad825a9de4827b027abca7d.jpg",
+                        "paste-50f8e3dbcd66610db04d78ab18dc885359360543.jpg",
+                        "paste-762cb8b8692daa3920170cb002582b46891cefd7.jpg",
+                        "paste-85c035532d238c85b6c5d068198b1dda40bed83d.jpg",
+                        "paste-9d3a6a1d98ff56f22b6ccc5bf7d9e95c6a43d020.jpg",
+                        "paste-bf0852fbb52c9e8fc174cb2e1b83f8afc8adc85a.jpg",
+                        "paste-c914434725fdf133386108379e85dbd59709f758.jpg",
+                        "paste-e235dd3fdd8774a9e64c9f082db922198898809b.jpg",
+                        "paste-e4a3b6e467a1726a56ab328766f86f0909426c53.jpg",
+                        "paste-ffdbf7726688492bfd8b51ab8b095236ad649e04.jpg"
+                    ],
+                    "name": "Lecture 2: space occupying lesions and raised ICP",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Adult::Adult/Child}} brain tumours are supra-tentorial and&nbsp;{{c1::childhood::Adult/Child}} brain tumours are infra-tentorial.<br>",
+                                "<img src=\"paste-bf0852fbb52c9e8fc174cb2e1b83f8afc8adc85a.jpg\"><div><br></div><div>even benign brain tumours may lead to serious clinical deficits and poor prognosis. Crtiical regions - lethal consequences.</div><div><br><div><br></div><div><br></div><div><br></div></div>"
+                            ],
+                            "guid": "e9++7*}/7c",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Malignant tumours {{c1::rarely::commonly/rarely}} metastasize outside CNS.",
+                                ""
+                            ],
+                            "guid": "x[te<DXH$A",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Glial CNS tumours include&nbsp;{{c1::astrocytoma}} (infiltrating vs noninfiltrating),&nbsp;{{c1::oligodendroma}},&nbsp;{{c1::ependymoma}}.",
+                                "Primary CNS tumours"
+                            ],
+                            "guid": "jia!s4`~t+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Non-Glial tumours</b> include&nbsp;{{c1::neuronal}} tumours,&nbsp;{{c1::meningioma}},&nbsp;{{c1::pituitary}} adenoma,&nbsp; and {{c1::Schwannoma}} (acoustic neuroma). <b>Other </b>primary CNS tumours could include medulloblastoma and&nbsp;{{c1::hemangioblastoma}}.",
+                                "Primary CNS tumours"
+                            ],
+                            "guid": "mqHJ-q$`A~",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Infiltrating</b> {{c1::astrocytomas}} are glial tumours that make up <b>80%</b> of adult primary brain tumours. The most common location is the&nbsp;{{c1::cerebral hemisphere}}. Symptoms can include&nbsp;{{c1::seizures}}, headaches, and&nbsp;{{c1::focal}} neurological deficits. Often not possible to&nbsp;{{c1::resect}} infiltrative astrocytomas completely without compromising neurologic function.<br>",
+                                "Spectrum of differentiation: diffuse astrocytoma (grade II), anaplastic astrocytoma (grade III), glioblastoma multiforme (grade IV)<div><br></div><div><img src=\"paste-50f8e3dbcd66610db04d78ab18dc885359360543.jpg\"><br></div><div><br></div><div><br></div><div><img src=\"paste-02190bc09b68c3514d7ef5f180983f241d4a567b.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "tiSD_{{lWF",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Glioblastoma multiforme}} is a glial tumour that is a <b>grade IV astrocytoma. </b>Histological features include&nbsp;{{c1::necrosis}},&nbsp;{{c1::vascular}} proliferation,&nbsp;{{c1::palisading}} of nuclei (triad of features). It has very&nbsp;{{c1::poor::good/poor}} prognosis.<br>",
+                                "<img src=\"paste-e235dd3fdd8774a9e64c9f082db922198898809b.jpg\"><br><div>palisading - in a line</div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "PtHvfy8;(?",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A&nbsp;{{c1::pilocytic astrocytoma}} is a glial tumour that is a <b>non-infiltrating grade I astrocytoma. </b>It is accompanied by relatively {{c1::benign}} behavior in both children and young adults and may be cured by&nbsp;{{c1::resection}}.",
+                                "<img src=\"paste-226bea45fcd276285c558b6c9b123d13be456b52.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "IkQp7+9d:X",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Oligodendrogliomas}} are glial tumours that are histologically known for their delicate capillary network of \"<b>chicken wire vessels</b>\". Their cells have a perinuclear&nbsp;{{c1::halo}} (<b>\"fried egg </b>appearance). Tumours of this type that show&nbsp;{{c1::chromosome 1p/19q}} <b>co-deletion</b> have been found to be especially chemosensitive.<br>",
+                                "<img src=\"paste-762cb8b8692daa3920170cb002582b46891cefd7.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "J|*xR&<8RK",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Ependymomas}} are glial tumours that arise next to <b>ependyma-lined ventricular system.</b><br>",
+                                "<img src=\"paste-ffdbf7726688492bfd8b51ab8b095236ad649e04.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "B;9M4OGs2]",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Ganglioglioma}} is the most common type of neuronal (non-glial) tumour.<br>",
+                                ""
+                            ],
+                            "guid": "hG#w}`n7Pk",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Meningiomas}} are non-glial tumours that are benign and found in adults. They are attached to the dura and arise from&nbsp;{{c1::meningoendothelial}} cells of arachnoid. They are associated with mutations in the&nbsp;{{c1::PTEN}} tumour suppressor gene.<br>",
+                                "<img src=\"paste-36c54722c5010cd5d638822f5ea0ecf24173dfbe.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "wcq{uzcvF#",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Meningiomas have a&nbsp;{{c1::whorled}} pattern of meningothelial cells.&nbsp;{{c1::Psammomatous}} calcification is also a common histological feature.",
+                                "<img src=\"paste-9d3a6a1d98ff56f22b6ccc5bf7d9e95c6a43d020.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "tFT3FrlLa8",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Pituitary}} adenomas are non-glial tumours classified <b>based on the hormone they produce. </b>Functional tumours present earlier than non-functional tumours. They are associated with&nbsp;{{c1::lactation in men/gynecomastia}} syndrome&nbsp; and produce&nbsp;{{c1::bilateral hemianopia}} as a visual field defect.<br>",
+                                "<img src=\"paste-85c035532d238c85b6c5d068198b1dda40bed83d.jpg\"><br><div>Pituitary: ACTH, LH/FSH, GH, TSH</div><div>Posterior - oxytocin, ADH</div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "u9fMRDp!3I",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Acoustic neuroma}} is a <b>non-glial tumour</b> that is benign and arises from Schwann cells of CNVIII. It is association with&nbsp;{{c1::neurofibromatosis::genetic condition}}.<br>",
+                                "<img src=\"paste-e4a3b6e467a1726a56ab328766f86f0909426c53.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "HAu;./<h]^",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Medulloblastoma}} is a type of PNET (primitive neuroectodermal tumour) found in children. It is usually found in the&nbsp;{{c1::cerebellum}} of the brain and may be associated with&nbsp;{{c1::MYC}} amplification in more aggressive tumours. A \"small round blue cell tumour\".<br>",
+                                "<img src=\"paste-4948ab3f7a1023561ad825a9de4827b027abca7d.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "NDz!Z4~yrl",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A hemangioblastoma is a tumour found in the&nbsp;{{c1::cerebellum}} of the brain and is associated with&nbsp;{{c1::Von-Hippel-Lindau}} genetic syndrome.",
+                                "<img src=\"paste-38f7ca3eb04a4271c8f35048a41c64f0eafd34d2.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "o.39q_P,bN",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A <b>primary CNS lymphoma</b> is the most common CNS tumour in&nbsp;{{c1::immunocompromised}} individuals. It is aggressive and has a&nbsp;{{c1::poor}} response to chemotherapy compared with peripheral lymphomas.",
+                                ""
+                            ],
+                            "guid": "IUZx%P$J0&",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Metastatic}} tumours are the <b>most common brain tumours seen in community hospitals.</b> They are typically located at the&nbsp;{{c1::grey-white}} matter junction and can include&nbsp;{{c1::lung}}, breast, melanoma,&nbsp;{{c1::kidney}}, GIT, choriocarcinoma tumours.<br>",
+                                "<img src=\"paste-c914434725fdf133386108379e85dbd59709f758.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "CM!>Mn8jH{",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Raised ICP can cause cerebral&nbsp;{{c1::edema}},&nbsp;{{c1::hydrocephalus}}, and&nbsp;{{c1::herniation}}.",
+                                ""
+                            ],
+                            "guid": "hm[cx|cT!m",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cerebral edema is <b>vasogenic</b>&nbsp;and is caused by&nbsp;{{c1::blood-brain-barrier}} disruption and increased&nbsp;{{c1::vascular permeability}} (allowing fluid to shift from the intravascular compartment to the intercellular spaces of the brain). It is also&nbsp;{{c1::cytotoxic}} and causes an increase in ICF secondary to neuronal, glial or endothelial <b>cell membrane injur </b>(e.g. in someone with a generalised hypoxic/ischaemic insult or with metabolic damage).",
+                                ""
+                            ],
+                            "guid": "hq]RM|8g#)",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Cerebral edema}} is extremely common after a substantial head injury, esp. in children. It may be related to&nbsp;{{c1::DAI}} and to concussion. Brain weight matter may increase by 100g, mainly in the&nbsp;{{c1::white}} matter. It also <b>may be the only intracranial abnormality found at autopsy after a substantial head injury as occurred.</b><br>",
+                                ""
+                            ],
+                            "guid": "yYT{Bp3:>n",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "e5989a9a-0bf8-11ec-b866-c4b301a027bc",
+            "deck_config_uuid": "e598a4d6-0bf8-11ec-b866-c4b301a027bc",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Pathology",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e59daddc-0bf8-11ec-b866-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "paste-098128d0b3736854b207cef7f49f7d153f1fb111.jpg",
+                        "paste-35e29d1011e62663d1006f939f87685e9609d02b.jpg",
+                        "paste-4074e3e1f9123a2c55ed9f1533c2d73d4164e753.jpg",
+                        "paste-592ffaa663f8a1394ac3d88707129f10da3c1419.jpg",
+                        "paste-61641519dd5ac2eafce35e4095bb2a8d41ecc260.jpg",
+                        "paste-62d842012980e551df908db26f09ff2c37cd9065.jpg",
+                        "paste-6e53885e2f54cfe077752b2ccae4d608de325392.jpg",
+                        "paste-6ef069a14dbdb0f2aa4c0cf2ae960f220247187e.jpg",
+                        "paste-750a588223b7db3c1874f092ade33a40dc6cb530.jpg",
+                        "paste-8646cd0fbf94a0af4b0df32e6f5bb086a569b214.jpg",
+                        "paste-88ae3f5a68664af83c0c6939bd2ae382c5210fa0.jpg",
+                        "paste-a4606d169d310e3c397f258a000f0a0b8db4c6f3.jpg",
+                        "paste-ea892e3f039d75c8598d3caf4b5036dacba5a34a.jpg",
+                        "paste-f5856a2e0cafbdd21a408be9bf2853d8d545048e.jpg"
+                    ],
+                    "name": "CVS exam",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining the hands, check for&nbsp;{{c1::clubbing}} <b>(cyanotic congenital heart disease, IE)</b>,&nbsp;{{c1::splinter}} haemorrhages (IE, trauma, vasculitis),&nbsp;{{c1::Osler's nodes}} (Rare, IE),&nbsp;{{c1::Janeway lesions}} (non-tender),&nbsp;{{c1::Xanthomata}} (hyperlipidaemia).",
+                                "<img src=\"paste-6e53885e2f54cfe077752b2ccae4d608de325392.jpg\"><br><div><img src=\"paste-4074e3e1f9123a2c55ed9f1533c2d73d4164e753.jpg\"><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "q?oIAV|05!",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A&nbsp;{{c1::sphygmomanometer}} is used to examine BP. Listen for&nbsp;{{c1::korotkoff}} sounds and deflate the cuff at&nbsp;{{c1::2-4}} mmHg/s. The difference between arms should be less than {{c1::10}}mmHg (record higher reading). Look out for&nbsp;{{c1::postural}} hypotension which is a fall in systolic BP of &gt;20mmHg on standing.",
+                                ""
+                            ],
+                            "guid": "P|!$J}&=5S",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining the neck, check the {{c1::carotid}} pulse character. Slow rising can indicate&nbsp;{{c1::aortic stenosis}}, collapsing indicates&nbsp;{{c1::aortic regurgitation}}, alternans indicates&nbsp;{{c1::left ventricular}} failure, and jerky pulse indicates&nbsp;{{c1::HOCM}}. A <b>carotid bruit</b>&nbsp;can indicate&nbsp;{{c1::atherosclerotic disease}}.",
+                                ""
+                            ],
+                            "guid": "J83G_[al_o",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining<b> jugular venous pressure</b>, place the patient at&nbsp;{{c1::45}} degrees under good lighting. The internal jugular vein lies between the 2 heads of the&nbsp;{{c1::sternocleidomastoid}}. JVP reflects&nbsp;{{c1::right atrial}} pressure. The zero point is the&nbsp;{{c1::sternal}} angle and it is normally 3cm above this point. The JVP is visible but not&nbsp;{{c1::palpable}}, it has a complex&nbsp;{{c1::wave}} form, and decreases with&nbsp;{{c1::inspiration}}.",
+                                "<img src=\"paste-62d842012980e551df908db26f09ff2c37cd9065.jpg\"><br><div><br></div><div><br></div>"
+                            ],
+                            "guid": "sjTzR)?UJZ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "If JVP is &gt;3cm above the zero point, it is abnormal and can indicate&nbsp;{{c1::right ventricular}} failure,&nbsp;{{c1::tricuspid}} regurgitation, pericardial&nbsp;{{c1::effusion}},&nbsp;{{c1::SVC}} obstruction,&nbsp;{{c1::fluid}} overload.",
+                                "<img src=\"paste-8646cd0fbf94a0af4b0df32e6f5bb086a569b214.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "v,3.oLY^M)",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When inspecting the&nbsp;<b>praecordium</b>, look for scars. A median sternotomy could indicate a&nbsp;{{c1::CABG}} or&nbsp;{{c1::valve replacement}}. A lateral thoracotomy could indicate a&nbsp;{{c1::lobectomy}} or&nbsp;{{c1::pneumonectomy}}. An infraclavicular scar/skin lump could indicate a&nbsp;{{c1::pacemaker}}. Look out for&nbsp;{{c1::pectus excavatum}} (hollow chest), pacemaker box/defibrillator, and check the&nbsp;{{c1::apex}} beat.",
+                                "<img src=\"paste-750a588223b7db3c1874f092ade33a40dc6cb530.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "Ht1vse[?lQ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When palpating the <b>praecordium, </b>press fingers of right hand lightly against the chest wall to check the apex beat. It is normally located in the&nbsp;{{c1::5th}} intercostal space in the&nbsp;{{c1::midclavicular}} line. A&nbsp;{{c1::heaving}} character can indicate <b>fluid overload/cardiac hypertrophy</b>. A poorly localized apex beat can indicate a&nbsp;{{c1::cardiomyopathy}}. A left parasternal heave can indicate&nbsp;{{c1::right ventricular}} hypertrophy. A&nbsp;{{c1::thrill}} is a palpable murmur.&nbsp;",
+                                "Systolic thrill - aortic stenosis, mitral regurg<div>Diastolic thrill - mitral stenosis</div>"
+                            ],
+                            "guid": "Fq*o}XXZJa",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When auscultating the praecordium, the <b>bell</b> of the stethoscope is used for&nbsp;{{c1::low}} pitched sounds while the <b>diaphragm</b> is used for&nbsp;{{c1::high}} pitched sounds. Begin with bell at&nbsp;{{c1::mitral}}, then&nbsp;{{c1::tricuspid}}, then pulmonary, then&nbsp;{{c1::aortic areas}}. Follow same pattern with diaphragm.",
+                                "<img src=\"paste-88ae3f5a68664af83c0c6939bd2ae382c5210fa0.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "p+}dHr/pGd",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "S1 (First heart sound) indicates closure of&nbsp;{{c1::mitral}} and&nbsp;{{c1::tricuspid}} valve. S2 (second heart sound) indicates closure of&nbsp;{{c1::aortic}} and&nbsp;{{c1::pulmonary}} valve. Feel carotid pulse during auscultation to distinguish better - carotid impulse occurs just&nbsp;<b>{{c1::after}}</b> S1 and S2 occurs <b>{{c1::after}}</b> the impulse. Time murmurs against the pulse, in systole the pulse is&nbsp;{{c1::rising}} while in distole the pulse is&nbsp;{{c1::nonexistent}}.",
+                                "Aortic closes before pulmonary valve - normal to find \"splitting' of S2 (A2,P2)<div><img src=\"paste-a4606d169d310e3c397f258a000f0a0b8db4c6f3.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "L4j]XV*Zoi",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "S1 is heard well with the bell and diaphragm. It is loudest at or near the&nbsp;{{c1::apex}}. A <b>loud S1 </b>could indicate&nbsp;{{c1::tachycardia}} (fever, beta agonists, thyrotoxicosis), mitral&nbsp;{{c1::stenosis}}, left atrial&nbsp;{{c1::myxoma}}. A soft S1 could indicate mitral&nbsp;{{c1::regurgitation}}, MI, left&nbsp;{{c1::BBB}},&nbsp;{{c1::first}} degree heart block.",
+                                ""
+                            ],
+                            "guid": "bI{pZR9ts`",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Physiological splitting of S2 occurs during&nbsp;{{c1::inspiration::inspiration/expiration}} at the left of the&nbsp;{{c1::sternal}} border, 2nd intercostal space. Abnormal splitting can involve a {{c1::wide}}<b>&nbsp;physiologic splitting</b> of S2 which also occurs during&nbsp;{{c1::inspiration::inspiration/expiration}} and the A2P2 interval widens further (e.g. RBBB, pulmonary hypertension). It also involves&nbsp;{{c1::wide fixed::2 words}} <b>splitting</b> which occurs during inspiration and expiration. The A2P2 interval remains constant (atrial septal defect, RHF). Lastly, it involves&nbsp;{{c1::reversed}} <b>splitting</b> where A2 follows P2 (e.g. LBBB, aortic stenosis).",
+                                ""
+                            ],
+                            "guid": "DClCE8>@e@",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "S3 is a {{c1::low}} pitched sound (best heard with the bell) occuring in mid-{{c1::diastole}}. It has a&nbsp;{{c1::Gallop}} rhythm (KENTUCKY). It originates in the {{c1::ventricle}} from rapid ventricular filling and may be normal in &lt;35 years (&gt;lean people).",
+                                "<img src=\"paste-ea892e3f039d75c8598d3caf4b5036dacba5a34a.jpg\"><br><div><br></div>"
+                            ],
+                            "guid": "wlVq#m>#kZ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Causes of S3 include&nbsp;{{c1::systolic}} dysfunction and high {{c1::atrial}} pressures secondary to<b> congestive cardiac failure. </b>It can also include&nbsp;ventricular or atrial&nbsp;{{c1::septal}} defect as well as aortic or mitral {{c1::regurgitation}}.",
+                                ""
+                            ],
+                            "guid": "Q3a!&#o9ah",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "S4 occurs in late&nbsp;{{c1::diastole}} and immediately before&nbsp;{{c1::S1}}. It is abnormal at any age. Occurs due to a <b>stiff&nbsp;{{c1::ventricle}} (</b>TENNESSEE). It can be caused by&nbsp;{{c1::hypertension}},&nbsp;{{c1::ischaemic}} cardiomyopathy, HOCM, or aortic&nbsp;{{c1::stenosis}}.",
+                                "<img src=\"paste-592ffaa663f8a1394ac3d88707129f10da3c1419.jpg\"><br><div><br></div><div><br></div>"
+                            ],
+                            "guid": "h!eAek)/2O",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Prosthetic}} heart valve sounds have a clicking/metallic quality - crisp sound.<br>",
+                                ""
+                            ],
+                            "guid": "pprKzjpF~<",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Characteristics of murmurs include the&nbsp;{{c1::timing}} (systolic, diastolic, continuous), the&nbsp;{{c1::site}} of maximal intensity, the loudness which is graded from a scale of {{c1::1-6}}, the pitch, the&nbsp;{{c1::radiation}} (e.g. to the axilla or carotids), <b>dynamic&nbsp;{{c1::manoeuvres}}</b>, and <b>respiratory variation</b>. Left sided murmurs become louder on&nbsp;{{c1::expiration}} while right sided murmurs become louder on&nbsp;{{c1::inspiration}}.",
+                                "RIght and LEft (e.g. right increases on inspiration)"
+                            ],
+                            "guid": "w]W^,oEOS=",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Systolic murmurs include&nbsp;{{c1::Pansystolic}} murmurs which can be due to <b>mitral regurgitation, tricuspid regurgitation, and ventricular septal defect,&nbsp;</b>{{c1::ejection systolic}} murmurs which are <b>crescendo-decrescendo, loudest mid-systole or later, aortic stenosis, pulmonary stenosis, HOCM or atrial septal defect,&nbsp;</b>{{c1::late systolic}} murmurs which could be due to <b>mitral valve prolapse.</b>",
+                                ""
+                            ],
+                            "guid": "l`}*SnER*/",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diastolic murmurs include <b>early diastolic murmurs</b> which could be due to aortic or pulmonary&nbsp;{{c1::regurgitation}}. They also include <b>mid-diastolic murmurs</b> which could be due to mitral {{c1::stenosis}}.&nbsp;",
+                                ""
+                            ],
+                            "guid": "KojZluCjpH",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Continuous}} murmurs can be due to a patent ductus arteriosus or an arteriovenous fistula.",
+                                "Murmurs can also be due to a pericardial friction rub"
+                            ],
+                            "guid": "CYFzr{mEIF",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An easily audible murmur associated with a thrill would be given a grade of&nbsp;{{c1::IV}}. A barely audible murmur would be given a grade of&nbsp;{{c1::I}}.",
+                                "<img src=\"paste-6ef069a14dbdb0f2aa4c0cf2ae960f220247187e.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "MtT:Wi=EXz",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An easily audible murmur, associated with a thrill, and still heard with the stethoscope only lightly on the chest is given a grade of&nbsp;{{c1::V}}. An audible, but soft murmur is given a grade of&nbsp;{{c1::II}}.",
+                                "<img src=\"paste-6ef069a14dbdb0f2aa4c0cf2ae960f220247187e.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "b=}.c79B)!",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An easily audible murmur associated with a thrill, and still heard with the stethoscope off of the chest is given a grade of&nbsp;{{c1::VI}}. While an easily audible murmur is given a grade of&nbsp;{{c1::III}}.",
+                                "<img src=\"paste-6ef069a14dbdb0f2aa4c0cf2ae960f220247187e.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "NJ{).sp2hy",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dynamic manoeuvres: When listening for <b>aortic regurgitation, </b>lean the patient forward in full&nbsp;{{c1::expiration}} and listen to the&nbsp;{{c1::base}} of the heart.",
+                                "This brings the base of the heart closer to the chest wall<br><div><img src=\"paste-098128d0b3736854b207cef7f49f7d153f1fb111.jpg\"><br></div><div>gets louder with expiration</div><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "KPTD^(wCxJ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A murmur of <b>mitral stenosis</b> is exaggerated by asking the patient to <b>roll</b> towards their&nbsp;{{c1::left}} side.",
+                                "Left lateral position<div><img src=\"paste-f5856a2e0cafbdd21a408be9bf2853d8d545048e.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "AJ>W(Q!5`N",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The&nbsp;{{c1::valsalva}} manouevre is when the patient is asked to pinch their nose with fingers, close their mouth, and breath out hard to pop eardrums. <b>Systolic murmur of hypertrophic cardiomyopathy</b> becomes louder if listened to over the&nbsp;{{c1::left sternal::2 words}} edge. Murmur of <b>mitral valve prolapse</b> becomes louder if listened to over the&nbsp;{{c1::apex}}.",
+                                ""
+                            ],
+                            "guid": "leg|jYW;oH",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Functional murmurs diminish in intensity when patient&nbsp;{{c1::stands}}, sits or performs&nbsp;{{c1::Valsalva}} manoeuvre. These are localised to the left&nbsp;{{c1::sternal}} border. They are short, early, or midsystolic murmurs of grade&nbsp;{{c1::2}} or less. <b>Innocent systolic </b>murmurs occur in 5-52% of young adults and 29-60% of older persons.",
+                                ""
+                            ],
+                            "guid": "bin^&a/a7e",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining the back, percuss and auscultate the&nbsp;{{c1::lung}} bases to check for&nbsp;{{c1::left}} ventricular failure (pulmonary edema) or&nbsp;{{c1::pleural}} effusion. Also check for&nbsp;{{c1::sacral}} pitting oedema which could indicate&nbsp;{{c1::right}} heart failure.",
+                                ""
+                            ],
+                            "guid": "HP~oYB}<=j",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining the abdomen, the patient should be lying with one pillow (if tolerated). Check for tender&nbsp;{{c1::hepatomegaly}}, and for a&nbsp;{{c1::pulsatile}} liver which could indicate <b>tricuspid regurgitation</b>. Check for&nbsp;{{c1::ascites}} (fluid build up) or for an abdominal aortic&nbsp;{{c1::aneurysm}}.",
+                                ""
+                            ],
+                            "guid": "g:4]6$e@[X",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When examining the lower limbs, check for peripheral&nbsp;{{c1::edema}} (pitting/nonpitting). Check the achilles tendon for&nbsp;{{c1::xanthomata}}, check for capillary&nbsp;{{c1::return}} and for trophic&nbsp;{{c1::skin}} changes (shiny with loss of hair). Palpate the arteries, including the&nbsp;{{c1::femoral}},&nbsp;{{c1::popliteal}}, posterior tibial and dorsalis pedis.",
+                                "<img src=\"paste-61641519dd5ac2eafce35e4095bb2a8d41ecc260.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "yi|(Ms]/v-",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Examination of other miscellaneous areas during a CVS exam, include performing a&nbsp;{{c1::urinalysis}} to check for haematuria (IE), checking the&nbsp;{{c1::fundi}} of the eyes for hypertensive retinopathy or for&nbsp;{{c1::roth}} spots (IE). Also check the temperature chart for IE.",
+                                "<img src=\"paste-35e29d1011e62663d1006f939f87685e9609d02b.jpg\"><br><div><br></div><div><br></div><div><br></div>"
+                            ],
+                            "guid": "COC:`kbxVf",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "e59c9122-0bf8-11ec-b866-c4b301a027bc",
+            "deck_config_uuid": "e59c9ae6-0bf8-11ec-b866-c4b301a027bc",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Professionalism",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "e5964ff6-0bf8-11ec-b866-c4b301a027bc",
+    "deck_config_uuid": "e5969b14-0bf8-11ec-b866-c4b301a027bc",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e5969b14-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e598a4d6-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e59999a4-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e59b21c0-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e59c9ae6-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "YEAR 3",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                ""
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'>{{Extra}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n\n\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
