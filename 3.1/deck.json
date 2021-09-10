@@ -166,7 +166,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Neisseria Meningitidis</b> is a gram {{c1::negative}} aerobic diplococci. It causes&nbsp;{{c1::meningitis}}, sepsis/septic schock. It can also cause&nbsp;{{c1::pneumonia}} (10%), septic arthritis, etc. The natural reservoir of this bacteria are&nbsp;{{c1::humans}} with 5-10% of adults being {{c1::asymptomatic}} carriers.&nbsp;",
+                                "<b>Neisseria Meningitidis</b> is a gram {{c1::negative}} aerobic diplococci. It causes&nbsp;{{c1::meningitis}}, sepsis/septic shock. It can also cause&nbsp;{{c1::pneumonia}} (10%), septic arthritis, etc. The natural reservoir of this bacteria are&nbsp;{{c1::humans}} with 5-10% of adults being {{c1::asymptomatic}} carriers.&nbsp;",
                                 "Peak carriage rates in 15-19 yrs age group (up to 25%)."
                             ],
                             "guid": "CnXT>/`u^5",
@@ -226,20 +226,10 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Risk factors of meningitis include&nbsp;{{c1::young age - infants}},&nbsp;{{c1::asplenia/hyposplenism}}, {{c1::complement}} deficiencies (CS,C5-8). A C{{c1::3}} deficiency is present in various meningococcal strains while a C{{c1::5-8}} deficiency makes one prone to recurrent meningitis by serogroups W or Y. Other risk factors include&nbsp;{{c1::active/passive smoking}}, concurrent viral URTI esp. influenza, and an exposure risk (e.g. household contacts of index cases, living in closed quarters - military barracks, college halls, etc.",
+                                "Risk factors of meningitis include&nbsp;{{c1::young age - infants}},&nbsp;{{c1::asplenia/hyposplenism}}, {{c1::complement}} deficiencies (C3,C5-8). A C{{c1::3}} deficiency is present in various meningococcal strains while a C{{c1::5-8}} deficiency makes one prone to recurrent meningitis by serogroups W or Y. Other risk factors include&nbsp;{{c1::active/passive smoking}}, concurrent viral URTI esp. influenza, and an exposure risk (e.g. household contacts of index cases, living in closed quarters - military barracks, college halls, etc.",
                                 ""
                             ],
                             "guid": "ep(l,G)=Cb",
-                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "For diagnosis of meningitis: A {{c1::CT}} may be needed to confirm or rule out space occupying lesions or raised ICP. A&nbsp;{{c1::lumbar puncture}} can be used to obtain CSF - contraindications include severe&nbsp;{{c1::septic shock}}, or evidence of {{c1::abscess}} or other mass lesions.",
-                                ""
-                            ],
-                            "guid": "b4=N5]1t%_",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
                             "tags": []
                         },
@@ -310,6 +300,188 @@
                                 "4 proteins in menB - factor H binding protein, Neisseria heparin binding antigen, Neisseria adhesion A protein, PorA P1.4<br><br>-poorly immunogenic bc too similar to human glycoproteins so difficult to develop vaccine"
                             ],
                             "guid": "yI|#&tb,:F",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "12d9c52e-1261-11ec-b2ec-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-2aca6fbeff3c308681bfd171be27b9cedd6ce050.jpg",
+                        "paste-564b61084359907ae9ec413fd22de6b6cb745b5b.jpg",
+                        "paste-88138e6df071b24ccb482a7f48d88196cbe2f47f.jpg",
+                        "paste-a2a86973cfadf6a388c9b8ce99c24628604b176a.jpg",
+                        "paste-ab2dc0992e19daf7dee10c32eb971db4e71e057f.jpg",
+                        "paste-e42231d195e964ba0c138726929bb6ea72903a3f.jpg",
+                        "paste-e9d1089a25781b33dec412f637e72757493eae3f.jpg"
+                    ],
+                    "name": "09/07 Lecture 2: Antimicrobial agents: Clinical use and antimicrobial stewardship",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Antimicrobial}} agents target particular aspects of microbial replication or metabolism. They are intended to be specific for&nbsp;{{c1::microbes}} and not hosts (but NB: side effects). They are classified based on:<br>-{{c1::activity}} against type of micro-organisms<br>-molecular&nbsp;{{c1::structure}} and relatedness<br>-molecular&nbsp;{{c1::mechanism of action}}<br>*in practice, usually a combination of above",
+                                ""
+                            ],
+                            "guid": "zCG!~vd@.>",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The antimicrobial classification based on <b>activity against (classes of) micro-organisms </b>includes: {{c1::antibacterial}} activity,&nbsp;{{c1::antiviral}} activity e.g. Candida (e.g. azoles); moulds;dermatophytes, {{c1::antiprotozoal}} activity (e.g. antimalarial and antitoxoplasmal drugs),&nbsp;{{c1::antihelminthic}} activity.",
+                                ""
+                            ],
+                            "guid": "JdcK+#ty62",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Antibacterial classes involve&nbsp;{{c1::Beta lactams}} (e.g. penicillins),&nbsp;{{c1::Quinolones}} (e.g. ciprofloxacin),&nbsp;{{c1::aminoglycosides}} (e.g. gentamicin),&nbsp;{{c1::macrolides}} (e.g. clarithromycin),&nbsp;{{c1::glycopeptides}} (e.g. vancomycin),&nbsp;{{c1::tetracyclines}} (e.g. doxycycline),&nbsp;{{c1::folate}} antagonists (e.g. trimethoprim), and others (e.g. metronidazole, linezolid, fusidic acid, etc.)",
+                                ""
+                            ],
+                            "guid": "C.Q!bjGc_b",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Antimicrobial agents and MOA</b><br>-{{c1::Beta lactams}} (e.g. penicillin, cephalosporin) target penicillin-{{c1::binding proteins}} and inhibit the&nbsp;{{c1::synthesis}} and cross-{{c1::linking}} of peptidoglycan layers of bacterial cell walls.<br>-{{c1::Quinolones}} (e.g. ciprofloxacin) target DNA&nbsp;{{c1::gyrase}} and&nbsp;{{c1::topoisomerase}} and inhibit DNA&nbsp;{{c1::replication}} and&nbsp;{{c1::transcription}}.<br>-{{c1::Aminoglycosides}} (e.g. gentamicin) target bacterial&nbsp;{{c1::ribosomal}} subunit and inhibit&nbsp;{{c1::protein}} synthesis.&nbsp;<br>-{{c1::Folate antagonists}} (e.g. trimethoprim) target enzymes of&nbsp;{{c1::folate}} synthesis and inhibit&nbsp;{{c1::folate}} metabolism.",
+                                ""
+                            ],
+                            "guid": "fu5g9vz2|]",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>The Class Concept<br></b>-e.g. penicillins: benyzlpenicillin, amoxicillin, piperacillin, flucloxacillin... (common/similar molecular targets and resistant mechanism)<br>-Using any one penicillin is likely to impact to some degree on acquired {{c1::resistance}} to all. <b>If a patient is allergic to one agent, there is an increased likelihood of allergy to other members within the same&nbsp;{{c1::class}} of agents.&nbsp;</b><br>-Similar side-effects e.g.&nbsp;{{c1::nephrotoxicity}} in aminoglycosides.",
+                                ""
+                            ],
+                            "guid": "x+/,`aGG*+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A drug allergy is an {{c1::idiosyncratic}} reaction to an agent or class of agents (e.g. beta lactam hypersensitivity reactions).<br>Types of reactions include&nbsp;{{c1::skin rash}} (generally delayed reaction, maculopapular in nature) OR&nbsp;{{c1::anaphylactic-like}} reaction (which may be immediate and life threatening).<br>-Important to distinguish between allergic reaction to and&nbsp;{{c1::side-effects}} of drugs: documentation of the nature of reaction is essential.<br>-Many people who believe they are {{c1::allergic}} to penicillins are actually NOT: they are experiencing&nbsp;{{c1::side effects}} such as nausea, abdominal discomfort etc.",
+                                ""
+                            ],
+                            "guid": "b?cks^[3~t",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The exception to the&nbsp;{{c1::2}} ring structure of Beta lactams is&nbsp;{{c1::Monobactam}} which has a&nbsp;{{c1::1}} ring structure. Beta lactam classes include&nbsp;{{c1::penicillins}} (penicillin, amoxicillin, piperacillin etc.),&nbsp;{{c1::cephalosporins}} (cefotaxime, ceftazidime, etc.),&nbsp;{{c1::monobactams}} (e.g. aztreonam, etc.),&nbsp;{{c1::carbapenems}} (e.g. meropenem, imipenem, etc.)&nbsp;-<b>broadest spectrum of activity&nbsp;</b>and are useful in drug&nbsp;{{c1::resistant}} organisms,&nbsp;{{c1::beta-lactam/beta-lactamase inhibitor}} (e.g. amoxicillin-clavulanate (co-amoiclav), piperacillin-tazobactam).",
+                                "<img src=\"paste-88138e6df071b24ccb482a7f48d88196cbe2f47f.jpg\"><br><br>cephalosporins: 1st generation (Gram+ activity) while other generations have more gram - activity.<br>"
+                            ],
+                            "guid": "y+1[`ke%*m",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a2a86973cfadf6a388c9b8ce99c24628604b176a.jpg\"><br><br>The complicated wall structure of&nbsp;{{c1::Gram negative}} cells can sometimes act as a {{c1::barrier}} to antimicrobials.<br><br>",
+                                ""
+                            ],
+                            "guid": "oOc)CvaeQT",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Beta lactams</b> are a&nbsp;{{c1::broad}} group of antimicrobial agents.<br>{{c1::Narrow}}-spectrum: penicillin<br>{{c1::broad}} spectrum: cephalosporins, co-amoxiclav, piperacillin-tazobactam, carbapenems.<br>{{c1::moderate}}-spectrum: amoxicillin, piperacillin<br><br>-They are widely used in clinical infections including&nbsp;{{c1::pneumonia}} (amoxicillin, co-amoxiclav, cephalosporins),&nbsp;{{c1::meningitis}} (penicillin, cefotaxime/ceftriaxone), UTIs (co-amoxiclav, ceftriaxone),&nbsp;{{c1::skin}} infections (flucloxacillin, penicillin), intra-abdominal infetions (co-amoxiclav, cephalosporins), etc.",
+                                ""
+                            ],
+                            "guid": "woNcuiQ|bt",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Erythromycin, Clarithromycin, azithromycin </b>are&nbsp;{{c1::macrolides}} that have reasonable activity against some Gram&nbsp;{{c1::positive}} organisms (e.g. S. aureus, S. pneumoniae, atypical organisms e.g. Legionella, Mycoplasma). They are useful in&nbsp;{{c1::respiratory tract}} infections; some infections by S. aureus in cases of&nbsp;{{c1::penicillin}}-allergy.",
+                                ""
+                            ],
+                            "guid": "r{Nzj.Kc|D",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Ciprofloxacin, levofloxacin</b>, etc. are&nbsp;{{c1::Quinolones}} that are {{c1::broad}} spectrum against Gram-{{c1::negative}} organisms e.g. E.coli, Klebsiella. Some have activity against Streptococcus e.g. levofloxacin (S.pneumoniae). They are useful in&nbsp;{{c1::intra-abdominal}} infections,&nbsp;{{c1::urinary tract}} infections, levofloxacin in&nbsp;{{c1::respiratory}} tract infections. Potential side effects include&nbsp;{{c1::clostridium difficile}} infection, etc.",
+                                ""
+                            ],
+                            "guid": "RcuMfu.qf+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gentamicin, amikacin, tobramycin</b>, etc. are&nbsp;{{c1::aminoglycosides}} that have activity against Gram-{{c1::negative}} organisms. They are usually used in conjunction with other agents (e.g. beta lactam) for serious infections e.g. bloodstream infections,&nbsp;{{c1::sepsis}},&nbsp;{{c1::UTI}} or LRTI.<br>They have significant potential for toxicity:&nbsp;{{c1::nephrotoxicity}} (e.g. gentamicin, amikacin) or&nbsp;{{c1::oto}}toxicity (amikacin).",
+                                ""
+                            ],
+                            "guid": "MSCyYOe&,.",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When considering antimicrobial use, it is important to look at whether an&nbsp;{{c1::infection}} is present (clinical evidence vs lab results), the&nbsp;{{c1::site}} of infection (e.g. antimicrobials may have difficulty entering CNS), whether its a&nbsp;{{c1::bacterial}} or {{c1::viral}} infection, and if alternative measures can be taken to avoid antimicrobials (e.g. abscess drainage, wound toilet, oral rehydration for mild UTI, etc.). Appropriate antimicrobial therapy requires a look at the&nbsp;{{c1::dosage}} of drugs,&nbsp;{{c1::route}} of administration,&nbsp;{{c1::duration}} of therapy, and choice of&nbsp;{{c1::agent}}. It is important to switch from&nbsp;IV to {{c1:Oral}} Rx as early as possible.",
+                                "<img src=\"paste-2aca6fbeff3c308681bfd171be27b9cedd6ce050.jpg\"><br><img src=\"paste-e42231d195e964ba0c138726929bb6ea72903a3f.jpg\"><br><img src=\"paste-564b61084359907ae9ec413fd22de6b6cb745b5b.jpg\"><br><img src=\"paste-ab2dc0992e19daf7dee10c32eb971db4e71e057f.jpg\"><br>"
+                            ],
+                            "guid": "x}+e.Q*17P",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When prescribing antimicrobials, it is important to start smart, then&nbsp;focus. <b>Starting smart </b>involves <br>-considering the&nbsp;{{c1::site}} of infection, and the most likely and important {{c1::pathogens}}; take relevant cultures.<br>-the local antimicrobial&nbsp;{{c1::susceptibility}} patterns of the pathogens<br>-international/national/local guidelines<br>-any specific&nbsp;{{c1::contra}}-indications or considerations (allergies, renal failure..)<br>-patient's specific&nbsp;{{c1::history}} (possibly drug-resistant organisms?)<br><br><b>Focus</b> involves the <br>-identification of causative&nbsp;{{c1::pathogen}} (e.g. cultures, PCR)<br>-antimicrobial&nbsp;{{c1::susceptibility}} results of the pathogen<br>-considering whether modification of&nbsp;{{c1::empiric}} therapy is indicated<br>(Aim: focused therapy targeting the pathogen using&nbsp;{{c1::narrow}} spectrum agents if feasible).",
+                                "<img src=\"paste-e9d1089a25781b33dec412f637e72757493eae3f.jpg\"><br>**SEE Example in Antimicrobial lecture<br><br>"
+                            ],
+                            "guid": "HA)0I61j&I",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Antimicrobial use in animals</b><br>Ciprofloxacin is not used in animals but&nbsp;{{c1::enrofloxacin}} is used instead since it is absorbed and metabolised to ciprofloxacin.<br>-Fluoroquinolones include Ofloxacin,&nbsp;{{c1::ciprofloxacin}},&nbsp;{{c1::enrofloxacin}},&nbsp;{{c1::levofloacin}}, moxifloxacin, etc. The&nbsp;{{c1::class}} concept can be applied here as well since reduced susceptibility to one may imply reduced susceptibility to all.",
+                                "Antimicrobial resistant organisms in food due to use in animals may be a problem."
+                            ],
+                            "guid": "mR5N(C6H.T",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Antimicrobials are widely available legally over the counter. Counterfeit antimicrobials can also be purchased and this can result in the content being much less than marked and the medication being of&nbsp;{{c1::sub-therapeutic}} levels - leads to a greater risk of {{c1::resistance}}.",
+                                ""
+                            ],
+                            "guid": "k`)5QNPubR",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
                             "tags": []
                         }
@@ -914,7 +1086,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "{{c1::Stroke}} is a cerebrovascular accident or CVA. It is a sudden nruologic event of&nbsp;{{c1::vascular}} origin, with clinical symptoms and signs which last more than&nbsp;{{c1::24}} hours or may lead to death.",
+                                "{{c1::Stroke}} is a cerebrovascular accident or CVA. It is a sudden neurologic event of&nbsp;{{c1::vascular}} origin, with clinical symptoms and signs which last more than&nbsp;{{c1::24}} hours or may lead to death.",
                                 ""
                             ],
                             "guid": "dRH74@&-[j",
@@ -984,7 +1156,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Focal cerebral ischemia</b> follows {{c1::reduction/cessation}} of blood flow to a {{c1::localised}} area of the brain due to arterial occlusion or {{c1::hypoperfusion}} (embolisation from distant source/in situ thrombosis/vasculitis). If this is sustained it can lead to an&nbsp;{{c1::infarction}}. There is little, if any,&nbsp;{{c1::collateral}} blood flow for the deep penetrating cerebral vessels supplting structures such as thalamus, basal ganglia and deep white matter.",
+                                "<b>Focal cerebral ischemia</b> follows {{c1::reduction/cessation}} of blood flow to a {{c1::localised}} area of the brain due to arterial occlusion or {{c1::hypoperfusion}} (embolisation from distant source/in situ thrombosis/vasculitis). If this is sustained it can lead to an&nbsp;{{c1::infarction}}. There is little, if any,&nbsp;{{c1::collateral}} blood flow for the deep penetrating cerebral vessels supplying structures such as thalamus, basal ganglia and deep white matter.",
                                 ""
                             ],
                             "guid": "m,n~=P0|V3",
@@ -1004,7 +1176,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Non-haemorrhagic (<b>ischaemic</b>) stroke can be due to&nbsp;{{c1::thrombosis}},&nbsp;{{c1::embolism (most common and usually thromboembolism}}, or systemic&nbsp;{{c1::hypoperfusion}}.",
+                                "Non-haemorrhagic (<b>ischaemic</b>) stroke can be due to&nbsp;{{c1::thrombosis}},&nbsp;{{c1::embolism (most common and usually thromboembolism)}}, or systemic&nbsp;{{c1::hypoperfusion}}.",
                                 ""
                             ],
                             "guid": "hA}^W^<Y9.",
@@ -1045,7 +1217,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Ischaemia can be induced through systemic&nbsp;{{c1::hypoperfusion}}. This can lead to diffuse ischaemic/hypoxic&nbsp;{{c1::encephalopathy}}. It causes global cerebral ischaemia. Signs would be diffuse, non-{{c1::focal}}, and&nbsp;{{c1::bilateral}}. It occurs when there is a generalised reduction in cerebral {{c1::perfusion}} (cardiac arrest, shock, severe hypotension).&nbsp;{{c1::Watershed}} infarcts are usually seen <b>after hypotensive episodes</b>; occur at border zones between arterial territories.",
-                                "-Most sensitive nruones in the brain: pyramidal layer of hippocampus, cerebellar purkinje cells, pyramidal neurones in cerebral cortex.<br><br>-watershed infarcts (border zone infarcts) occur at the border between cerebral vascular terrritories where the tissue is furthest from arterial supply and thus most vulnerable to reductions in perfusion.<br><br><img src=\"paste-12f74935be703c13544cc1d633c2b57de5d83103.jpg\">"
+                                "-Most sensitive neurones in the brain: pyramidal layer of hippocampus, cerebellar purkinje cells, pyramidal neurones in cerebral cortex.<br><br>-watershed infarcts (border zone infarcts) occur at the border between cerebral vascular terrritories where the tissue is furthest from arterial supply and thus most vulnerable to reductions in perfusion.<br><br><img src=\"paste-12f74935be703c13544cc1d633c2b57de5d83103.jpg\">"
                             ],
                             "guid": "DY2&+)~9V8",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
@@ -1094,7 +1266,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "In hypertensive cerebrovascular disease, <b>rupture of small-calibre penetrating vessels </b>and development of small haemorrhages can occur. In time, these resolve and leave behind&nbsp;{{c1::slit hamemorrhages}} surrounded by brown-ish discolouration.",
+                                "In hypertensive cerebrovascular disease, <b>rupture of small-calibre penetrating vessels </b>and development of small haemorrhages can occur. In time, these resolve and leave behind&nbsp;{{c1::slit hamemorrhages}} surrounded by {{c1::brown::colour}}-ish discolouration.",
                                 ""
                             ],
                             "guid": "w:n_s<&(hR",
@@ -1142,6 +1314,946 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "824f7fc0-0fff-11ec-a0f9-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-22318441e8c5ab57691ea2ea310c351a051759c4.jpg",
+                        "paste-252fe08c7462e378d0b25c52ad0d600d76a7074f.jpg",
+                        "paste-2aa5b79fd8f2f9691b6d3ec776ab1bbc93f2ade3.jpg",
+                        "paste-2b6038756c5c2ba4b70030432d6b682d3c0d7a5f.jpg",
+                        "paste-43e064184cdbfff9cd0a43c1f466a0d4f231caca.jpg",
+                        "paste-5b1723cddc6b6b133a84e7b84b113ec66201665a.jpg",
+                        "paste-5baeadbcb978784a361f0d97cca9fb2e64981cf5.jpg",
+                        "paste-60cdc18abb167ddb11f41e090d86cac5dd68331b.jpg",
+                        "paste-66082300adb20e766b4406277e47e34795dcfe77.jpg",
+                        "paste-ecc482b2d43cce7879cca6c40ddf1bc5a44d2e2c.jpg",
+                        "paste-f4a28d51ed0024384cb8574e28db10ee9d0df5b7.jpg",
+                        "paste-f7c682e5e96623367a41fb2706ab518be1cb32e7.jpg"
+                    ],
+                    "name": "09/01 Lecture 4: Coeliac Disease",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Coeliac disease}} is the most ommon form of malabsorption in Ireland and is based on the Dutch word&nbsp;{{c1::sprue}}. It is an immune-mediated enteropathy triggered by the ingestion of&nbsp;{{c1::gluten}}-containing cereals, such as wheat, rye or barley, in&nbsp;{{c1::genetically}} predisposed individuals. This disease affects&nbsp;{{c1::1}}% of the population around the world.",
+                                "<img src=\"paste-5baeadbcb978784a361f0d97cca9fb2e64981cf5.jpg\"><br><br><br>"
+                            ],
+                            "guid": "yv4?87c(,!",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Clinical features of coeliac disease include abdominal&nbsp;{{c1::pain}} and&nbsp;{{c1::distension}},&nbsp;{{c1::anorexia}},&nbsp;{{c1::diarrhoea}} or constipation, failure to thrive in children,&nbsp;{{c1::weight loss}}, and fatigue. This disease most commonly occurs in adults of&nbsp;{{c1::30-60}} years of age.",
+                                "<img src=\"paste-252fe08c7462e378d0b25c52ad0d600d76a7074f.jpg\"><br><br><br><br><br>"
+                            ],
+                            "guid": "B{u:u[/U(3",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Coeliac disease also has <b>extraintestinal manifestations</b> which include&nbsp;{{c1::arthritis/joint pain}}, osteoporosis,&nbsp;{{c1::autoimmune thyroid disease}},&nbsp;{{c1::hypo}}splenism (unknown mechanism),&nbsp;{{c1::iron-deficiency}} anemia, short&nbsp;{{c1::stature}} and&nbsp;{{c1::pubertal}} delay in children, dermatitis&nbsp;{{c1::herpetiformis}} and lymphocytic&nbsp;{{c1::gastritis}} or&nbsp;{{c1::colitis}}.",
+                                "<img src=\"paste-60cdc18abb167ddb11f41e090d86cac5dd68331b.jpg\">&nbsp;<br>Top: Dermatitis herpetiformis (IgA)<br>Bottom: Lymphocytic gastritis/colitis<br><br><br>"
+                            ],
+                            "guid": "rA9M]V,PVh",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The pathogenesis of coeliac disease involves the interaction between&nbsp;{{c1::gluten}} and&nbsp;{{c1::immune}},&nbsp;{{c1::genetic}} and environmental factors.",
+                                ""
+                            ],
+                            "guid": "vG4ZHc&-$K",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathogenesis: The role of <b>gluten in Coeliac disease</b> - Undigested&nbsp;{{c1::gliadin}} molecules are resistant to degradation by&nbsp;{{c1::proteases}} in the intestine and thus remain in the lumen after ingestion. They pass through the epithelial barrier of the intestine, possibly during&nbsp;{{c1::infections}} or when there is an increase in intestinal&nbsp;{{c1::permeability}}, and interact with&nbsp;{{c1::APCs}} in the lamina propria.",
+                                "<br>Gliadin: subcomponent of gluten<br><br><img src=\"paste-f7c682e5e96623367a41fb2706ab518be1cb32e7.jpg\">"
+                            ],
+                            "guid": "H_XoEy8|Xp",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathogenesis: <b>Mucosal immune responses</b> - In patients with coeliac disease, immune reponses to {{c1::gliadin}} fractions promote an {{c1::inflammatory}} reaction. <br><b>Adaptive immune responses </b>are mediated by {{c1::gliadin}}-reactive CD{{c1::4}}+ T Cells, which produce proinflammatory cytokines.&nbsp;{{c1::Tissue transglutaminase (TTG)}} is an intestinal enzyme that <u>deamidates gliadin peptides</u>, increasing their&nbsp;{{c1::immunogenicity}} which leads to an inflammatory cascade.<br><b>Innate immune response </b>occurs when enterocytes increase expression of&nbsp;{{c1::IL15}}, which activates intraepithelial lymphocytes (IELs). These activated IELs become&nbsp;{{c1::cytotoxic}} and damage enterocytes.",
+                                "<br>Immunogenicity - ability to provoke an immune response.<br><img src=\"paste-2b6038756c5c2ba4b70030432d6b682d3c0d7a5f.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "mM)0qSaF%5",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathogenesis: <b>Genetic Factors - </b>These involve&nbsp;{{c1::HLADQ2}} (90% of the time, {{c1::HLADQ8}} (5% of the time), and other non-{{c1::HLA}} genes that may influence susceptibility (influence uncertain) - the rest of the 5% of the time.",
+                                ""
+                            ],
+                            "guid": "QXwS&!EJNe",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathogenesis: <b>environmental factors</b>&nbsp;- ingestion of gluten at less than&nbsp;{{c1::4}} months of age is associated with increased risk of coeliac disease.&nbsp;{{c1::Rotavirus}} infection may also be associated with an increased risk.",
+                                ""
+                            ],
+                            "guid": "NrG,f!rHst",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When performing serological tests for Coeliac Disease, it is important to check the serum&nbsp;{{c1::IgA}} for deficiency. Since the test has high {{c1::specificity}} and {{c1::sensitivity}}, it can also confirm&nbsp;{{c1::false positives}}.",
+                                "<img src=\"paste-f4a28d51ed0024384cb8574e28db10ee9d0df5b7.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "lBMLI0SKy~",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "To diagnose coeliac disease, a&nbsp;{{c1::duodenal (D2)}} biopsy should be done to observe histological features.<br><br><img src=\"paste-22318441e8c5ab57691ea2ea310c351a051759c4.jpg\"><br>In the abnormal mucosa,&nbsp;{{c1::villous}} atrophy, crypt&nbsp;{{c1::hyperplasia}}, increased&nbsp;{{c1::plasma cells}} in the lamina propria can all be observed.<br><br>",
+                                ""
+                            ],
+                            "guid": "GG%U|Cx+w*",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-66082300adb20e766b4406277e47e34795dcfe77.jpg\"><br>This image represents increased&nbsp;{{c1::IELs (Intraepithelial lymphocytes)}} as a result of the mucosal immune response. Normally, there should only be 1 lymphocyte per&nbsp;{{c1::5}} cells.<br><br>",
+                                ""
+                            ],
+                            "guid": "uYT^vh(xd4",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In adults, coeliac disease most commonly presents between ages of&nbsp;{{c1::30-60}}.&nbsp;{{c1::Silent}} coeliac disease has positive TTG serology and villous atrophy <u>without symptoms.</u>&nbsp;{{c1::Latent}} coeliac disease has positive TTG serology <u>without villous atrophy</u> <b>(may have increased IELs)</b>.",
+                                "<img src=\"paste-5b1723cddc6b6b133a84e7b84b113ec66201665a.jpg\"><br><br><br><br><br>"
+                            ],
+                            "guid": "diTH-QbrDZ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Complications of coeliac disease include&nbsp;{{c1::refractory}} coeliac disease,&nbsp;{{c1::enteropathy-associated T cell lymphoma (EATL)}} (Bad prognosis), and increased risk of {{c1::small bowel}} adenocarcinoma.",
+                                "<br><img src=\"paste-43e064184cdbfff9cd0a43c1f466a0d4f231caca.jpg\"><br><br><br>(EATL: T cell more progressive than B cell)"
+                            ],
+                            "guid": "lFs~ZQM-S#",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Refractory coeliac disease is a complication of coeliac disease that involves persistent or recurrent&nbsp;{{c1::malabsorptive}} symptoms and signs despite adherence to a gluten-free diet for &gt;{{c1::12}} months.&nbsp;",
+                                "<br>Type 1 versus Type 2"
+                            ],
+                            "guid": "APcLA!n##@",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Type 1 refractory coeliac disease involves&nbsp;{{c1::68-80}}% of all refractory coeliac disease cases. Many cases thought to relate to&nbsp;{{c1::surreptitious/secret}} ingestion of gluten causing sustained&nbsp;{{c1::inflammation}}; a minority of cases thought to relate to transition to an&nbsp;{{c1::autoimmune}} state. It also involves {{c1::Polyclonal}} expansion of T cells; risk of developing&nbsp;{{c1::EATL}} is low (3-14% at 4-6 years).",
+                                ""
+                            ],
+                            "guid": "u8!d]usFen",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Type 2 refractory coeliac disease involves&nbsp;{{c1::monoclonal}} expansion of T cells and there is a risk of developing&nbsp;{{c1::EATL}} (60% at 5 years). IELs are usually&nbsp;{{c1::negative}} for CD8 and also show variable {{c1::down}}regulation or loss of other T cell antigens. Type 2 is usually accompanied by severe&nbsp;{{c1::villous atrophy::histological feature}} and there are usually severe symptoms and features of&nbsp;{{c1::malnourishment}} (e.g. low BMI). One can also get systemic dissemination of aberrant&nbsp;{{c1::IELs)}}.",
+                                ""
+                            ],
+                            "guid": "EJ7f.x:T_P",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "EATL is a coeliac disease complication that develops in the&nbsp;{{c1::jejunum}} or&nbsp;{{c1::ileum}}. Often, patients have a history of {{c1::refractory coeliac disease}}: some patients have no history of coeliac disease. EATL presents with&nbsp;{{c1::abdominal pain}} and, not infrequently, intestinal&nbsp;{{c1::perforation}}; usually &lt;{{c1::3}} month history of symptoms. It is often a multifocal disease. Ocassionally has extra-{{c1::gastrointestinal}} sites (e.g. skin, lymph nodes, spleen).",
+                                "<img src=\"paste-ecc482b2d43cce7879cca6c40ddf1bc5a44d2e2c.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "l+XG^:=Z/F",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "EATL also has a wide range of cytological appearances, most commonly&nbsp;{{c1::pleomorphic}} medium to large-sized cells. Usually see features of coeliac disease in adjacent uninvolved intestinal mucosa. Usually retains CD{{c1::3}}, with an aberrant loss of CD{{c1::4}}, CD{{c1::5}}, and CD{{c1::8}}. Often expression of CD&nbsp;{{c1::30}} indicates a case of <b>Type 2 refractory coeliac disease progression to EATL</b>.",
+                                "<img src=\"paste-2aa5b79fd8f2f9691b6d3ec776ab1bbc93f2ade3.jpg\"><br><br><br><br><br>"
+                            ],
+                            "guid": "Nn$yN|Waq7",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Prognosis of&nbsp;EATL is&nbsp;{{c1::poor}} (multifocal disease, high rate intestinal recurrence); median survival is&nbsp;{{c1::7 months}}. Better outcomes for patients with intensive&nbsp;{{c1::chemotherapy}} and autologous&nbsp;{{c1::stem cell}} transplant.",
+                                ""
+                            ],
+                            "guid": "Pq>Ex%Lr,/",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Other forms of malabsorption involve&nbsp;{{c1::tropical}} sprue,&nbsp;{{c1::collagenous}} sprue, and&nbsp;{{c1::disaccharidase}} (lactase) deficiency.",
+                                ""
+                            ],
+                            "guid": "jO.w|<2umz",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Must see&nbsp;{{c1::positive}} serology and characteristic histological featuers on&nbsp;{{c1::duodenal}} biopsy for <b>diagnosis of coeliac disease</b>. A lifelong&nbsp;{{c1::gluten}}-free diet is required and the most serious complication is&nbsp;{{c1::EATL}}.",
+                                ""
+                            ],
+                            "guid": "dau7O))iWK",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1. Approximate incidence of coeliac disease in within the Irish population -&nbsp;{{c1::e}}.<br>2. Shows immunohistochemical positivity for CD3 and CD8 in coeliac disease -&nbsp;{{c1::i}}<br>3. Present in increased numbers in the epithelium in coeliac disease -&nbsp;{{c1::i}}<br>4. Cereal that does not contain gluten -&nbsp;{{c1::g}}<br>5. Present in increased numbers in the lamina propria in coeliac disease. -&nbsp;{{c1::c}}<br><br><br>Answer choices:<br>a. 20%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g.Oats<br>b. Wheat&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h. 40%<br>c.Plasma Cell&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; i. lymphocyte<br>d. Barley&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; j. Rye<br>e.1%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; k. neutrophil<br>f. Eosinophil&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;l. 5%<br>",
+                                ""
+                            ],
+                            "guid": "v{EMbdH1Ot",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8251c168-0fff-11ec-a0f9-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-010cad9d651f1eb9a71de1473a0c45a59564fa94.jpg",
+                        "paste-02d1abf71f0a9a45003a8a5aba56d6a3798be5b3.jpg",
+                        "paste-0c9d56a1eb0ec0315f6e138f8663d10831fd4b33.jpg",
+                        "paste-0f5b2dee49e41f4343ed2adb4819073f1a147f99.jpg",
+                        "paste-1a494f3816329b0765ed4c38c93bfb78ba3d3408.jpg",
+                        "paste-1b4e12289be44fc06b494d241538097548c49020.jpg",
+                        "paste-296a8c18f9428f5449ba32f12b2e15b80b33d6b3.jpg",
+                        "paste-33e151ed1046a121d6831edabf8f4211d28c60b9.jpg",
+                        "paste-342474f4bd3a369b34563467ada4d7042abbee98.jpg",
+                        "paste-3b14d040e130f1c9ab37c154d84998972c8447cc.jpg",
+                        "paste-463de95becf7aa2202d812babec8189d3acf6c22.jpg",
+                        "paste-8404a76b19a53f767b198dfadf8332f8be3db7a7.jpg",
+                        "paste-86b26cb7714b3892139f29dbb8980da78301d258.jpg",
+                        "paste-8c5f13ccaf927cc7bef1b6e0e61fcf987240b672.jpg",
+                        "paste-9e1f49077bf04d5d801fa44673e9d90c5ae1dd1f.jpg",
+                        "paste-a779857c799869c10b69c285d651674d022dc0d4.jpg",
+                        "paste-a9c62d28a97a38043c25464fd58c07421cbfd40e.jpg",
+                        "paste-ad01470a690543c188fbc9b4bda23fe84d8d8ae9.jpg",
+                        "paste-c7cda58ef6cb6db833b32925ffae3dfcbc896b7a.jpg",
+                        "paste-c857e388b4bf96dd42264918059c3f66f5a53b68.jpg",
+                        "paste-d34dc88599052a9f18df51382d48a873489faf1e.jpg",
+                        "paste-d5bff4602218a3252135fd30c740e7e59514d340.jpg",
+                        "paste-ee9e9d626da49f655306d26a7a23f988e69cf168.jpg",
+                        "paste-f25962ce2ef24b6e888d1dd1e1473ecbcfd329c6.jpg",
+                        "paste-f67d7b5d332e19c0a5c6ee6df803e847b0d72c14.jpg",
+                        "paste-f7f4c006a3089351cef6b7f59ee0974ccebdb773.jpg",
+                        "paste-fefdfed40778920e3c34b0b93afa686e0ee1ab67.jpg"
+                    ],
+                    "name": "09/02 Lecture 5: Oesophagitis",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The inner layer or lining of the esophagus is the&nbsp;<b>{{c1::mucosa}}</b>. This is&nbsp;{{c1::moist}} in texture so that food can pass to the stomach. The <b>sub-mucosa</b> layer of the esophagus makes&nbsp;{{c1::mucus}} which keeps the oesophagus&nbsp;{{c1::hydrated}}.<br>The&nbsp;<b>{{c1::muscle}}</b> layer of the esophagus uses the muscles to push the food down to the stomach.<br>Lastly, the&nbsp;<b>{{c1::outer}}</b> layer of the esophagus covers the esophagus.",
+                                "<img src=\"paste-fefdfed40778920e3c34b0b93afa686e0ee1ab67.jpg\"><img src=\"paste-02d1abf71f0a9a45003a8a5aba56d6a3798be5b3.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "F5aDE_6a#d",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The <b>mucosa</b> layer of the oesophagus consists of the&nbsp;{{c1::epithelium}},&nbsp;{{c1::lamina propria}}, and muscularis mucosa. Directly underneath this layer, lies the&nbsp;{{c1::submucosa}} layer, followed by the&nbsp;{{c1::muscularis propria}} layer.",
+                                "<img src=\"paste-8c5f13ccaf927cc7bef1b6e0e61fcf987240b672.jpg\"><br><img src=\"paste-f7f4c006a3089351cef6b7f59ee0974ccebdb773.jpg\"><br><br><br>"
+                            ],
+                            "guid": "yF$#wN=G]<",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Oesophagitis}} is a general term for inflammation, irritation or swelling of the oesophagus. It may damage the tissues of the oesophagus. This clinically presents with a high degree of specificity - including features of&nbsp;{{c1::dysphagia}},&nbsp;{{c1::heartburn}}, and odynophagia. It requires a differential diagnosis which could include&nbsp;{{c1::chest pain}}, functional&nbsp;{{c1::dyspepsia}}, or pericarditis.",
+                                ""
+                            ],
+                            "guid": "gT#u*Rg*N:",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Dysphagia</b> is a clinical feature of oesophagitis which involves difficulty in&nbsp;{{c1::swallowing}}. This requires further investigation as there is also a concern for peptic {{c1::stricture}} or&nbsp;{{c1::adeno}}carcinoma.<br>",
+                                ""
+                            ],
+                            "guid": "ctY|=[yGbe",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Heartburn</b>&nbsp;is a clinical feature of oesophagitis which involves episodic sub{{c1::sternal}} pain - worse after&nbsp;{{c1::meals}} and on&nbsp;{{c1::reclining::position}} and relieved, at least temporarily, by&nbsp;{{c1::antacids}} (this feature is important bc it links pain with {{c1::acidity}}). This often presents as a burning discomfort which commonly radiates toward the&nbsp;{{c1::mouth}} and is frequently accompanied by complaints of a&nbsp;{{c1::bitter}} taste in the mouth (regurgitation) or a welling up in the mouth of a&nbsp;{{c1::salty}} tasting (salivary derived) fluid. If the substernal pain is relieved by&nbsp;{{c1::antacids}} and recurs at least&nbsp;{{c1::once}} per week over an extended period - this could be a diagnosis for <b>GERD</b>.",
+                                ""
+                            ],
+                            "guid": "u&9T0ClO06",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Odynophagia is a clinical feature of oesophagitis which involves&nbsp;{{c1::painful}} swallowing and implies an acute and&nbsp;{{c1::severe}} form of esophagitis, typically with mucosal&nbsp;{{c1::ulceration}}. It is experienced substernally as an {{c1::aching}} or {{c1::stabbing}} pain that is aggravated by the act of swallowing (even saliva). Common in esophagitis caused by&nbsp;{{c1::infection}}, radiation, and&nbsp;{{c1::pills}}, but rare in esophagitis caused by<b> reflux.</b>",
+                                ""
+                            ],
+                            "guid": "D*=sV]qfX.",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "For most upper gastrointeestinal lesions, an&nbsp;{{c1::upper endoscopy}} can be used because it has a sensitivity of 90% and specificity of nearly 100%. It allows for&nbsp;{{c1::direct}} visualisation and for a more accurate and sensitive evaluation of&nbsp;{{c1::mucosal lesions}}. It can also be used to perform&nbsp;{{c1::therapeutic}} interventions and {{c1::biopsy}} specimens from superficial lesions.",
+                                ""
+                            ],
+                            "guid": "fj9*a3q*2N",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Types of oesophagitis involve&nbsp;{{c1::lacerations}},&nbsp;{{c1::chemical}},&nbsp;{{c1::infectious}},&nbsp;{{c1::eosinophilic}}, reflux, and&nbsp;{{c1::Barrett's}} Oesophagitis.",
+                                ""
+                            ],
+                            "guid": "J4u2$92J=d",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Mallory Weiss Tears</b> are longitudinal&nbsp;{{c1::lacerations}} near the&nbsp;{{c1::gastroesophageal}} junction. They are associated with&nbsp;{{c1::alcoholic binges}} and are most likely due to {{c1::mechanical}} trauma in conjunction with failure of gastroesophageal muscular&nbsp;{{c1::relaxation}}. Mucosal defect of varying range - usually involves the&nbsp;{{c1::mucosa}} and/or&nbsp;{{c1::submucosa}}. Supportive therapy is usually sufficient. Complications can involve mild/moderate&nbsp;{{c1::haemorrhage}}, rarely rupture (if they do - known as <b>Boerhaave syndrome</b>).",
+                                "<br>alcholic binges - projectile vomiting<br><img src=\"paste-0c9d56a1eb0ec0315f6e138f8663d10831fd4b33.jpg\">"
+                            ],
+                            "guid": "H|_DB/#d3)",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chemical oeosophagitis is when the stratified&nbsp;{{c1::squamous}} mucosa is damaged by alcohol,&nbsp;{{c1::corrosive acids}} or alkalis, heavy&nbsp;{{c1::smoking}}, or&nbsp;{{c1::hot}} fluids. High risk for children and household chemicals. If insufficient fluid is taken with&nbsp;{{c1::pills}}, it can result in&nbsp;{{c1::pill}} induced oesophagitis.",
+                                "<img src=\"paste-ad01470a690543c188fbc9b4bda23fe84d8d8ae9.jpg\"><br><br><br>"
+                            ],
+                            "guid": "O!Lp.=IW%;",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Infectious oesophagitis is most commonly seen in&nbsp;{{c1::immunocompromised}} patients. It can involve the&nbsp;{{c1::Candida}} virus,&nbsp;{{c1::HSV}} virus, or the CMV.",
+                                "<img src=\"paste-86b26cb7714b3892139f29dbb8980da78301d258.jpg\"><br><br><br>"
+                            ],
+                            "guid": "xY-knN4L-+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Eosinophilic}} oesophagitis is an uncommon (but becoming more common), immunologically mediated entity (food allergy). Histologically, characterised by large numbers of intraepithelial {{c1::eosinophils}}. Acid reflux {{c1::is not::is/is not}} a common cause, with PPIs {{c1::rarely::usually/rarely}} providing relief. Can manifest as chest pain or heartburn, but <b>{{c1:: solid food dysphagia}}</b> and <b>food {{c1::impaction}}</b> are characterisitic. Can also manifest as feeing intolerance or&nbsp;{{c1::GERD}} like symptoms in children.",
+                                ""
+                            ],
+                            "guid": "io-?q+D%$q",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diagnostic criteria for eosinophilic oesophagitis include endoscopic findings of rings, longitudinal {{c1::furrows}}, exudates,&nbsp;{{c1::oedema}},&nbsp;{{c1::strictures}}, white&nbsp;{{c1::plaques}}, microabscesses, etc. Concomitant&nbsp;{{c1::atopic}} conditions should increase suspicion for EoE.",
+                                "<img src=\"paste-f25962ce2ef24b6e888d1dd1e1473ecbcfd329c6.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "jX5x/CJEY4",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Some conditions associated with esophageal esoinophilia involve eosinophilic&nbsp;{{c1::gastritis}},&nbsp;{{c1::GERD}},&nbsp;{{c1::achalasia}}, and many more.",
+                                "<img src=\"paste-d5bff4602218a3252135fd30c740e7e59514d340.jpg\"><br><br>(don't really need to know all)<br><br><br>"
+                            ],
+                            "guid": "sb4#r#NL|R",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Abnormal histological features seen with eosinophilic oesophagitis include&nbsp;{{c1::intraepithelial}} eosinophils,&nbsp;{{c1::dilated}} intercellular spaces, and a&nbsp;{{c1::thickened (hyperplasia)}} basal layer.",
+                                "<img src=\"paste-ee9e9d626da49f655306d26a7a23f988e69cf168.jpg\"><br><br><br>Eosinophilic oesophagitis<br><img src=\"paste-8404a76b19a53f767b198dfadf8332f8be3db7a7.jpg\"><br><br><img src=\"paste-1a494f3816329b0765ed4c38c93bfb78ba3d3408.jpg\"><br><br><br><br><br><br><br><br>"
+                            ],
+                            "guid": "Eh=$rV%t]3",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Eosinophilic Oesophagitis treatment involves the removal of an {{c1::allergic}} reaction source.&nbsp;{{c1::PPI}} may be of limited use in a small number of patients. Topical steroids such as&nbsp;{{c1::fluticasone}} or&nbsp;{{c1::budesonide}}. May require&nbsp;{{c1::dilation}} treatments if there are strictures.&nbsp;",
+                                "<img src=\"paste-c857e388b4bf96dd42264918059c3f66f5a53b68.jpg\"><br><br><br>(don't really need to focus on)<br>"
+                            ],
+                            "guid": "fU#OR^E)mM",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::GERD}} is a condition in which the gastric or duodenal contents (food or liquid) leak backwards from the stomach into the oesophagus. This irritates the oesophagus, causing&nbsp;{{c1::heartburn}} and other symptoms. It is also known as&nbsp;{{c1::peptic}} oesophagitis. When the sphincter of muscle fibres called the&nbsp;{{c1::lower oesophageal sphincter (LES)}} doesn't close well, food, liquid, and stomach acid can leak back into the oesophagus.",
+                                ""
+                            ],
+                            "guid": "jo$JI4XxjL",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "About&nbsp;{{c1::44}}% of the adult population have heartburn at least once a month.&nbsp;{{c1::14}}% of adults have symptoms weekly.&nbsp;{{c1::7}}% have symptoms daily. Long term consequences are&nbsp;{{c1::bleeding}} (almost never massive), stricture,&nbsp;{{c1::Barrett's}} esophagus with possible&nbsp;{{c1::Barrett ulcer}}.",
+                                ""
+                            ],
+                            "guid": "c.oedI&PAh",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Risk factors for GERD involve&nbsp;{{c1::hiatal}} hernia,&nbsp;{{c1::pregnancy}}, scleroderma,&nbsp;{{c1::obesity}}, smoking,&nbsp;{{c1::alcohol}}, certain medicines (anticholinergics, B blockers, bronchodilators, dopamine, sedatives/anxiety meds, tricyclic antidepressants e.a. clomipramine), and an inverse association with&nbsp;{{c1::H.pylori}} infection.",
+                                ""
+                            ],
+                            "guid": "EO9_7}pyd*",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "GERD pathophysiology involves an <b>abnormal&nbsp;{{c1::Lower esophageal sphincter}}. </b>This can be {{c1::functional}} (frequent transient relaxation) or {{c1::mechanical}} (hypotensive LES). Certain things such as&nbsp;{{c1::foods}} (coffee,alcohol),&nbsp;{{c1::medications}} (eg calcium channel blockers), or&nbsp;{{c1::location (e.g. hiatal hernia)}} can decrease the pressure of the LES. Increased&nbsp;{{c1::abdominal pressure}} caused by things such as obesity, pregnancy, or increased gastric volume can also cause GERD.",
+                                "<img src=\"paste-010cad9d651f1eb9a71de1473a0c45a59564fa94.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "mKrc4nu$Ul",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The primary barrier to&nbsp;{{c1::gastroesophageal}} reflux is the lower esophageal sphincter. The LES normally works in conjunction with the&nbsp;{{c1::diaphragm}}. If the barrier is disrupted, acid goes from the stomach to the&nbsp;{{c1::esophagus}}.",
+                                "<img src=\"paste-0f5b2dee49e41f4343ed2adb4819073f1a147f99.jpg\"><br><br><br><br><br>"
+                            ],
+                            "guid": "A(TjQcVK{5",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When performing a diagnostic evaluation of GERD, use an <b>{{c1::upper endoscopy}}</b> to look for erosions, {{c1::ulcers}}, strictures or {{c1::Barrett's}} esophagus. An <b>esophageal&nbsp;{{c1::biopsy}}</b> can be used to check for basal cell&nbsp;{{c1::hyperplasia}}, oedema, or {{c1::inflammatory}} findings. <b>Esophageal&nbsp;{{c1::pH}} monitoring</b> can be performed by fixing a small&nbsp;{{c1::pH}} probe in the oesophagus, 5cm above the LES, and recording all episodes in which the oesophageal&nbsp;{{c1::pH}} drops to less than&nbsp;{{c1::4}} over a 24 to 48 hour period.&nbsp;",
+                                "<img src=\"paste-296a8c18f9428f5449ba32f12b2e15b80b33d6b3.jpg\"><br><br><br>"
+                            ],
+                            "guid": "dpNB#LMK19",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Currently, the preferred method for establishing GERD as the cause of symptoms (e.g. chest pain, wheezing) is an empirical trial of&nbsp;{{c1::acid}} suppression with a&nbsp;{{c1::PPI}} (e.g. omeprazole, 20mg twice daily), - which normalizes esophageal {{c1::acidity}} in approximately 95% of subjects.",
+                                ""
+                            ],
+                            "guid": "m]C*f0o<qk",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a779857c799869c10b69c285d651674d022dc0d4.jpg\"><br><br>This image reflects esophageal abnormalities present in GERD. {{c1::Inflammation}} injury, mixed acute and chronic inflammatory cells in the epithelium and lamina propria, reactive {{c1::epithelial}} changes, basal and supra-basal cell {{c1::hyperplasia}}, {{c1::elongation}} of the lamina propria papillae, and lack of squamous&nbsp;{{c1::maturation}} of the top. Inflammatory cells in GERD involve&nbsp;{{c1::lymphocytes}},&nbsp;{{c1::eosinophils (far fewer than in EoE)}}, and {{c1::neutrophils}}.<br>",
+                                "<img src=\"paste-1b4e12289be44fc06b494d241538097548c49020.jpg\"><br><br><img src=\"paste-463de95becf7aa2202d812babec8189d3acf6c22.jpg\"><br><br>"
+                            ],
+                            "guid": "rTiBqR{9;*",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Complications of GERD involve&nbsp;{{c1::erosive}} esophagitis which is responsible for&nbsp;40-60% of GERD symptoms. The severity of the symptoms often fail to match severity of the complication. Another GERD complication is esophageal&nbsp;{{c1::stricture}} which results in the healing of&nbsp;{{c1::erosive}} esophagitis. This may need {{c1::dilation}} for treatment. 8-15% of patients with GERD also develop&nbsp;{{c1::Barrett's esophagus}} as another complication. This involves intestinal&nbsp;{{c1::metaplasia}} of the esophagus. It is associated with the development of&nbsp;{{c1::adeno}}carcinoma.",
+                                "<img src=\"paste-f67d7b5d332e19c0a5c6ee6df803e847b0d72c14.jpg\"><br><br><img src=\"paste-3b14d040e130f1c9ab37c154d84998972c8447cc.jpg\"><br><br><br>"
+                            ],
+                            "guid": "I-1df5[]hQ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-9e1f49077bf04d5d801fa44673e9d90c5ae1dd1f.jpg\"><br><br><b>Label the image</b><br>1.&nbsp;{{c1::stratified squamous}}<br>2.{{c1:: transitioning to simple columnar (stomach)}}<br>3.&nbsp;{{c1::pits of gastric lining of stomach}}<br>4.&nbsp;{{c1::submucosa}}<br>5.{{c1::muscularis}}",
+                                ""
+                            ],
+                            "guid": "GV@k9ELV~I",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a9c62d28a97a38043c25464fd58c07421cbfd40e.jpg\"><br>This is the histological representation of <b>Barret's esophagus</b>. On the left hand side,{{c1::Goblet cell}} accumulation of cytoplasmic intestinal-type mucin can be seen. A universal presence of&nbsp;{{c1::chronic}} inflammation is also observed. Surface glandular epithelium with tall {{c1::columnar}} cells are seen as well.<br>",
+                                "<img src=\"paste-342474f4bd3a369b34563467ada4d7042abbee98.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "bge4R>#zE)",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-d34dc88599052a9f18df51382d48a873489faf1e.jpg\"><br><br>High grade&nbsp;{{c1::dysplasia}} in Barrett's esophagus can be observed in this image. This involves enlarged&nbsp;{{c1::hyperchromatic}} nuclei with little {{c1::cytoplasm}} left in cells. {{c1::Surface}} involvement is required to distinguish from low grade.",
+                                "<br>hyperchromatic - nucleus that looks darker than normal"
+                            ],
+                            "guid": "IgcBQViB>e",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The risk of developing esophageal cancer in Barrett's esophagus is estimated to be&nbsp;{{c1::40-100}} times.&nbsp;{{c1::Endoscopic}} surveillance is recommended for all patients with Barrett's esophagus and is performed every 2 years. {{c1::Biopsies}} are taken from the area of abnormal mucosa, if these reveal&nbsp;{{c1::low}} grade dysplasia, then the frequency of endoscopies is increased. If&nbsp;{{c1::high}} grade dysplastic changes are seen and confirmed by a second pathologist, then the risk of subsequent adenocarcinoma is greater than&nbsp;{{c1::25%}}, and surgical&nbsp;{{c1::resection}} should be considered.",
+                                ""
+                            ],
+                            "guid": "oMR(|Zg&=/",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "For GERD treatment, the goals are to relieve&nbsp;{{c1::symptoms}} and prevent&nbsp;{{c1::relapse}} and complications. All patients should be advised about&nbsp;{{c1::lifestyle}} modifications that assist with treatment goals.&nbsp;{{c1::Antacids}} or&nbsp;{{c1::antacid-alginate}} combinations are recommended for safe, prompt, inexpensive relief of heartburn.",
+                                ""
+                            ],
+                            "guid": "BUD4ERvhIP",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lifestyle modifications for GERD treatment involve&nbsp;{{c1::elevating}} the head of the bed 6 inches, stopping {{c1::smoking}} and excessive&nbsp;{{c1::alcohol}} consumption, reducing dietary&nbsp;{{c1::fat}}, reducing&nbsp;{{c1::meal}} size, avoiding bedtime&nbsp;{{c1::snacks}}, losing&nbsp;{{c1::weight (if overweight)}}, avoiding chocolate, carminatives,&nbsp;{{c1::coffee}},&nbsp;{{c1::tea}},&nbsp;{{c1::citrus fruit juices}}, tomato juice and cola beverages.",
+                                ""
+                            ],
+                            "guid": "B3%;X=h&);",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "GERD treamtent with medications involves&nbsp;{{c1::H2 blockers}} <b>(e.g. cimetidine (Geramet and Tagamet), famotidine (Pepcid), ranitidine (Zantac, Pylorid and Gertac)</b>. Treatment can also involve&nbsp;{{c1::PPIs}} <b>(e.g. esomeprazole (Nexium), omeprazole (Losec), pantoprazole (Protium)</b>.&nbsp;<br>{{c1::PPIs}} are more effective than&nbsp;{{c1::H2 blockers}}.",
+                                "<br>H2 blockers - histamine antagonists<br><br>PPI shouldn't be used long term<br>"
+                            ],
+                            "guid": "z|<VdnD6$o",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Statin}} users show a reduced risk of Barrett's esophagus as well as of oesophageal adenocarcinoma.",
+                                "<img src=\"paste-33e151ed1046a121d6831edabf8f4211d28c60b9.jpg\"><br><br><br><br><br><img src=\"paste-c7cda58ef6cb6db833b32925ffae3dfcbc896b7a.jpg\"><br><br><br>**statins may not be as effective for preventing squamous cell carcinoma"
+                            ],
+                            "guid": "nY^O%D/j[V",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "12e30eae-1261-11ec-b2ec-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-070c2a1606104e3a6c6b2c6de62164f380549ebb.jpg",
+                        "paste-08627bb6207699fc7a720a3cac76426d7c0581a7.jpg",
+                        "paste-12ed81c9c647211749ac4db002b49c0162101d99.jpg",
+                        "paste-17f554a96b7c77f963698ab0a501c3fbb95bf5ad.jpg",
+                        "paste-1eb8d250bd3b27c18857be797b748840772a4b90.jpg",
+                        "paste-449bb3f6aa210280c7dfe010b5af94d53757b22c.jpg",
+                        "paste-48aca1ed6aad601d127e6d12af3e278ed536a90d.jpg",
+                        "paste-4f30d0ddb7cc1ae685b2d45c570651ea34ace0a5.jpg",
+                        "paste-6419a901eefcdb584fb1fec361406acedcda1dde.jpg",
+                        "paste-6498c7f15aafb40f9e4e113f17a8434872e3b8e6.jpg",
+                        "paste-657c284b8b427182ac0dca0e8e91904eb5dcfe7c.jpg",
+                        "paste-6f92a3a26c42e7869d9d64e5a6ecdee55d435ff5.jpg",
+                        "paste-70f41f3c13a5f83e1546a47feac0dcb79d6331ba.jpg",
+                        "paste-77c6da03c5cb450c2549dd8225e5203f86e4ae6b.jpg",
+                        "paste-781bd6c1a362c544b76ba5a9731a95008eb81984.jpg",
+                        "paste-7a7d75063a55dabef8ba75ee197011b2cc20a61f.jpg",
+                        "paste-7ea7ec73b513502965120d26d2cee0bee7907f96.jpg",
+                        "paste-83fc48457fa07bdcc5fed7de3f706f3939f2279d.jpg",
+                        "paste-8868bea9d8f1893d4bd0068ed1a6cbc32d700bba.jpg",
+                        "paste-89371d768af97d5e5b5ba7565c0bcce20abff8c7.jpg",
+                        "paste-8c6ca592b7e36e11be8fd67e1fecbd9dad8a2775.jpg",
+                        "paste-a3b63b8b70b2de51609b343f662ef4a7d750e141.jpg",
+                        "paste-a9967878e394cb848fc7698d37c06f43243d0404.jpg",
+                        "paste-acddc7d8f0baf96b59190fab191a1642ca8f66e2.jpg",
+                        "paste-b0636b4b36b1f7c303cb66bc275363bdc110b8be.jpg",
+                        "paste-b6ca69103e4d29653d070c9a9fd5d0682d00d4fe.jpg",
+                        "paste-b6da8bb6cc116a00b92eb06a70fd31feb0a6dced.jpg",
+                        "paste-b852fdcdb3ba366e44e035ced79b30c48e41cd45.jpg",
+                        "paste-b8a68083b4277a0b4494a7be1518753057b73212.jpg",
+                        "paste-c7bcaf2db02a6d96ae3877308e96f0bea0a2111c.jpg",
+                        "paste-cce8bf1f837e29e4e1b17b381334dba7ebded3b3.jpg",
+                        "paste-dbbe4904ee120d302b37acd0a35cc57084741d24.jpg",
+                        "paste-dd940885d5e1b180cb2edfe7acc2ae57d6eecc1c.jpg",
+                        "paste-f003b50ed9853eeb5b3759c1e3afcbed14a6f939.jpg",
+                        "paste-f4b34419d15e6331cc206dced4b62cf029486e8d.jpg",
+                        "paste-f7ab1a82fa4631f7dd8f9ff51178ac98bd8e5a5b.jpg"
+                    ],
+                    "name": "09/06 Lecture 6: Gastritis",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The fundus/body of the stomach contain&nbsp;{{c1::surface mucous}} cells. Also contain deep&nbsp;{{c1::glands}} (collectively known as&nbsp;{{c1::Oxyntic}} mucosa) with <b>Parietal cells </b>secreting&nbsp;{{c1::Hydrochloric acid}} and&nbsp;{{c1::intrinsic factor}}, <b>Chief cells </b>secreting&nbsp;{{c1::pepsinogen - pepsin}}, and <b>endocrine cells </b>secreting {{c1::histamine}} and&nbsp;{{c1::somatostatin}}.",
+                                "<img src=\"paste-b6da8bb6cc116a00b92eb06a70fd31feb0a6dced.jpg\"><br><br><br>"
+                            ],
+                            "guid": "EF>C_g6c#b",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Normal fundic mucosa</b><br><br><img src=\"paste-6498c7f15aafb40f9e4e113f17a8434872e3b8e6.jpg\"><br><b>&nbsp;</b>The top part of this image shows short&nbsp;{{c1::gastric}} pits lined by pale&nbsp;{{c1::columnar}} mucous cells. The bottom part shows pink&nbsp;{{c1::parietal}} cells that secrete HCl.<br><br><img src=\"paste-17f554a96b7c77f963698ab0a501c3fbb95bf5ad.jpg\"><br>The <b>gastric pits</b>&nbsp;are composed of tall&nbsp;{{c1::mucuous}} secreting&nbsp;{{c1::columnar}} cells. With the top box producing&nbsp;{{c1::more}} mucin than the bottom box. The <b>gastric glands</b>&nbsp;are composed of&nbsp;{{c1::parietal}} cells which have brightly {{c1::eosinophilic}} cytoplasm.<br><img src=\"paste-70f41f3c13a5f83e1546a47feac0dcb79d6331ba.jpg\"><br>{{c1::Chief}} cells are mostly present in the lower half of gastric glands. They are characterized by basophilic/purple appearance due to abundant ribosomal&nbsp;{{c1::RNA}} involved in&nbsp;{{c::pepsinogen}} synthesis.",
+                                "<img src=\"paste-6419a901eefcdb584fb1fec361406acedcda1dde.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "k41>1.tZz~",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The <b>antrum</b>&nbsp;of the stomach contains surface&nbsp;{{c1::mucous}} cells and&nbsp;{{c1::mucous}} glands. This includes&nbsp;{{c1::mucous}} producing cells and&nbsp;endocrine cells (G cells) which secrete&nbsp;{{c1::Gastrin}}.",
+                                ""
+                            ],
+                            "guid": "H_RwV~N8)Y",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Normal antral type mucosa<br><br></b><img src=\"paste-7ea7ec73b513502965120d26d2cee0bee7907f96.jpg\"><b><br></b>{{c1::Mucosal glands}} can be observed in this image.<b><br><br></b><img src=\"paste-1eb8d250bd3b27c18857be797b748840772a4b90.jpg\"><br>The <b>lamina propria</b> contains stromal cells, small resident lymphocytes,&nbsp;{{c1::plasma}} cells,&nbsp;{{c1::mast}} cells, eosinophils, blood vessels, and lymphatics. No&nbsp;{{c1::neutrophils}} and no&nbsp;{{c1::lymphoid}} aggregates or follicles are normally present in lamina propria.",
+                                ""
+                            ],
+                            "guid": "lfBc@Ca0,b",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastritis&nbsp;</b>is the {{c1::inflammation}}, irritation or {{c1::swelling}} of the stomach. It may damage the&nbsp;{{c1::tissue}} of the stomach. <b>Acute gastritis</b> is the short term&nbsp;{{c1::inflammation}} of the stomach with&nbsp;{{c1::neutrophilic}} infiltrate, while <b>chronic gastritis</b> is the long standing&nbsp;{{c1::inflammation}} with&nbsp;{{c1::mononuclear}} cell infiltrate -especially lymphocytes and&nbsp;{{c1::macrophages}}.",
+                                "<img src=\"paste-08627bb6207699fc7a720a3cac76426d7c0581a7.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "Lhfz<x;wiJ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Most common forms of gastritis include infection with&nbsp;{{c1::H.Pylori}} and&nbsp;{{c1::autoimmune}} gastritis. Less common forms include&nbsp;{{c1::radiation}} gastritis, chronic&nbsp;{{c1::bile reflux}}, mechanical injury, and&nbsp;{{c1::systemic}} disease (e.g. Crohn's disease, amyloidosis, GVHD).",
+                                ""
+                            ],
+                            "guid": "D+`E)UAg/Q",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Acute gastritis</b> is a <br>-depletion in&nbsp;{{c1::mucosal}} protection system<br>-{{c1::acid/enzyme}} injury to gastric mucosa<br>-can be&nbsp;{{c1::erosive}} or&nbsp;{{c1::non-erosive}}<br>-involves&nbsp;{{c1::inflammation}},&nbsp;{{c1::erosions}}, and ulceration.<br><br>General risk factors/causes for acute gastritis include&nbsp;{{c1::drugs}},&nbsp;{{c1::alcohol (acute excess)}},&nbsp;{{c1::bile}}, infections, heavy&nbsp;{{c1::smoking}},&nbsp;{{c1::chemo}}therapy, acute ill patients/ICU (can involve trauma, sepsis, shock, or extensive&nbsp;{{c1::burns}} such as Curling's ulcer), or&nbsp;{{c1::Neurological}} disease (Cushing's ulcer).",
+                                "<br><img src=\"paste-b0636b4b36b1f7c303cb66bc275363bdc110b8be.jpg\"><br><br>Curling's ulcer - reduced plasma volume leads to ischemia and cell necrosis (sloughing) of the gastric mucosa<br><br>Cushing's ulcer - increased intracranial pressure - vagus nerve - hyperactivation of parietal cells (increased HCl)"
+                            ],
+                            "guid": "oz{IHn-V+}",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Acute erosive gastritis has risk factors including&nbsp;{{c1::NSAIDS}},&nbsp;{{c1::alcohol}},&nbsp;{{c1::cocaine}}, stress, radiation,&nbsp;{{c1::bile}} reflux. This also exhibits&nbsp;{{c1::haemorrhages}}, erosions, and&nbsp;{{c1::ulcers}}. Complications involve&nbsp;{{c1::bleeding}}, perforation, and&nbsp;{{c1::ulcers}}. Chronic bleeding can lead to&nbsp;{{c1::iron deficiency}} anemia and erosions of ulcers into the arteries can lead to life threatening&nbsp;{{c1::ulcer}} haemorrhage.",
+                                "<img src=\"paste-b8a68083b4277a0b4494a7be1518753057b73212.jpg\"><br><img src=\"paste-acddc7d8f0baf96b59190fab191a1642ca8f66e2.jpg\"><br><br><img src=\"paste-6f92a3a26c42e7869d9d64e5a6ecdee55d435ff5.jpg\">"
+                            ],
+                            "guid": "sn=fQ.u>^1",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In <b>Acute gastritis from H.Pylori,</b><br><br>the infection is usually acquired during&nbsp;{{c1::childhood::time period (age)}}. Prevalence depends on age,&nbsp;{{c1::socioeconomic}} class, and country of&nbsp;{{c1::origin}}. It typically starts as an acute gastritis in the&nbsp;{{c1::antrum}} and is generally&nbsp;{{c1::asymptomatic}}, but as it spreads it can lead to&nbsp;{{c1::chronic}} gastritis.&nbsp;<br><br><img src=\"paste-b6ca69103e4d29653d070c9a9fd5d0682d00d4fe.jpg\"><br><br>Abundant&nbsp;{{c1::neutrophilic}} infiltration is seen in acute gastritis.",
+                                ""
+                            ],
+                            "guid": "dWD%Hl*x[*",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Treatment of <b>acute gastritis&nbsp;</b>&nbsp;involves {{c1::antacids}}, {{c1::PPIs}}, H2 blockers, and the discontinuation of the use of chemicals causing problems such as&nbsp;{{c1::NSAIDS/alcohol}}.",
+                                ""
+                            ],
+                            "guid": "N5;O)VF:a}",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chronic gastritis has 3 types. Type 1 is&nbsp;{{c1::autoimmune}} gastritis and consists of&nbsp;{{c1::10}}% of cases, Type 2 is&nbsp;{{c1::helicobacter}} gastritis which is&nbsp;{{c1::90}}% of cases, and type 3 is&nbsp;{{c1::chemical}} gastropathy caused by&nbsp;{{c1::NSAIDS}}. The symptoms are {{c1::less::less/more}} severe than acute gastritis but {{c1::more::less/more}} persistent.",
+                                ""
+                            ],
+                            "guid": "euV%5c3ze,",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Autoimmune gastritis (</b>Type 1) involves progressive&nbsp;{{c1::immune}} destruction. It is also known as chronic&nbsp;{{c1::superficial}} gastritis, chronic&nbsp;{{c1::atrophic}} gastritis, gastric&nbsp;{{c1::atrophy}}, or&nbsp;{{c1::pernicious anemia}}. <br>This type of gastritis involves ---<br>-circulating&nbsp;{{c1::auto-antibodies}} (anti-GPC, intrinsic factor, proton pump)<br>-inflammation and atrophy involving the&nbsp;{{c1::fundus/corpus}} while typically sparing the&nbsp;{{c1::antrum}}<br>-low secretion of&nbsp;{{c1::acid+/- enzymes}}<br>-compensatory high serum&nbsp;{{c1::gastrin}} levels<br>-secretion of intrinsic factor is&nbsp;{{c1::decreased}}<br>-associated with low serum&nbsp;{{c1::B12}}/megaloblastic anemia and pernicious anemia.",
+                                "<img src=\"paste-b852fdcdb3ba366e44e035ced79b30c48e41cd45.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "j{^K_!4JvU",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-89371d768af97d5e5b5ba7565c0bcce20abff8c7.jpg\"><br><img src=\"paste-f7ab1a82fa4631f7dd8f9ff51178ac98bd8e5a5b.jpg\"><br>In the image of autoimmune gastritis, moderate foveolar (columnar mucosal cells)&nbsp;{{c1::hyperplasia}} (reactive gastropathy) can be observed with neither&nbsp;{{c1::inflammation}} nor metaplasia.<br><br><br><br>",
+                                ""
+                            ],
+                            "guid": "h&;:jhe?>#",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-12ed81c9c647211749ac4db002b49c0162101d99.jpg\"><br><img src=\"paste-77c6da03c5cb450c2549dd8225e5203f86e4ae6b.jpg\"><br>This image shows absence of&nbsp;{{c1::parietal}} cells, intestinal&nbsp;{{c1::metaplasia}}, and may also see endocrine&nbsp;cell hyperplasia or&nbsp;{{c1::dysplasia}}.<br><br><br><br>",
+                                "<img src=\"paste-8c6ca592b7e36e11be8fd67e1fecbd9dad8a2775.jpg\"><br><br>pernicious anemia (attack on parietal cells which lead to B12 deficiency)<br>"
+                            ],
+                            "guid": "e)v5P835df",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Type II chronic gastritis is non&nbsp;{{c1::auto immune}} in origin. The distribution is altered with the&nbsp;{{c1::antrum}} of the stomach being the predominant location.&nbsp;{{c1::Acid}} secretion is often increased. Serum gastrin is generally&nbsp;{{c1::normal}}. This can progress to multifocal&nbsp;{{c1::atrophy}}. Type II is mainly caused by&nbsp;{{c1::H.pylori}}.",
+                                ""
+                            ],
+                            "guid": "m,t*<u&8=V",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The spiral shape and the&nbsp;{{c1::flagella}} facilitate H.pylori passage through the&nbsp;{{c1::mucous}} layer of the stomach. H. Pylori then attaches to gastric epithelial cells by means of&nbsp;{{c1::receptor}}-mediated&nbsp;{{c1::adhesion}}. H.Pylori feeds upon {{c1::mucin}} and are found embedded in the&nbsp;{{c1::mucous}}.",
+                                "<img src=\"paste-f4b34419d15e6331cc206dced4b62cf029486e8d.jpg\"><br>spiral shape, flagella<br><img src=\"paste-c7bcaf2db02a6d96ae3877308e96f0bea0a2111c.jpg\"><br>receptor mediated adhesion<br><img src=\"paste-48aca1ed6aad601d127e6d12af3e278ed536a90d.jpg\"><br><img src=\"paste-a3b63b8b70b2de51609b343f662ef4a7d750e141.jpg\"><br>"
+                            ],
+                            "guid": "gD%ybhMOMI",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>H.Pylori<br></b><br>-The <u>flagella</u> are responsible for bacterial&nbsp;{{c1::mobility}} and&nbsp;{{c1::chemotaxis}}.<br>-H.Pylori secretes <u>exotoxins</u> involving&nbsp;{{c1::vacuolating}} toxins which cause gastric mucosal injury<br>-H.Pylori also has <u>secretory enzymes</u> including&nbsp;{{c1::mucinase}},&nbsp;{{c1::protease}}, and lipase which causes gastric mucosal injury.<br>- The <u>urease</u> present neutralizes the&nbsp;{{c1::gastric acid}} which causes gastric mucosal injury (by ammonia)<br>-H.pylori has <u>{{c1::effectors}}</u> (typicaly involved in carcinogenesis) which are responsible for actin remodelling, IL8 induction, host cell grwoth and&nbsp;{{c1::apoptosis}} inhibition.&nbsp;",
+                                "<img src=\"paste-83fc48457fa07bdcc5fed7de3f706f3939f2279d.jpg\"><br><br><br>"
+                            ],
+                            "guid": "Lws8j_BV1?",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Consequences of H.pylori infection involve <b>antral predominant gastritis</b> which can lead to&nbsp;{{c1::duodenal ulcers}},<b> nonatrophic pangastritis</b> which can lead to&nbsp;{{c1::MALT lymphoma}} or asymptomatic H.pylori infection, and <b>corpus predominant atrophic gastritis</b> which can lead to&nbsp;{{c1::gastric}} ulcers,&nbsp;{{c1::intestinal metaplasia}},&nbsp;{{c1::dysplasia}}, and gastric cancer.",
+                                "<img src=\"paste-8868bea9d8f1893d4bd0068ed1a6cbc32d700bba.jpg\"><br><br>MALT lymphoma can be eliminated by removing all H.Pylori<br>"
+                            ],
+                            "guid": "p,}@2MhWTE",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::90}}% of patients with Type II gastritis develop duodenal ulcers.&nbsp;{{c1::70}}% of patients have gastritis/gastric ulcer (80-90% if not taking&nbsp;{{c1::NSAIDS}}). In terms of treatment effect, H. pylori clearance leads to ulcer&nbsp;{{c1::healing}}. There is a high&nbsp;{{c1::recurrence}} after ulcer healing without {{c1::bacterial}} clearance.",
+                                ""
+                            ],
+                            "guid": "ssWT||z,k6",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When diagnosing H.Pylori infection, the following can be used<br>-{{c1::blood}} test to check for&nbsp;{{c1::antibodies}} to H.pylori<br>-{{c1::breath}} test for 13C&nbsp;{{c1::urea}} blood test<br>-{{c1::stool}} test for foreign antigens associated with H.Pylori<br>-{{c1::endoscopy}} exam to get a biopsy analysed for H.Pylori infection",
+                                ""
+                            ],
+                            "guid": "Hx6L`Y(@(R",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "First line treatment of H.Pylori includes&nbsp;{{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND&nbsp;metronidazole. These are all given for&nbsp;{{c1::7}} days or in the case of a relapse or maltoma, they are given for&nbsp;{{c1::14}} days.<br>A regimen of {{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND amoxicillin can also be given instead.&nbsp; (Given for the same duration)",
+                                "<img src=\"paste-cce8bf1f837e29e4e1b17b381334dba7ebded3b3.jpg\"><br><img src=\"paste-f003b50ed9853eeb5b3759c1e3afcbed14a6f939.jpg\"><br><br><img src=\"paste-781bd6c1a362c544b76ba5a9731a95008eb81984.jpg\"><br>"
+                            ],
+                            "guid": "jQ#@)J.Rw>",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a9967878e394cb848fc7698d37c06f43243d0404.jpg\"><img src=\"paste-070c2a1606104e3a6c6b2c6de62164f380549ebb.jpg\"><br><br>This image shows the presence of&nbsp;{{c1::lymphoid}} aggregates in the {{c1::lamina}} propria.<img src=\"paste-7a7d75063a55dabef8ba75ee197011b2cc20a61f.jpg\"><br>This image is of intestinal metaplasia in gastric antral mucosa. The open arrows show residual&nbsp;{{c1::antral}} type epithelium (normal). The closed arrows show&nbsp;{{c1::intestinal metaplasia}} and the presence of&nbsp;{{c1::goblet}} cells can be observed.<br><br>",
+                                ""
+                            ],
+                            "guid": "ch8*jQ8-~H",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Location</b>: H.pylori in&nbsp;{{c1::Antrum}} and&nbsp;Autoimmune gastritis in&nbsp;{{c1::Body}}<br><b>Inflammatory infiltrate</b>:&nbsp;H.Pylori has&nbsp;{{c1::neutrophils}}, subepithelial plasma cells while Autoimmune has&nbsp;{{c1::lymphocytes}} and&nbsp;{{c1::macrophages}}<br><b>Acid production: </b>In H.pylori it can be&nbsp;{{c1::increased to slightly decreased}}, while it is&nbsp;{{c1::decreased}} in autoimmune.<br><b>Gastrin: </b>In H.pylori it is&nbsp;{{c1::normal to decreased}} and it is&nbsp;{{c1::increased}} in autoimmune.<br><b>Serology: </b>In H.pylori, there are antibodies to H.pylori while in auroimmune there are antibodies to&nbsp;{{c1::parietal cells}} (H+ K+ ATPase, intrinsic factor)<br><b>Sequelae:</b>&nbsp;H.pylori includes&nbsp;{{c1::peptic ulcers}}, adenocarcinoma and&nbsp;{{c1::MALToma}} while Autoimmune includes atrophy,&nbsp;{{c1::pernicious anemia}},&nbsp;{{c1::adeno}}carcinoma and carcinoid tumour.<br>",
+                                "<img src=\"paste-dbbe4904ee120d302b37acd0a35cc57084741d24.jpg\">"
+                            ],
+                            "guid": "m;Xjl8&Jn?",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In Type III chronic gastritis which is&nbsp;{{c1::NSAID}} related, there is inhibition of&nbsp;{{c1::prostaglandin}} producion. These protect against acute&nbsp;{{c1::mucosal}} injury due to&nbsp;{{c1::NSAIDs}} and other injurious substances by several mechanism, including stimulation of&nbsp;{{c1::mucus}} and bicarbonate secretion, and maintenance of mucosal&nbsp;{{c1::blood}} flow.",
+                                "<br>NSAID MOA in gastritis<img src=\"paste-657c284b8b427182ac0dca0e8e91904eb5dcfe7c.jpg\">"
+                            ],
+                            "guid": "Pp`5SDC_/3",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-449bb3f6aa210280c7dfe010b5af94d53757b22c.jpg\"><br>This is an image of NSAID related gastritis showing moderate {{c1::reactive}} gastropathy involving gastric&nbsp;{{c1::oxyntic}} mucosa.<br><img src=\"paste-4f30d0ddb7cc1ae685b2d45c570651ea34ace0a5.jpg\"><br>This image is the previous image zoomed in with the arrow pointing to {{c1::smooth muscle}} fibres in superficial lamina propria (fibres shouldn't be here).<br><br>NSAID associated histological features involve&nbsp;{{c1::foveolar (columnar cell)}} hyperplasia, {{c1::oedema}} and increased&nbsp;{{c1::SM fibres}} in the lamina propria, capillary congestion, and a relative paucity of acute and chronic inflammatory cells compared to other gastritis.",
+                                ""
+                            ],
+                            "guid": "bZ!ivB;:in",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "NSAID GI toxicity risk factor includes <br>-prior history of an adverse&nbsp;{{c1::GI}} event (e.g. ulcer, haemorrhage) which increases the risk&nbsp;{{c1::4-5}} fold.<br>-Age&gt;{{c1::60}} years which increases risk 5-6 fold.<br>-High (more than twice normal) dosage of&nbsp;{{c1::NSAID}} increases risk&nbsp;{{c1::10}} fold<br>-concurrent use of&nbsp;{{c1::glucocorticoids}} increases risk 4-5 fold while concurrent risk of <b>anticoagulants</b> increases risk&nbsp;{{c1::10-15}} fold.",
+                                ""
+                            ],
+                            "guid": "F5H!K~>q<r",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Patients with a history of uncomplicated or complicated peptic ulcers SHOULD BE tested for&nbsp;{{c1::H.Pylori}} prior to beginning a NSAID or low dose&nbsp;{{c1::aspirin}}. <br>If present, this should be treated with appropriate therapy, even if it is believed that the prior&nbsp;{{c1::ulcer}} was due to NSAIDs.",
+                                "<img src=\"paste-dd940885d5e1b180cb2edfe7acc2ae57d6eecc1c.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "cDjv25@bjp",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e5989a9a-0bf8-11ec-b866-c4b301a027bc",
@@ -1182,7 +2294,7 @@
                         "paste-ea892e3f039d75c8598d3caf4b5036dacba5a34a.jpg",
                         "paste-f5856a2e0cafbdd21a408be9bf2853d8d545048e.jpg"
                     ],
-                    "name": "08/30 CVS exam",
+                    "name": "08/30 Lecture 1 CVS exam",
                     "notes": [
                         {
                             "__type__": "Note",
