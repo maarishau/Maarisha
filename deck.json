@@ -1343,7 +1343,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "{{c1::Coeliac disease}} is the most ommon form of malabsorption in Ireland and is based on the Dutch word&nbsp;{{c1::sprue}}. It is an immune-mediated enteropathy triggered by the ingestion of&nbsp;{{c1::gluten}}-containing cereals, such as wheat, rye or barley, in&nbsp;{{c1::genetically}} predisposed individuals. This disease affects&nbsp;{{c1::1}}% of the population around the world.",
+                                "{{c1::Coeliac disease}} is the most common form of malabsorption in Ireland and is based on the Dutch word&nbsp;{{c1::sprue}}. It is an immune-mediated enteropathy triggered by the ingestion of&nbsp;{{c1::gluten}}-containing cereals, such as wheat, rye or barley, in&nbsp;{{c1::genetically}} predisposed individuals. This disease affects&nbsp;{{c1::1}}% of the population around the world.",
                                 "<img src=\"paste-5baeadbcb978784a361f0d97cca9fb2e64981cf5.jpg\"><br><br><br>"
                             ],
                             "guid": "yv4?87c(,!",
@@ -1403,7 +1403,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Pathogenesis: <b>Genetic Factors - </b>These involve&nbsp;{{c1::HLADQ2}} (90% of the time, {{c1::HLADQ8}} (5% of the time), and other non-{{c1::HLA}} genes that may influence susceptibility (influence uncertain) - the rest of the 5% of the time.",
+                                "Pathogenesis: <b>Genetic Factors - </b>These involve&nbsp;{{c1::HLADQ2}} (90% of the time), {{c1::HLADQ8}} (5% of the time), and other non-{{c1::HLA}} genes that may influence susceptibility (influence uncertain) - the rest of the 5% of the time.",
                                 ""
                             ],
                             "guid": "QXwS&!EJNe",
@@ -1513,7 +1513,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "EATL also has a wide range of cytological appearances, most commonly&nbsp;{{c1::pleomorphic}} medium to large-sized cells. Usually see features of coeliac disease in adjacent uninvolved intestinal mucosa. Usually retains CD{{c1::3}}, with an aberrant loss of CD{{c1::4}}, CD{{c1::5}}, and CD{{c1::8}}. Often expression of CD&nbsp;{{c1::30}} indicates a case of <b>Type 2 refractory coeliac disease progression to EATL</b>.",
+                                "EATL also has a wide range of cytological appearances, most commonly&nbsp;{{c1::pleomorphic}} medium to large-sized cells. Usually see features of coeliac disease in adjacent uninvolved intestinal mucosa. Usually retains CD{{c1::3}}, with an aberrant loss of CD{{c1::4}}, CD{{c1::5}}, and CD{{c1::8}}. Often expression of CD&nbsp;{{c1::30}} indicates a case of <b>Type 2 refractory coeliac disease progression to&nbsp;</b>{{c1::EATL}}.",
                                 "<img src=\"paste-2aa5b79fd8f2f9691b6d3ec776ab1bbc93f2ade3.jpg\"><br><br><br><br><br>"
                             ],
                             "guid": "Nn$yN|Waq7",
@@ -1553,7 +1553,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "1. Approximate incidence of coeliac disease in within the Irish population -&nbsp;{{c1::e}}.<br>2. Shows immunohistochemical positivity for CD3 and CD8 in coeliac disease -&nbsp;{{c1::i}}<br>3. Present in increased numbers in the epithelium in coeliac disease -&nbsp;{{c1::i}}<br>4. Cereal that does not contain gluten -&nbsp;{{c1::g}}<br>5. Present in increased numbers in the lamina propria in coeliac disease. -&nbsp;{{c1::c}}<br><br><br>Answer choices:<br>a. 20%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g.Oats<br>b. Wheat&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h. 40%<br>c.Plasma Cell&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; i. lymphocyte<br>d. Barley&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; j. Rye<br>e.1%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; k. neutrophil<br>f. Eosinophil&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;l. 5%<br>",
+                                "1. Approximate incidence of coeliac disease in within the Irish population -&nbsp;{{c1::e}}.<br>2. Shows immunohistochemical positivity for CD3 and CD8 in coeliac disease -&nbsp;{{c1::i}}<br>3. Present in increased numbers in the epithelium in coeliac disease -&nbsp;{{c1::i}}<br>4. Cereal that does not contain gluten -&nbsp;{{c1::g}}<br>5. Present in increased numbers in the lamina propria in coeliac disease. -&nbsp;{{c1::c}}<br><br><br>Answer choices:<br>a. 20%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g.Oats<br>b. Wheat&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h. 40%<br>c.Plasma Cell&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; i. lymphocyte<br>d. Barley&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; j. Rye<br>e.1%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; k. neutrophil<br>f. Eosinophil&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;l. 5%<br><br><br>gluten- wheat, barley, rye",
                                 ""
                             ],
                             "guid": "v{EMbdH1Ot",
@@ -1996,7 +1996,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Normal fundic mucosa</b><br><br><img src=\"paste-6498c7f15aafb40f9e4e113f17a8434872e3b8e6.jpg\"><br><b>&nbsp;</b>The top part of this image shows short&nbsp;{{c1::gastric}} pits lined by pale&nbsp;{{c1::columnar}} mucous cells. The bottom part shows pink&nbsp;{{c1::parietal}} cells that secrete HCl.<br><br><img src=\"paste-17f554a96b7c77f963698ab0a501c3fbb95bf5ad.jpg\"><br>The <b>gastric pits</b>&nbsp;are composed of tall&nbsp;{{c1::mucuous}} secreting&nbsp;{{c1::columnar}} cells. With the top box producing&nbsp;{{c1::more}} mucin than the bottom box. The <b>gastric glands</b>&nbsp;are composed of&nbsp;{{c1::parietal}} cells which have brightly {{c1::eosinophilic}} cytoplasm.<br><img src=\"paste-70f41f3c13a5f83e1546a47feac0dcb79d6331ba.jpg\"><br>{{c1::Chief}} cells are mostly present in the lower half of gastric glands. They are characterized by basophilic/purple appearance due to abundant ribosomal&nbsp;{{c1::RNA}} involved in&nbsp;{{c::pepsinogen}} synthesis.",
+                                "<b>Normal fundic mucosa</b><br><br><img src=\"paste-6498c7f15aafb40f9e4e113f17a8434872e3b8e6.jpg\"><br><b>&nbsp;</b>The top part of this image shows short&nbsp;{{c1::gastric}} pits lined by pale&nbsp;{{c1::columnar}} mucous cells. The bottom part shows pink&nbsp;{{c1::parietal}} cells that secrete HCl.<br><br><img src=\"paste-17f554a96b7c77f963698ab0a501c3fbb95bf5ad.jpg\"><br>The <b>gastric pits</b>&nbsp;are composed of tall&nbsp;{{c1::mucuous}} secreting&nbsp;{{c1::columnar}} cells. With the top box producing&nbsp;{{c1::more}} mucin than the bottom box. The <b>gastric glands</b>&nbsp;are composed of&nbsp;{{c1::parietal}} cells which have brightly {{c1::eosinophilic}} cytoplasm.<br><img src=\"paste-70f41f3c13a5f83e1546a47feac0dcb79d6331ba.jpg\"><br>{{c1::Chief}} cells are mostly present in the lower half of gastric glands. They are characterized by basophilic/purple appearance due to abundant ribosomal&nbsp;{{c1::RNA}} involved in&nbsp;{{c1::pepsinogen}} synthesis.",
                                 "<img src=\"paste-6419a901eefcdb584fb1fec361406acedcda1dde.jpg\"><br><br><br><br>"
                             ],
                             "guid": "k41>1.tZz~",
@@ -2116,8 +2116,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-12ed81c9c647211749ac4db002b49c0162101d99.jpg\"><br><img src=\"paste-77c6da03c5cb450c2549dd8225e5203f86e4ae6b.jpg\"><br>This image shows absence of&nbsp;{{c1::parietal}} cells, intestinal&nbsp;{{c1::metaplasia}}, and may also see endocrine&nbsp;cell hyperplasia or&nbsp;{{c1::dysplasia}}.<br><br><br><br>",
-                                "<img src=\"paste-8c6ca592b7e36e11be8fd67e1fecbd9dad8a2775.jpg\"><br><br>pernicious anemia (attack on parietal cells which lead to B12 deficiency)<br>"
+                                "<img src=\"paste-12ed81c9c647211749ac4db002b49c0162101d99.jpg\"><br><img src=\"paste-77c6da03c5cb450c2549dd8225e5203f86e4ae6b.jpg\"><br>This image shows absence of&nbsp;{{c1::parietal}} cells, intestinal&nbsp;{{c1::metaplasia}}, {{c1::pseudopyloric}} metaplasia and may also see endocrine&nbsp;cell hyperplasia or&nbsp;{{c1::dysplasia}}.<br><br><br><br>",
+                                "<img src=\"paste-8c6ca592b7e36e11be8fd67e1fecbd9dad8a2775.jpg\"><br><br>pernicious anemia (attack on parietal cells which lead to {{c1::B12}} deficiency)<br>"
                             ],
                             "guid": "e)v5P835df",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
@@ -2146,7 +2146,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>H.Pylori<br></b><br>-The <u>flagella</u> are responsible for bacterial&nbsp;{{c1::mobility}} and&nbsp;{{c1::chemotaxis}}.<br>-H.Pylori secretes <u>exotoxins</u> involving&nbsp;{{c1::vacuolating}} toxins which cause gastric mucosal injury<br>-H.Pylori also has <u>secretory enzymes</u> including&nbsp;{{c1::mucinase}},&nbsp;{{c1::protease}}, and lipase which causes gastric mucosal injury.<br>- The <u>urease</u> present neutralizes the&nbsp;{{c1::gastric acid}} which causes gastric mucosal injury (by ammonia)<br>-H.pylori has <u>{{c1::effectors}}</u> (typicaly involved in carcinogenesis) which are responsible for actin remodelling, IL8 induction, host cell grwoth and&nbsp;{{c1::apoptosis}} inhibition.&nbsp;",
+                                "<b>H.Pylori<br></b><br>-The <u>flagella</u> are responsible for bacterial&nbsp;{{c1::mobility}} and&nbsp;{{c1::chemotaxis}}.<br>-H.Pylori secretes <u>exotoxins</u> involving&nbsp;{{c1::vacuolating}} toxins which cause gastric mucosal injury<br>-H.Pylori also has <u>secretory enzymes</u> including&nbsp;{{c1::mucinase}},&nbsp;{{c1::protease}}, and lipase which causes gastric mucosal injury.<br>- The <u>urease</u> present neutralizes the&nbsp;{{c1::gastric acid}} which causes gastric mucosal injury (by ammonia)<br>-H.pylori has <u>{{c1::effectors}}</u> (typicaly involved in carcinogenesis) which are responsible for actin remodelling, IL8 induction, host cell growth and&nbsp;{{c1::apoptosis}} inhibition.&nbsp;",
                                 "<img src=\"paste-83fc48457fa07bdcc5fed7de3f706f3939f2279d.jpg\"><br><br><br>"
                             ],
                             "guid": "Lws8j_BV1?",
@@ -2186,7 +2186,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "First line treatment of H.Pylori includes&nbsp;{{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND&nbsp;metronidazole. These are all given for&nbsp;{{c1::7}} days or in the case of a relapse or maltoma, they are given for&nbsp;{{c1::14}} days.<br>A regimen of {{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND amoxicillin can also be given instead.&nbsp; (Given for the same duration)",
+                                "First line treatment of H.Pylori includes&nbsp;{{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND&nbsp;{{c1::metronidazole}}. These are all given for&nbsp;{{c1::7}} days or in the case of a relapse or maltoma, they are given for&nbsp;{{c1::14}} days.<br>A regimen of {{c1::PPI}} PLUS&nbsp;{{c1::clarithromycin}} AND {{c1::amoxicillin}} can also be given instead.&nbsp; (Given for the same duration)",
                                 "<img src=\"paste-cce8bf1f837e29e4e1b17b381334dba7ebded3b3.jpg\"><br><img src=\"paste-f003b50ed9853eeb5b3759c1e3afcbed14a6f939.jpg\"><br><br><img src=\"paste-781bd6c1a362c544b76ba5a9731a95008eb81984.jpg\"><br>"
                             ],
                             "guid": "jQ#@)J.Rw>",
@@ -2196,7 +2196,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<img src=\"paste-a9967878e394cb848fc7698d37c06f43243d0404.jpg\"><img src=\"paste-070c2a1606104e3a6c6b2c6de62164f380549ebb.jpg\"><br><br>This image shows the presence of&nbsp;{{c1::lymphoid}} aggregates in the {{c1::lamina}} propria.<img src=\"paste-7a7d75063a55dabef8ba75ee197011b2cc20a61f.jpg\"><br>This image is of intestinal metaplasia in gastric antral mucosa. The open arrows show residual&nbsp;{{c1::antral}} type epithelium (normal). The closed arrows show&nbsp;{{c1::intestinal metaplasia}} and the presence of&nbsp;{{c1::goblet}} cells can be observed.<br><br>",
+                                "<img src=\"paste-a9967878e394cb848fc7698d37c06f43243d0404.jpg\"><img src=\"paste-070c2a1606104e3a6c6b2c6de62164f380549ebb.jpg\"><br><br>This image shows the presence of&nbsp;{{c1::lymphoid}} aggregates in the {{c1::lamina}} propria.<br><br><img src=\"paste-7a7d75063a55dabef8ba75ee197011b2cc20a61f.jpg\"><br>This image is of intestinal metaplasia in gastric antral mucosa. The open arrows show residual&nbsp;{{c1::antral}} type epithelium (normal). The closed arrows show&nbsp;{{c1::intestinal metaplasia}} and the presence of&nbsp;{{c1::goblet}} cells can be observed.<br><br>",
                                 ""
                             ],
                             "guid": "ch8*jQ8-~H",
@@ -2206,7 +2206,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Location</b>: H.pylori in&nbsp;{{c1::Antrum}} and&nbsp;Autoimmune gastritis in&nbsp;{{c1::Body}}<br><b>Inflammatory infiltrate</b>:&nbsp;H.Pylori has&nbsp;{{c1::neutrophils}}, subepithelial plasma cells while Autoimmune has&nbsp;{{c1::lymphocytes}} and&nbsp;{{c1::macrophages}}<br><b>Acid production: </b>In H.pylori it can be&nbsp;{{c1::increased to slightly decreased}}, while it is&nbsp;{{c1::decreased}} in autoimmune.<br><b>Gastrin: </b>In H.pylori it is&nbsp;{{c1::normal to decreased}} and it is&nbsp;{{c1::increased}} in autoimmune.<br><b>Serology: </b>In H.pylori, there are antibodies to H.pylori while in auroimmune there are antibodies to&nbsp;{{c1::parietal cells}} (H+ K+ ATPase, intrinsic factor)<br><b>Sequelae:</b>&nbsp;H.pylori includes&nbsp;{{c1::peptic ulcers}}, adenocarcinoma and&nbsp;{{c1::MALToma}} while Autoimmune includes atrophy,&nbsp;{{c1::pernicious anemia}},&nbsp;{{c1::adeno}}carcinoma and carcinoid tumour.<br>",
+                                "<b>Location</b>: H.pylori in&nbsp;{{c1::Antrum}} and&nbsp;Autoimmune gastritis in&nbsp;{{c1::Body}}<br><b>Inflammatory infiltrate</b>:&nbsp;H.Pylori has&nbsp;{{c1::neutrophils}}, subepithelial plasma cells while Autoimmune has&nbsp;{{c1::lymphocytes}} and&nbsp;{{c1::macrophages}}<br><b>Acid production: </b>In H.pylori it can be&nbsp;{{c1::increased to slightly decreased}}, while it is&nbsp;{{c1::decreased}} in autoimmune.<br><b>Gastrin: </b>In H.pylori it is&nbsp;{{c1::normal to decreased}} and it is&nbsp;{{c1::increased}} in autoimmune.<br><b>Serology: </b>In H.pylori, there are antibodies to H.pylori while in autoimmune there are antibodies to&nbsp;{{c1::parietal cells}} (H+ K+ ATPase, intrinsic factor)<br><b>Sequelae:</b>&nbsp;H.pylori includes&nbsp;{{c1::peptic ulcers}}, adenocarcinoma and&nbsp;{{c1::MALToma}} while Autoimmune includes atrophy,&nbsp;{{c1::pernicious anemia}},&nbsp;{{c1::adeno}}carcinoma and carcinoid tumour.<br>",
                                 "<img src=\"paste-dbbe4904ee120d302b37acd0a35cc57084741d24.jpg\">"
                             ],
                             "guid": "m;Xjl8&Jn?",
@@ -2250,6 +2250,617 @@
                                 "<img src=\"paste-dd940885d5e1b180cb2edfe7acc2ae57d6eecc1c.jpg\"><br><br><br><br>"
                             ],
                             "guid": "cDjv25@bjp",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e027226e-157d-11ec-b429-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screen Shot 2021-09-12 at 11.38.46 AM.png",
+                        "paste-30a44e0ce69a960e216060403659a6ba41a9db2e.jpg",
+                        "paste-414a4f267111df45b3ea461903c679fb80c36712.jpg",
+                        "paste-586bd2e547d2ad7f267850d71870a0c078bf6774.jpg",
+                        "paste-6c74c57e3444a579f514f6d6eaf3f96753ab2118.jpg",
+                        "paste-c0ae1748b490a9b6cac2cb0237933dea9771ed32.jpg",
+                        "paste-ca4f204cce88132c83c2bfa486dbe131aabdd039.jpg",
+                        "paste-e31403b59f65c3d3c8127422f3c2fa812e6d5d37.jpg"
+                    ],
+                    "name": "09/08 Lecture 7: Chronic Inflammatory Bowel Disease",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Chronic Inflammatory Bowel Disorder}} consists of 2 inflammatory disorders of unknown cause affecting the GIT and share many common features. This involves&nbsp;{{c1::Crohn disease}} and&nbsp;{{c1::Ulcerative colitis}} which are both chronic, relapsing {{c1::inflammatory}} disorders of obscure origin.",
+                                ""
+                            ],
+                            "guid": "PZ[>4m/[TO",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ulcerative Colitis is a&nbsp;{{c1::nongranulomatous}} inflammatory disease limited to the&nbsp;{{c1::colon}}.<br>Crohns disease is a&nbsp;{{c1::granulomatous}} disease that may affect any portion of the {{c1::GIT}} (from esophagus to anus). Both exhibit&nbsp;{{c1::extraintestinal}} inflammatory manifestations.",
+                                ""
+                            ],
+                            "guid": "hw~O98/sG=",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The pathogenesis of CIBD is&nbsp;{{c1::unknown (best designated as idiopathic)}}.&nbsp;&nbsp;<br>Hypothesis:<br>1. {{c1::Genetic}} - Twins-Families-close relatives (HLA 27, HLADR2)<br>2. Abnormal host&nbsp;{{c1::immunoreactivity}} -&nbsp;{{c1::autoimmune}} disease.<br>3.&nbsp;{{c1::Infectious}} causes (e.g. mycobacteria paratuberculosis",
+                                ""
+                            ],
+                            "guid": "g,S(CFKn%A",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Morphology of Crohn's disease</b><br>- Can affect any part of&nbsp;{{c1::GIT}}<br>-Terminal&nbsp;{{c1::ileum}} (regional enteritis)<br>-&nbsp;{{c1::skip}} lesions (10cm inflammed, 10cm normal...)<br>-{{c1::transmural}} chronic inflammation (affects all layers - mucosa, submucosa..)<br>-{{c1::noncaseating}} granuloma<br>-Mucosal acute inflammation with deep&nbsp;{{c1::fissuring}} (deeper than ulcers which are generally shallow)<br>-{{c1::Fistula}} formation (e.g. colon-uterus)<br>-marked&nbsp;{{c1::fibrosis}} of the wall",
+                                "<br>fistula: abnormal connection between 2 hollow organs<br>fibrosis: granuloma will always heal by fibrosis and leave a scar<br><br><br><img src=\"paste-c0ae1748b490a9b6cac2cb0237933dea9771ed32.jpg\">"
+                            ],
+                            "guid": "zwT@kBn$l*",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-e31403b59f65c3d3c8127422f3c2fa812e6d5d37.jpg\"><br><br>Label histology of Crohn's disease:<br>1.&nbsp;{{c1::Lumen}}<br>2.&nbsp;{{c1::Inflammed area}}<br>3.&nbsp;{{c1::Inflammation}}<br>4.&nbsp;{{c1::Mucosa}}<br>5.&nbsp;{{c1::Muscle}}<br>6.&nbsp;{{c1::Transmural}}<br>7.&nbsp;{{c1::Fat}}<br><br><img src=\"paste-586bd2e547d2ad7f267850d71870a0c078bf6774.jpg\"><br>Label:<br>1. {{c1::Fissure}}<br>2.&nbsp;{{c1::Inflammed mucosa}}<br><br><img src=\"paste-414a4f267111df45b3ea461903c679fb80c36712.jpg\"><br>This is an image of&nbsp;{{c1::granuloma}} with the presence of&nbsp;{{c1::multinucleated giant cell (Langhans)}}.",
+                                "<br>-Fissure will continue until reaches the serosa, will adhere to uterus, bladder, etc. (Fistula - could cause UTI, abnormal menstruation, etc.)<br>-Granuloma: collection of epithelial cells with giant cells"
+                            ],
+                            "guid": "WQ;CONH1~",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Clinical Features of CD:</b><br>-can be variable<br>-{{c1::Diarrhea}}, fever, abdominal&nbsp;{{c1::pain}}<br>-{{c1::asymptomatic}} periods<br>- Fecal&nbsp;{{c1::blood}} leading to&nbsp;{{c1::anemia}}<br>-<b>Severe lower abdominal&nbsp;{{c1::pain}}</b> -could be acute appendicitis (right ileac fossa pain)<br>-intestinal&nbsp;{{c1::obstruction}} (fibrosis -healing of granuloma)<br>-{{c1::fistulas}} (maybe due to fissures)<br>-{{c1::protein&nbsp; (hypoalbuminemia)}} loss&nbsp;<br>-{{c1::Vitamin B12}} malabsorption (issues w ileum - anemia)",
+                                "<br>-right ileac fossa pain - if due to crohn's disease, do not operate!<br>-hypoalbuminemia - no digestion, blood loss, fistula<br>-CD: treat with (60mg) steroids (but has many complications). When they go into recovery, reduce steroid dose."
+                            ],
+                            "guid": "fSednKTGS)",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-30a44e0ce69a960e216060403659a6ba41a9db2e.jpg\"><br><br>This is an image of&nbsp;{{c1::pseudopolyps}} that can develop in ulcerative colitis.<br><br><img src=\"paste-6c74c57e3444a579f514f6d6eaf3f96753ab2118.jpg\"><br>This is an image of an&nbsp;{{c1::ulcer}} which is flat and&nbsp;{{c1::shallow}}.<br><img src=\"paste-ca4f204cce88132c83c2bfa486dbe131aabdd039.jpg\"><br>This is an image of&nbsp;{{c1::crypts}} and&nbsp;{{c1::crypt}} abscess in ulcerative colitis.<br><br><br><img src=\"Screen Shot 2021-09-12 at 11.38.46 AM.png\"><br>This image represents an area of dysplasia from ulcerative colitis:<br>1.&nbsp;{{c1::crypt}}<br>2.&nbsp;{{c1::mucous vacuoles}}<br>3. demarcated single line of&nbsp;{{c1::nuclei}}<br>4.&nbsp;{{c1::stratified}} and&nbsp;{{c1::hyperchromatic}} nuclei. No mucous present in 4.",
+                                "In the last image, the disease is controlled but there is an area of dysplasia. (severe dysplasia requires surgery)<br>-Age is important when treating dysplasia"
+                            ],
+                            "guid": "ElzM1tzQ_7",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Clinical features of UC:</b><br>-Similarity to&nbsp;{{c1::CD}}<br>-Variable (relapse and exacerbation)<br>-{{c1::mucoid}} diarrhea (sometimes&nbsp;{{c1::blood}} stained)<br><b>-massive&nbsp;{{c1::bleeding}} - characteristic of UC</b><br>-<u>obstruction due to&nbsp;{{c1::toxic}} megacolon (has to be removed) or&nbsp;{{c1::cancer}}.</u>",
+                                ""
+                            ],
+                            "guid": "AXIy$[ic[/",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Complications of UC:<br></b>-{{c1::anemia}}<br>- massive {{c1::bleeding}}<br>- toxic {{c1::megacolon}} (may present with vomiting feces)<br>-&nbsp;{{c1::cancer}}<br><br><b>Treatment</b><br>1. medical<br>2.&nbsp;{{c1::surgical}}",
+                                "<br>Crohn's<br>-Surgery: if medicine has failed OR fistula formation OR cancer indication<br><br>UC:<br>-Surgery: if medicine has failed (success depends on stage of UC) OR massive bleeding OR toxic megacolon OR severe dysplasia/cancer"
+                            ],
+                            "guid": "H-//$3z*/m",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Extraintestinal manifestations </b>(may present with these symptoms)<br>-poly{{c1::arthritis}}<br>-{{c1::ankylosing}} spodylitis<br>-erythema&nbsp;{{c1::nodosum}}<br>-primary sclerosing&nbsp;{{c1::cholangitis}}<br>-{{c1::uveitis}}",
+                                "<br>-Crohn's starts in GIT but..complains of joint pain, erythema, lower back pain, inflammation in GB, etc.<br>-Autoimmune disease - systemic disease but usually starts with one organ<br><br><br>-polyarthritis: at least 5 joints are affected with arthritis<br>-ankylosing spondylitis - long term condition where the spine and other areas of body become inflammed<br>-erythema nodosum - type of panniculitis - inflammatory disorder affecting subcut fat<br>-primary sclerosing cholangitis - inflammation causes scars within the bile ducts<br>-"
+                            ],
+                            "guid": "r!to./U]G~",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An obstruction in Crohn's is due to&nbsp;{{c1::fibrosis}} while an obstruction in UC is due to&nbsp;{{c1::toxic megacolon}} (inflammatory neutrophils secrete radicals causing colon muscle to become paralyzed).",
+                                "Toxic megacolon - Has to be removed&nbsp;"
+                            ],
+                            "guid": "MuOLbN*Uox",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e028b610-157d-11ec-b429-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-1a6cec3efefaa9cda9fc41139ff7013eda446adb.jpg",
+                        "paste-23a1366222dca9738c0df53291666f556510e46d.jpg",
+                        "paste-2819917e8852aab525b302c74d5705efa3ffcc1d.jpg",
+                        "paste-2ab73d1cfe4b422979e553d1a69bf0d7b15fd41e.jpg",
+                        "paste-3f723a0554e425e364b5724708d24c93bad2a1c8.jpg",
+                        "paste-40b8aec9121be2e84fe08dcdac586cefced020d2.jpg",
+                        "paste-4c01058b4e77b09578978e853b26a7c0eb021c10.jpg",
+                        "paste-4f497387fd87f8673f9ff473d18c75fa9d10ffde.jpg",
+                        "paste-5005022aa46aa1bd0357604b14df52a0f71b351d.jpg",
+                        "paste-67dc0a4a141aa20ce99bb99b5ab28fb51afe1cdd.jpg",
+                        "paste-74f9b49e96f9afed0df316d6a43ba30adfd7f931.jpg",
+                        "paste-7e04e03348d5989e3fea052364927e7cdf0c8e97.jpg",
+                        "paste-7f25ca59c0af4989fbb5ebd441b8526da602d16c.jpg",
+                        "paste-8ec875bc4e4e1189e80123766c0c248e63ec0b98.jpg",
+                        "paste-972a508ee04cdeccabf04f25955d991e99e5f9a0.jpg",
+                        "paste-9ba4993d83a9817c8735ef1f7938453d930c5b50.jpg",
+                        "paste-a8e1214ad1da2936f2142f2c604fce80e9891eae.jpg",
+                        "paste-bde7bb28d95fcde0aa8acdc748159bf780a8f387.jpg",
+                        "paste-d49502622be8c2dddb74954f0244ff98eb9f06b9.jpg",
+                        "paste-d82546c0a3fd2ac82ba1a7fcae98ef5896302505.jpg",
+                        "paste-f1e79895872d7400d60876280ae2584509da331a.jpg",
+                        "paste-f4c3fc3d576edda5893728ecbfee534302d1f3c6.jpg",
+                        "paste-fec5feb620c754363778329c8753c209d766c1f2.jpg"
+                    ],
+                    "name": "09/08 Lecture 8: Oesophageal and Gastric Cancer",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Benign tumours </b>involve:<br>-{{c1::adenomas}}<br>-{{c1:: leiomyoma}}<br>-{{c1::schwanomma}}<br>-{{c1::granular}} cell tumour (uncommon)<br><br><b>Malignant tumours<br></b>2 main ones:<br>-{{c1::Squamous carcinoma}} (oesophagus)<br>-{{c1::adenocarcinoma}}<br>Rest:<br>-{{c1::small}} cell carcinoma (uncommon but aggressive)<br>-lymphoma<br>-{{c1::endocrine}} tumours (low grade malignant potential)<br>-{{c1::GI Stromal}} tumours (GIST) (mesenchymal tissue on stomach wall)<br>-{{c1::Kaposis}} sarcoma (immune deficiency - vascular tumour)",
+                                ""
+                            ],
+                            "guid": "FO{;}JbPaB",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oesophageal Cancer</b><br>-{{c1::Squamous (SCC)}} cell carcinoma is the commonest oeso tumour worldwide.<br>-{{c1::Adenocarcinoma}} has had an increased incidence in the last 2 decades - now approaching SCC - up to&nbsp;{{c1::50}}% of all oeso carcinoma in US<br>-{{c1::Small}} cell carcinoma is uncommon<br>",
+                                "Squamous and adenocarcinoma differ in risk factors and site of disease."
+                            ],
+                            "guid": "rT.kgM9%A8",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oesophageal squamous cell carcinoma risk factors:</b><br>-{{c1::Nitrates}} and nitrosamines<br>-{{c1::tobacco}} smoke<br>-{{c1::alcohol}}<br>-{{c1::vitamin}} deficiencies<br>-{{c1::achalasia}} (motility disorder of oesophagus)<br>-strictures<br>-HPV",
+                                "<br><br>premalignant - dysplasia (low and high grade)<br>-adjacent to invasive SCC in 60-90% of cases<br>*low grade - high grade - invasive pathway"
+                            ],
+                            "guid": "g.eG_#iplA",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oesophageal SCC - macroscopic</b><br>-Affects the upper oesophagus&nbsp;{{c1::10-20}}%, mid esophagus ({{c1::50-60}}%, or lower esophagus&nbsp;{{c1::30}}%.<br>-Luminal growth obstruction due to the tumour can cause&nbsp;{{c1::dysphagia}} and&nbsp;{{c1::weight}} loss.<br>-Characterisitcs are {{c1::ulcerating}}, infiltrating, and&nbsp;{{c1::poly}}ploid",
+                                "<img src=\"paste-3f723a0554e425e364b5724708d24c93bad2a1c8.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "r~5*#@=4|a",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oesophageal SCC - microscopic</b><br>-{{c1::Dysplastic}} squamous epithelium&nbsp;<br>-Invades&nbsp;{{c1::submucosa}} and deeper<br>= +/- {{c1::keratinisation}}, intercellular&nbsp;{{c1::bridges}}<br>-{{c1::poorly}} differentiated sheets of cells<br>-carcino{{c1::sarcoma}}",
+                                "<br>carincosarcoma = carincoma (squamous epithelium) + sarcoma<br><br><img src=\"paste-67dc0a4a141aa20ce99bb99b5ab28fb51afe1cdd.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "xD%:of,V[n",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oesophageal adenocarcinoma</b><br>-almost all develop in association with pre-existing&nbsp;{{c1::Barretts oesophagus}}.<br>-Associated with gastroesophageal&nbsp;{{c1::reflux}} in the&nbsp;{{c1::distal}} oesophagus.<br>-6-12% of patients with GE&nbsp;{{c1::reflux}} develop Barretts.<br>-0.5 to 1% per year of patients with Barretts will develop&nbsp;{{c1::adenocarcinoma}}.",
+                                ""
+                            ],
+                            "guid": "MGpou2iOH9",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Barretts Oesophagus/metaplasia</b><br>-Normal {{c1::squamous}} lined epithelium replaced by {{c1::columnar}} epithelium.<br>-Due to chronic GE&nbsp;{{c1::reflux}}<br>-Metaplasia<br>-Most easily recognised -&nbsp;{{c1::goblet}} cells (intestinal) present",
+                                "<br>HALLMARK<br><br><img src=\"paste-2819917e8852aab525b302c74d5705efa3ffcc1d.jpg\">"
+                            ],
+                            "guid": "c[an&Zx+1h",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Barretts oesophagus has a risk associated with&nbsp;{{c1::dysplasia}}.<br>-<b>Low grade - </b>involves crowding, {{c1::basal}} nuclei - 3 year surveillance.<br>-<b>High grade - </b>{{c1::stratified}} nuclei,&nbsp;{{c1::pleo}}morphism,&nbsp;{{c1::mitoses}}&nbsp; to surface -&nbsp;{{c1::yearly}} follow up after surgery.<br>-Nodule,&nbsp;{{c1::ulcer}}, and HG -&nbsp;{{c1::40}}% risk of adjacent ca.",
+                                "<img src=\"paste-d82546c0a3fd2ac82ba1a7fcae98ef5896302505.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "A/XhUerVy=",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Identifying dysplasia is a challenge in Barretts oesophagus.<br>-Inter-observer&nbsp;{{c1::variation::variation/agreement}} in low grade dysplasia.<br>-inter-observer&nbsp;{{c1::agreement::variation/agreement}} in high grade dysplasia.<br>-{{c1::p53}} marker increased expression in most cases of dysplasia.",
+                                "<img src=\"paste-40b8aec9121be2e84fe08dcdac586cefced020d2.jpg\"><br><br>brown-p53<br><br>"
+                            ],
+                            "guid": "DPS{#!OEUp",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>oesophageal adenocarcinoma</b><br>-macroscopic:&nbsp;{{c1::ulcer}}, mass, +/- extends across&nbsp;{{c1::gastropesophageal}} junction<br>-microscopic -&nbsp;invasive malignant {{c1::glands}}.",
+                                "<img src=\"paste-8ec875bc4e4e1189e80123766c0c248e63ec0b98.jpg\"><br>may not see background barretts"
+                            ],
+                            "guid": "D6;>HX+[`g",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>oesophageal carcinoma prognosis</b><br>- invasion through&nbsp;{{c1::oesophagus}} wall - trachea,&nbsp;{{c1::aorta}}, pericardium.<br>-{{c1::60}}% have lymph node metastases at presentation<br>-overall&nbsp;{{c1::5}} year survival is 30-40% higher in those with {{c1::early}} (less invasive) disease and node&nbsp;{{c1::negative}}.<br>-Most adenocarcinomas have invaded&nbsp;{{c1::muscularis propria}} at presentation. {{c1::10-20}}% 5 year survival.",
+                                ""
+                            ],
+                            "guid": "c0?xQA~q,(",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The commonest tumour of gastric cancer is gastric&nbsp;{{c1::adenocarcinoma}}. The second commonest cancer in world with 800K new cases per year (650K deaths). Decreased incidence associated with:<br>-decreased&nbsp;{{c1::salt}} intake<br>-decreased&nbsp;{{c1::salt}} for fish/{{c1::meat}} preservation<br>-increased&nbsp;{{c1::fresh fruit}}/veg in diet<br>Increased advances in early detection in&nbsp;{{c1::high}} incidence areas.",
+                                ""
+                            ],
+                            "guid": "QuH9MWe{j0",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric adenocarcinoma</b><br>-<u>High incidence</u> (&gt;40/100000 M pop) in East&nbsp;{{c1::Asia}},&nbsp;{{c1::Andes}} regions of S. America,&nbsp;{{c1::East}} Europe<br>-<u>Low incidence</u> (&lt;15/100000 M pop) in N. America,&nbsp;{{c1::North}} Europe, Most of&nbsp;{{c1::Africa}}, and&nbsp;{{c1::Southeast}} Asia.<br><br>20-fold difference between the high to low incidence areas.",
+                                ""
+                            ],
+                            "guid": "mcTh#y7jeQ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Etiology</b> of <b>gastric adenocarcinoma</b> includes&nbsp;<br>-{{c1::diet}}<br>-{{c1::Bile}} reflux<br>-{{c1::H.Pylori}}<br>-{{c1::Oxidative}} stress<br>-interference with anti-{{c1::oxidant}} function<br>-{{c1::DNA}} damage (point mutations).",
+                                ""
+                            ],
+                            "guid": "l#Plduc?FN",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<u>Gastric adenocarcinoma and diet</u><br><b>High risk</b><br>-{{c1::Salt}}<br>-{{c1::Smoked}}/Cured meat/{{c1::fish}}<br>-{{c1::pickled}} vegetables<br>-{{c1::chilli}} peppers<br><b>Low Risk<br></b>-{{c1::fruit}}/{{c1::veggies}}",
+                                ""
+                            ],
+                            "guid": "sUssQ+U*ZD",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric adenocarcinoma and diet<br>-</b>benefits of fruit and veg:&nbsp;{{c1::antioxidant}} effect. Key protective agents:&nbsp;{{c1::ascorbic}} acid,&nbsp;{{c1::carotenoids}}, folate.<br>-role unclear:&nbsp;{{c1::alcohol}}, nitrosamines, tobacco.",
+                                ""
+                            ],
+                            "guid": "Pz&1@C+-&x",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::H.Pylori}} is a rod shaped organism that lives in mucus over gastric epithelium. Most frequent cause of&nbsp;{{c1::chronic gastritis}}. It is associated with gastric&nbsp;{{c1::adenocarcinoma}} and lymphoma.",
+                                "<img src=\"paste-bde7bb28d95fcde0aa8acdc748159bf780a8f387.jpg\"><br><br><br><br><br>"
+                            ],
+                            "guid": "P]O0Z%kttP",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "H.Pylori<br><b>Causes and results:</b><br>1. Chronic&nbsp;{{c1::Gastritis}} - intestinal&nbsp;{{c1::metaplasia}}<br>2. Decreased&nbsp;{{c1::acid}} secretion - increased&nbsp;{{c1::pH}} (nitrosated products - carcinogens)<br>3. Decreased intra gastric&nbsp;{{c1::ascorbic acid}} - loss of&nbsp;{{c1::antioxidant}} AA (increased oxidants)<br>4. Increased&nbsp;{{c1::oxidants}} - DNA&nbsp;{{c1::point}} mutations",
+                                ""
+                            ],
+                            "guid": "Mh;M?<0[u1",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gastric adenocarcinoma <b>symptoms and signs<br>- </b>often very {{c1::late}} in presentation (80-90% in low incidence countries)<br><br>-Early - <b>50%</b> will have non-specific {{c1::dyspepsia}}<br><br>-<b>Late</b> - persistent abdominal&nbsp;{{c1::pain}}<br>&nbsp; - unrelieved by&nbsp;{{c1::eating}}<br>&nbsp; -&nbsp;{{c1::bleeding}} (ulceration) - hematemesis<br>&nbsp; - Gastric outlet&nbsp;{{c1::obstruction}}<br>&nbsp; -&nbsp;{{c1::Anorexia}} and&nbsp;{{c1::weight}} loss&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp; (disseminated disease)",
+                                ""
+                            ],
+                            "guid": "HM9GYte2K/",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Endoscopy}} and&nbsp;{{c1::biopsy}} are used to diagnose gastric adenocarcinoma.<br>-Early gastric cancer - presents with a slight change in mucosa {{c1::colour}} and {{c1::architecture.}}<br>-Advanced cancer is an obvious&nbsp;{{c1::lesion}}<br>-{{c1::barium}} meal is used as part of mass screening in some countries followed by {{c1::endoscopy}} if abnormality detected.",
+                                ""
+                            ],
+                            "guid": "A5w~-@[9K^",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Early Gastric Cancer}} is carcinoma confined to the mucosa or to mucosa and submucosa regardless of LN status. Aim of screening programmes is to detect {{c1::EGC}} in {{c1::high}} risk areas. In screening areas - 80% of cancers detected are {{c1::EGC}}. In low incidence areas - 80-90% of cancers are&nbsp;{{c1::advanced}} at presentation.",
+                                ""
+                            ],
+                            "guid": "q&Nyh@OeUJ",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric adenocarcinoma macroscopic appearance</b><br>-commonest site is the&nbsp;{{c1::distal}} stomach (antro-pyloric region)<br>-next commonest is the&nbsp;{{c1::body}} of the stomach -&nbsp;{{c1::greater}} or&nbsp;{{c1::lesser}} curve.<br><br><b>Macroscopic</b> appearances involve:<br>-elevated&nbsp;{{c1::lesion}}<br>-poly{{c1::poid}}<br>-{{c1::ulcer}}<br>-diffuse infiltrative&nbsp;{{c1::linitis plastica}} (leather stomach)",
+                                "<img src=\"paste-f1e79895872d7400d60876280ae2584509da331a.jpg\"><img src=\"paste-9ba4993d83a9817c8735ef1f7938453d930c5b50.jpg\">"
+                            ],
+                            "guid": "c:;**YR]89",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Microscopic</b> appearances of gastric cancer involve:<br>-{{c1::intestinal}} type<br>-{{c1::mucinous}} (extracellular mucin)<br>-{{c1::papillary}}<br>-{{c1::signet}} rings",
+                                ""
+                            ],
+                            "guid": "iqs7UN??s?",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-d49502622be8c2dddb74954f0244ff98eb9f06b9.jpg\"><br>This is an image of intestinal&nbsp;{{c1::metaplasia}} - carcinoma sequence.<br><br><img src=\"paste-23a1366222dca9738c0df53291666f556510e46d.jpg\"><br>This is an image of&nbsp;{{c1::signet ring}} carcinoma<br><br>",
+                                ""
+                            ],
+                            "guid": "K`m9m9ys_3",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Precursor lesions </b>of gastric adenocarcinoma involve&nbsp;<br>-{{c1::gastritis}} (chronic H.Pylori, autoimmune)<br>-intraepithelial&nbsp;{{c1::neoplasia}}<br>-adenoma<br>-{{c1::polyps}}",
+                                "<img src=\"paste-7e04e03348d5989e3fea052364927e7cdf0c8e97.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "KWfoWS<(`|",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric Dysplasia<br><br>-Low grade dysplasia </b>has some mild {{c1::crowding}} and some nuclear {{c1::atypia}}.<br><img src=\"paste-a8e1214ad1da2936f2142f2c604fce80e9891eae.jpg\"><br>-<b>High grade dysplasia - </b>marked cell crowding, nuclear&nbsp;{{c1::pleomorphism}},&nbsp;{{c1::stratification}}.<br><img src=\"paste-1a6cec3efefaa9cda9fc41139ff7013eda446adb.jpg\"><br>",
+                                ""
+                            ],
+                            "guid": "Pt1?Jd/>sI",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-7f25ca59c0af4989fbb5ebd441b8526da602d16c.jpg\"><br><br>1.&nbsp;{{c1::10}}%<br>2.{{c1::carcinoma}}<br>3.&nbsp;{{c1::hyperplastic}}<br>4.&nbsp;{{c1::neoplastic}}<br>5.&nbsp;{{c1::Polyposis}}",
+                                ""
+                            ],
+                            "guid": "mcVliaEw6X",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gastric&nbsp;{{c1::Adenomas}} make up 10% of all gastric polyps. They are circumscribed&nbsp;{{c1::benign}} lesions.<br>-Involves both low and high grade&nbsp;{{c1::dysplasia}}<br>-&lt;2cm 2% risk of&nbsp;{{c1::malignant}} transformation<br>-&gt;2cm 40-50%&nbsp;{{c1::malignant}} transformation<br><br><img src=\"paste-4c01058b4e77b09578978e853b26a7c0eb021c10.jpg\">",
+                                ""
+                            ],
+                            "guid": "FY(/`3a28h",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric neoplasia<br><br></b>{{c1::Intraepithelial}} neoplasia = confined to surface epithelium (dysplasia, low and high grade) e.g. adenoma<br><div>{{c1::Intramucosal}} carcinoma = invasion of lamina propria</div>\n<div>{{c1::Early\nGastric}} cancer = carcinoma confined to mucosa or into submucosa</div>\n<div>{{c1::Advanced\nGastric}}&nbsp;<span style=\"font-style: italic;\">cancer </span>&nbsp;= invasion deeper than submucosa</div>",
+                                ""
+                            ],
+                            "guid": "hdb-B0-`NY",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Molecular genetics of gastic carinoma</b><br><br>{{c1::Majority::majority/minority}} of gastric cancer is sporadic.<br>-{{c1::10}}% have an inherited familial component. Family clustering with a&nbsp;{{c1::dominant}} inheritance pattern.<br>- studies suggest a small increased risk of gastric cancer in&nbsp;{{c1::first}} degree relatives<br>-hereditary diffuse gastric cancer (e-cadherin)<br>-gastric cancer as part of hereditary&nbsp;{{c1::nonpolyposis colon::2 words}} cancer (HNPCC)<br>-rarely gastric cancer in&nbsp;{{c1::Peutz Jeghers}} syndrome<br>-Blood group&nbsp;{{c1::A}} associated with gastric cancer.",
+                                ""
+                            ],
+                            "guid": "LJ:1NDz#eX",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric carcinoma prognosis<br><br></b>-EGC with <b>small mucosal lesions &lt; 4cm with low incidence of vessel invasion</b> - 10 year survival up to&nbsp;{{c1::90}}%<br><b>-</b>EGC <b>with vessel invasion</b> -&nbsp;{{c1::65}}% 5 year survival<br>-Advanced Gastric cacncer -&nbsp;{{c1::TNM}} staging system - prognostic info<br>-LN positive 5 year survival&nbsp;{{c1::5-40}}%<br>-Diffuse carcinoma&nbsp;{{c1::poorer}} prognosis than intestinal subtype",
+                                "<img src=\"paste-74f9b49e96f9afed0df316d6a43ba30adfd7f931.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "zXuFYDntn+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Advances in treatment of oesophageal and gastric cancer<br></b><br><b>-</b>{{c1::Neoadjuvant}} therapy - chemo and radiotherapy<br>-Oesophagus and Gastric - similar -&nbsp;{{c1::capcita}}bine, 5FU and&nbsp;{{c1::Cisplatin}}<br>-{{c1::MAGIC}} study - gastric<br>-{{c1::metal}} stent to improve<br>-surgical&nbsp;{{c1::excision}} - distal oesophagus and prox gastrectomy;gastrectomy/+/- distal gastrectomy<br>-post op chemotherapy<br>",
+                                ""
+                            ],
+                            "guid": "iABZakaVTl",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastroc/OG junction carcinoma and herceptin</b><br><br>-{{c1::ToGA}} trial - phase 3 randomized multicentre trial<br>- &gt;3800 gastric ca<br>-&nbsp;{{c1::Trastuzumab}} (herceptin) assoc with reduced death risk (26%) and&nbsp;{{c1::survival}} benefit in advanced {{c1::HER2}} positive gastric cancer",
+                                "<br><br><br><img src=\"paste-5005022aa46aa1bd0357604b14df52a0f71b351d.jpg\">"
+                            ],
+                            "guid": "NrLTNd`vJO",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric lymphoma<br><br></b>{{c1::10}}% of all gastric cancers are lymphomas<br><b>-Non Hodgkins lymphoma - 2 main types</b><br>1. Low grade lymphomas arising from&nbsp;{{c1::mucosal associated lymphoid tissue}} in bowerl (MALT lymphomas)<br>2. High Grade {{c1::B cell NHL}} (majority): some of these will have evolved through progression of low grade lymphoma.",
+                                ""
+                            ],
+                            "guid": "wFdE`3)2;&",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric Lymphoma etiology<br><br>-</b>&nbsp;low grade lymphomas, MALT lymphomas arising from mucosa associated lymphoid tissue in&nbsp;{{c1::stomach}} wall;<br>-{{c1::H.Pylori}} associated and regress with&nbsp;{{c1::H.Pylori}} eradication<br>-High grade diffuse large&nbsp;{{c1::B cell NHL}}<br>-Increased incidence of lymphoma with {{c1::immune}} deficiency also (e.g. AIDS)",
+                                ""
+                            ],
+                            "guid": "bH[h7hO9;g",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric lymphoma microscopic</b><br><br>-High grade - diffuse large B cell&nbsp;<br>-Large cells infilitrate and destroy&nbsp;{{c1::glandular}} epithelium and invade deeply<br>-prominent&nbsp;{{c1::nucleoli}} and&nbsp;{{c1::chromatin}}<br>-may show&nbsp;{{c1::plasma}} cell differentiation<br><br><img src=\"paste-972a508ee04cdeccabf04f25955d991e99e5f9a0.jpg\">",
+                                ""
+                            ],
+                            "guid": "N%+aB1/gB0",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric lymphoma outcome<br></b><br>-Low grade MALT lymphoma - regression on {{c1::H pylori}} eradication<br>-65-85% remission in these cases<br>-Takes&nbsp;{{c1::1-18}} months for remission<br>-Up to&nbsp;{{c1::10}}% relapse in 24 months (Study)<br>-Best outcome where MALT NGL confined to&nbsp;{{c1::mucosa}}/upper submucosa<br>-poorer outcome for HG and non&nbsp;{{c1::H Pylori}}<br>-Surgical&nbsp;{{c1::resection}} of NHL prolongs survival",
+                                ""
+                            ],
+                            "guid": "DxN!OfOoXn",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Endocrine Tumours</b><br><br>1.&nbsp;{{c1::Carcinoid}} tumours<br>- Type 1 associated with {{c1::autoimune gastritis}}<br>-Type II associated with&nbsp;{{c1::MEN}} and&nbsp;{{c1::Zollinger Ellison}} Syndrome<br>-Type III is <b>sporadic</b><br>2.&nbsp;{{c1::Small cell}} carcinoma - similar to locations elsewhere",
+                                ""
+                            ],
+                            "guid": "z?/6[nL0NO",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric carcinoid tumours<br><br></b><div>•Usually\nnon {{c1::functioning}}</div>\n<div>•Single\nor multiple</div>\n<div>•&gt;{{c1::10}}%\nof all GI carcinoids</div>\n<div>•{{c1::F::F/M}}&gt;\n{{c1::M::F/M}}&nbsp; &nbsp;(2.5:1)</div>\n<div>•Groups\nof closely packed cells, round nuclei, {{c1::granular}} cytoplasm<br><br><br><img src=\"paste-f4c3fc3d576edda5893728ecbfee534302d1f3c6.jpg\"><br></div><b><br></b>",
+                                ""
+                            ],
+                            "guid": "CqY!5M3KBf",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastro intestinal stromal tumour (GIST) of stomach<br></b><div>•Tumour\nof {{c1::mesenchyme}}</div>\n<div>•Account\nfor &gt; {{c1::2}}% of all malignant gastric tumours</div>\n<div>•Uncommon\nin oesophagus</div>\n<div>•{{c1::Stomach}}\nis commonest GI site: 60-70% of GISTs occur in {{c1::stomach}}</div>\n<div>•Macroscopic: {{c1::nodular}} mass- submucosal, intramural, subserosal, vary in size</div>\n<div>•Submucosal\nlesions may ulcerate</div>",
+                                ""
+                            ],
+                            "guid": "LLWJ)]i7n|",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Gastric GISTs microscopy</b><br><div>•{{c1::Spindle}} cell neoplasm +/- plumper cells</div>\n<div>•Cells resemble smooth muscle but are\nnegative with SM {{c1::actin}} stain</div>\n<div>•Malignant behaviour determined by tumour\n{{c1::size}} and counting of {{c1::mitoses}}</div>\n<div>•Malignant tumours can metastasise</div>\n<div>•GISTs are positively staining with {{c1::KIT}}\n(CD117)-typical</div>",
+                                "<br><img src=\"paste-fec5feb620c754363778329c8753c209d766c1f2.jpg\">"
+                            ],
+                            "guid": "L=f<r*{/I,",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Golden Rule - spindle cell lesions oeso and stomach<br><br></b>• Spindle cell lesion in {{c1::oesophagus}}<b>&nbsp;</b>likely\nto be a <span style=\"font-weight: bold;\">leiomyoma</span> than GIST<div>•Spindle\ncell lesion in {{c1::stomach}}&nbsp;more likely to be a <span style=\"font-weight: bold;\">GIST</span> than leiomyoma</div>\n<div>•Must\nto CD117, SMA, etc on all</div>",
+                                "<br><img src=\"paste-4f497387fd87f8673f9ff473d18c75fa9d10ffde.jpg\">"
+                            ],
+                            "guid": "r4!W&$|BT$",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Kaposis}}<b>&nbsp;Sarcoma </b>is a malignant tumour of blood vessels.<br>-It is seen in gastric mucosa (and in small intestine) in&nbsp;{{c1::immunsuppressed}} patients (HIV+).<br>-{{c1::Spindle}} cell lesion with&nbsp;{{c1::slit}} like vascular channels.",
+                                "<img src=\"paste-2ab73d1cfe4b422979e553d1a69bf0d7b15fd41e.jpg\"><br><br><br>"
+                            ],
+                            "guid": "p8Lped2XX+",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Secondary tumours oesophagus and stomach<br></b><div>•Very {{c1::uncommon::common/uncommon}}</div>\n<div>•Direct spread- from {{c1::carcinoma}} of\npancreas, oesophagus and gallbladder to {{c1::stomach}}</div>\n<div>•Distant metastases from {{c1::breast}} carcinoma\nand melanoma</div>\n<div>•Macro- may show mass {{c1::lesion}} or diffuse\ninfiltration; +/- {{c1::pigmentation}} (melanoma)</div>\n<div>•Micro- typical appearance of primary\ntumour</div>\n<div>•Poor prognosis - indicate {{c1::late}} stage of\ntumour</div>",
+                                ""
+                            ],
+                            "guid": "OQyw$0#*9>",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
                             "tags": []
                         }
