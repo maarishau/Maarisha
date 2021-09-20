@@ -368,16 +368,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>The Class Concept<br></b>-e.g. penicillins: benyzlpenicillin, amoxicillin, piperacillin, flucloxacillin... (common/similar molecular targets and resistant mechanism)<br>-Using any one penicillin is likely to impact to some degree on acquired {{c1::resistance}} to all. <b>If a patient is allergic to one agent, there is an increased likelihood of allergy to other members within the same&nbsp;{{c1::class}} of agents.&nbsp;</b><br>-Similar side-effects e.g.&nbsp;{{c1::nephrotoxicity}} in aminoglycosides.",
-                                ""
-                            ],
-                            "guid": "x+/,`aGG*+",
-                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "A drug allergy is an {{c1::idiosyncratic}} reaction to an agent or class of agents (e.g. beta lactam hypersensitivity reactions).<br>Types of reactions include&nbsp;{{c1::skin rash}} (generally delayed reaction, maculopapular in nature) OR&nbsp;{{c1::anaphylactic-like}} reaction (which may be immediate and life threatening).<br>-Important to distinguish between allergic reaction to and&nbsp;{{c1::side-effects}} of drugs: documentation of the nature of reaction is essential.<br>-Many people who believe they are {{c1::allergic}} to penicillins are actually NOT: they are experiencing&nbsp;{{c1::side effects}} such as nausea, abdominal discomfort etc.",
                                 ""
                             ],
@@ -408,16 +398,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Beta lactams</b> are a&nbsp;{{c1::broad}} group of antimicrobial agents.<br>{{c1::Narrow}}-spectrum: penicillin<br>{{c1::broad}} spectrum: cephalosporins, co-amoxiclav, piperacillin-tazobactam, carbapenems.<br>{{c1::moderate}}-spectrum: amoxicillin, piperacillin<br><br>-They are widely used in clinical infections including&nbsp;{{c1::pneumonia}} (amoxicillin, co-amoxiclav, cephalosporins),&nbsp;{{c1::meningitis}} (penicillin, cefotaxime/ceftriaxone), UTIs (co-amoxiclav, ceftriaxone),&nbsp;{{c1::skin}} infections (flucloxacillin, penicillin), intra-abdominal infetions (co-amoxiclav, cephalosporins), etc.",
-                                ""
-                            ],
-                            "guid": "woNcuiQ|bt",
-                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "<b>Erythromycin, Clarithromycin, azithromycin </b>are&nbsp;{{c1::macrolides}} that have reasonable activity against some Gram&nbsp;{{c1::positive}} organisms (e.g. S. aureus, S. pneumoniae, atypical organisms e.g. Legionella, Mycoplasma). They are useful in&nbsp;{{c1::respiratory tract}} infections; some infections by S. aureus in cases of&nbsp;{{c1::penicillin}}-allergy.",
                                 ""
                             ],
@@ -428,7 +408,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Ciprofloxacin, levofloxacin</b>, etc. are&nbsp;{{c1::Quinolones}} that are {{c1::broad}} spectrum against Gram-{{c1::negative}} organisms e.g. E.coli, Klebsiella. Some have activity against Streptococcus e.g. levofloxacin (S.pneumoniae). They are useful in&nbsp;{{c1::intra-abdominal}} infections,&nbsp;{{c1::urinary tract}} infections, levofloxacin in&nbsp;{{c1::respiratory}} tract infections. Potential side effects include&nbsp;{{c1::clostridium difficile}} infection, etc.",
+                                "<b>Ciprofloxacin, levofloxacin</b>, etc. are&nbsp;{{c1::Quinolones}} that are {{c1::broad}} spectrum against Gram-{{c1::negative}} organisms e.g. E.coli, Klebsiella. Some have activity against Streptococcus e.g. {{c1::levofloxacin}} (S.pneumoniae). They are useful in&nbsp;{{c1::intra-abdominal}} infections,&nbsp;{{c1::urinary tract}} infections, levofloxacin in&nbsp;{{c1::respiratory}} tract infections. Potential side effects include&nbsp;{{c1::clostridium difficile}} infection, etc.",
                                 ""
                             ],
                             "guid": "RcuMfu.qf+",
@@ -448,7 +428,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "When considering antimicrobial use, it is important to look at whether an&nbsp;{{c1::infection}} is present (clinical evidence vs lab results), the&nbsp;{{c1::site}} of infection (e.g. antimicrobials may have difficulty entering CNS), whether its a&nbsp;{{c1::bacterial}} or {{c1::viral}} infection, and if alternative measures can be taken to avoid antimicrobials (e.g. abscess drainage, wound toilet, oral rehydration for mild UTI, etc.). Appropriate antimicrobial therapy requires a look at the&nbsp;{{c1::dosage}} of drugs,&nbsp;{{c1::route}} of administration,&nbsp;{{c1::duration}} of therapy, and choice of&nbsp;{{c1::agent}}. It is important to switch from&nbsp;IV to {{c1:Oral}} Rx as early as possible.",
+                                "When considering antimicrobial use, it is important to look at whether an&nbsp;{{c1::infection}} is present (clinical evidence vs lab results), the&nbsp;{{c1::site}} of infection (e.g. antimicrobials may have difficulty entering CNS), whether its a&nbsp;{{c1::bacterial}} or {{c1::viral}} infection, and if alternative measures can be taken to avoid antimicrobials (e.g. abscess drainage, wound toilet, oral rehydration for mild UTI, etc.). Appropriate antimicrobial therapy requires a look at the&nbsp;{{c1::dosage}} of drugs,&nbsp;{{c1::route}} of administration,&nbsp;{{c1::duration}} of therapy, and choice of&nbsp;{{c1::agent}}. It is important to switch from&nbsp;IV to {{c1::Oral}} Rx as early as possible.",
                                 "<img src=\"paste-2aca6fbeff3c308681bfd171be27b9cedd6ce050.jpg\"><br><img src=\"paste-e42231d195e964ba0c138726929bb6ea72903a3f.jpg\"><br><img src=\"paste-564b61084359907ae9ec413fd22de6b6cb745b5b.jpg\"><br><img src=\"paste-ab2dc0992e19daf7dee10c32eb971db4e71e057f.jpg\"><br>"
                             ],
                             "guid": "x}+e.Q*17P",
@@ -468,7 +448,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Antimicrobial use in animals</b><br>Ciprofloxacin is not used in animals but&nbsp;{{c1::enrofloxacin}} is used instead since it is absorbed and metabolised to ciprofloxacin.<br>-Fluoroquinolones include Ofloxacin,&nbsp;{{c1::ciprofloxacin}},&nbsp;{{c1::enrofloxacin}},&nbsp;{{c1::levofloacin}}, moxifloxacin, etc. The&nbsp;{{c1::class}} concept can be applied here as well since reduced susceptibility to one may imply reduced susceptibility to all.",
+                                "<b>Antimicrobial use in animals</b><br>Ciprofloxacin is not used in animals but&nbsp;{{c1::enrofloxacin}} is used instead since it is absorbed and metabolised to ciprofloxacin.<br>-Fluoroquinolones include Ofloxacin,&nbsp;{{c1::ciprofloxacin}},&nbsp;{{c1::enrofloxacin}},&nbsp;{{c1::levofloxacin}}, moxifloxacin, etc. The&nbsp;{{c1::class}} concept can be applied here as well since reduced susceptibility to one may imply reduced susceptibility to all.",
                                 "Antimicrobial resistant organisms in food due to use in animals may be a problem."
                             ],
                             "guid": "mR5N(C6H.T",
@@ -483,6 +463,277 @@
                             ],
                             "guid": "k`)5QNPubR",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a9acd02a-1a29-11ec-8c7b-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screen Shot 2021-09-17 at 12.02.54 PM.png",
+                        "paste-103a989772324ec58778632acad4edcfdbaa77e7.jpg",
+                        "paste-138098d0a56bbb5c81d9d957fc118399d373390d.jpg",
+                        "paste-16a57284086be0d300ce77b4dccb28eaafc56388.jpg",
+                        "paste-242347cfdecef57eb0efcafe4e71a3a4abe286c8.jpg",
+                        "paste-257fe2bbab8a5d9451dc4ad82aaf80dac9fb705e.jpg",
+                        "paste-55b4703df7f6b6bc2722f4151dfec6131458801b.jpg",
+                        "paste-5a1c034d250400af30db5f328a7643356d6b367a.jpg",
+                        "paste-6340b2bab33626feacdd8a03f230b9e5b94d176a.jpg",
+                        "paste-63a8352156b30a35b0abcdf672d6393a3755cadf.jpg",
+                        "paste-692adbeddcee191a483c30a09fae8d02c9277507.jpg",
+                        "paste-78154c5fa515ed49faba540066c08083beccf183.jpg",
+                        "paste-85068e63dbbe7f5963bcce7fd42b2fd311bdf451.jpg",
+                        "paste-87976a512e7bbbdca919c4004e47430ffe4ba8a8.jpg",
+                        "paste-9d91b06e20468b198de058bc7894a41cf17bf48d.jpg",
+                        "paste-b9bda7af91e9b6934c9fa657dadaf1a4d45d4040.jpg"
+                    ],
+                    "name": "09/08 Lecture 3: Antimicrobial Agents - Antimicrobial Resistance",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The purpose of antimicrobial&nbsp;{{c1::susceptibility}} testing is to gain some idea if giving a particular antibiotic to treat an infection caused by a particular organism is likely to be {{c1::effective}} or not. These test results are a prediction of&nbsp;{{c1::efficacy}} (many other factors influence the outcome of the treatment of infection).",
+                                "<br>Measuring the activity of antimicrobials accurately in the lab is not straightforward; interpreting the measurement even harder."
+                            ],
+                            "guid": "kN6p:E[FWh",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The Gold standard of <b>susceptibility testing</b> is to measure the&nbsp;{{c1::minimal inhibitory concentration (MIC)}}. This informs us of the {{c1::lowest}} concentration of antimicrobial that will stop the bacteria from&nbsp;{{c1::growing}} - usually expressed in the unit of mg/L. Different methods of measuring this include the&nbsp;{{c1::Broth dilution}} method,&nbsp;{{c1::Gradient}} strip method, etc.",
+                                ""
+                            ],
+                            "guid": "n:{&b{2GkC",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Susceptibility testing<br></b><br>This is the&nbsp;{{c1::broth dilution}} method for susceptibility testing and is the {{c1::Gold}} Standard, although the {{c1::Disc diffusion}} method is the most common. <br>-1 indicates&nbsp;{{c1::bacterial growth}}.<br>-2 indicates no {{c1::antibiotics}}<br>-3 is where we incolute a {{c1::standard}} concentration of bacteria.<br>-The numbers at the bottom are the {{c1::increasing}} concentration of antibiotics.<br><img src=\"paste-16a57284086be0d300ce77b4dccb28eaafc56388.jpg\">",
+                                ""
+                            ],
+                            "guid": "D:$7%)kWrL",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In the&nbsp;{{c1::gradient strip method}} for susceptibility testing, each area contains an increasing concentration of {{c1::antibiotics}} (to see the minimum amount of antibiotic required to stop bacterial growth).<br><br><img src=\"paste-b9bda7af91e9b6934c9fa657dadaf1a4d45d4040.jpg\">",
+                                ""
+                            ],
+                            "guid": "n@lbuxsSmk",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When choosing an antibiotic to treat an infection caused by a certain pathogen, one needs to know the&nbsp;{{c1::Minimum inhibitory concentration}} as well as the achievable {{c1:: blood levels}} in order to make a decision.",
+                                "<br>Lowest MIC with highest achievable blood levels would be ideal.<br><br><img src=\"paste-6340b2bab33626feacdd8a03f230b9e5b94d176a.jpg\">"
+                            ],
+                            "guid": "H^au}o3.lJ",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<br><img src=\"paste-5a1c034d250400af30db5f328a7643356d6b367a.jpg\"><br><br>This image represents the inhibition of S. aureus&nbsp;{{c1::growth}} due to {{c1::penicillin}} leaking from fungal colony (Discovered by Alexander Fleming).",
+                                ""
+                            ],
+                            "guid": "ACn=BfT6P5",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Other surrogate methods involve&nbsp;{{c1::Disc}} diffusion method which is a preparation of bacterial suspension (inoculum) to a specified turbidity. This method involves:<br>-{{c1::inoculating}} the suspension onto the agar<br>-applying the antibiotic {{c1::discs}} or strips onto agar<br>-incubating overnight<br><img src=\"paste-257fe2bbab8a5d9451dc4ad82aaf80dac9fb705e.jpg\"><br>The circles around the antibiotic discs represent the&nbsp;{{c1::zone of inhibition}}. The bigger the&nbsp;{{c1::zone}}, the better the antibiotic {{c1::efficacy}} (more susceptible the bacteria). The smaller the&nbsp;{{c1::zone}}, the more&nbsp;{{c1::resistant}} the bacteria.",
+                                "<img src=\"paste-9d91b06e20468b198de058bc7894a41cf17bf48d.jpg\"><br><br><img src=\"paste-78154c5fa515ed49faba540066c08083beccf183.jpg\"><br>zone diameter - can determine if organism is resistant or suscpetible to antibiotic<br><br><br><br>"
+                            ],
+                            "guid": "b*2EA>1I*{",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Intrinsic (innate)}} resistance to an antimicrobial agent is naturally present. Usually because..<br>-the organism naturally lacks the {{c1::target site}} of the antibiotic.<br>-The antibiotic cannot get into the {{c1::cells}} of the species (e.g. Vancomycin vs gram negative bacteria (complex cell wall)).&nbsp;<br>-It has&nbsp;{{c1::innate}} system to destroy or pump out the antibiotic.<br><br>{{c1::Acquired}} antimicrobial resistance is one that is not present in the 'natural' population of the organism (i.e. wild type), but subsequently acquired, via:<br>-{{c1::mutations}} of chromosomal genes<br>- acquisition of {{c1::extra-genetic}} materials (that encode {{c1::resistance}} genes) from other bacteria via mobile elements e.g. plasmids.<br>-overall mechanisms of resistance are similar to those of {{c1::intrinsic}} resistance",
+                                "our own gut may contain species of combination of resistant genes<br><br>"
+                            ],
+                            "guid": "QS<q*GvqHq",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-63a8352156b30a35b0abcdf672d6393a3755cadf.jpg\"><br><br>The blue/purple organisms are gram&nbsp;{{c1::positive}} while the pink organisms are gram&nbsp;{{c1::negative}}.<br><br><img src=\"paste-87976a512e7bbbdca919c4004e47430ffe4ba8a8.jpg\"><br>When antibiotics are introduced, most beta lactams are present in the&nbsp;{{c1::periplasmic space}}. Bacteria can mutate to lose some channels used by antibiotics - this can prevent antibiotics from migrating further. It is more difficult for antibiotics to gain entry into gram&nbsp;{{c1::negative}} than gram&nbsp;{{c1::positive}} cells.",
+                                "<img src=\"paste-55b4703df7f6b6bc2722f4151dfec6131458801b.jpg\"><br><br><br>"
+                            ],
+                            "guid": "lB[=6oq*Nd",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Microbes cope with antibiotics:<br></b><br>By 1 or more mechanisms to counter the effects of antibiotics:&nbsp;<br>-{{c1::Limiting}} the entry of antibiotic to&nbsp;{{c1::target site}}<br>-{{c1::breaking}} down the antibiotic near/in bacteria<br>-{{c1::Modification}} of the antibiotic target site and preventing&nbsp;{{c1::binding}}<br>-{{c1::expelling}} the antibiotic from the bacterial cell",
+                                ""
+                            ],
+                            "guid": "ou7~#OkHJL",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When microbes <b>limit the entry of the antibiotic</b>:<br><br>-The outer membrane of gram-{{c1::negative}} bacteria can limit entry of some antibiotics (of larger sizes) into the {{c1::periplasmic}} space.<br>-Many antibiotics use&nbsp;{{c1::porins}} to gain entry; hence loss of these will limit&nbsp;antimicrobial {{c1::penetration}}.<br>-E.g. loss of&nbsp;{{c1::D2 porin}} in P.aeruginosa can confer&nbsp;{{c1::Carbapenem}} resistance.",
+                                ""
+                            ],
+                            "guid": "zhu&c2pasA",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When microbes <b>break down the antibiotic</b>:<br><br>E.g. {{c1::B lactamases&nbsp;}}<br>-Many organisms now possess such enzymes in their fight against antibiotics<br>-Some are {{c1::narrow}} in spectrum: Breaking down certain penicillins only (e.g. amoxicillin, piperacillin)<br>-Others can break down multiple B lactams: Penicillins, cephalosporins, monobactams (hence the name&nbsp;{{c1::extended spectrum beta-lactamases, ESBLs}})<br>-Another e.g.: Aminoglycoside modifying enzymes<br><br>",
+                                ""
+                            ],
+                            "guid": "C?f$g#G8UV",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Microbes modify the {{c1::active site&nbsp;}} of the bacteria to confer resistance. This is usually achieved via changes of the {{c1::binding}} site - reducing antibiotic's affinity to the site.<br><br>- S.aureus penicillin binding protein from PBP2 to&nbsp;{{c1::PBP2a}} leads to <b>meticillin</b> resistance (i.e. MRSA)<br>-Point mutations in <b>DNA gyrase or topoisomerase</b> IV can confer&nbsp;{{c1::fluoroquinolone}} resistance<br>-Many antibiotics target bacterial <b>ribosomes</b> - mutations in those sites can confer resistance to e.g.&nbsp;{{c1::aminoglycosides}}.",
+                                ""
+                            ],
+                            "guid": "f)uZdB8mFi",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Microbes can expell the antibiotic from the cell.<br>-Many organisms possess {{c1::efflux pumps}} that actively expel antibiotics out of the cell&nbsp;<br>-Depending on the types of {{c1::pumps}} present, various antibiotic classes may be expelled, including B-lactams, fluoroquinolones, aminoglycosides etc.",
+                                "<img src=\"Screen Shot 2021-09-17 at 12.02.54 PM.png\"><br><br><br><br><br><br>"
+                            ],
+                            "guid": "BSM!WG6X2A",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mechanisms of <b>B lactam </b>resistance:<br><br>-Reduced entry of drug: {{c1::porin}} loss e.g. loss of&nbsp;D2 porin resulting in&nbsp;{{c1::carbapenem}} resistance<br>-Inactivation of Beta lactams that have reached the {{c1::periplasmic}} space i.e. B lactamases e.g. ESBL or CPE<br>-Prevention of {{c1::binding}} site of action: mutation of penicillin-binding protein e.g. MRSA<br>-increased expulsion of drug: upregulated {{c1::efflux}} mechanisms",
+                                ""
+                            ],
+                            "guid": "hoBiR{8})E",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Antimicrobial resistance <b>S. aureus<br></b><br>-Inititial resistance with&nbsp;{{c1::Penicillin}} Rx for S.aureus infections<br>-Resistance occurs due to acquisition of&nbsp;{{c1::penicillinase}}<br>-Although some penicillins retained activity against S. aureus: e.g. meticillin, flucloxacillin (resistant to&nbsp;{{c1::penicillinase}})<br>-1960s, methicillin-susceptible S.aureus acquired&nbsp;{{c1::mecA}}<br>&nbsp;gene, which encoded for modified {{c1::penicillin-binding protein (PBP2a)}}<br>-Emergence of MRSA: resistant to most beta-lactams because of inability to bind to&nbsp;{{c1::PBP2a}}.<br>-Need to use other non-B-lactam classes against MRSA e.g.&nbsp;{{c1::glycopeptides}} (vancomycin)<br>",
+                                ""
+                            ],
+                            "guid": "On{>B]#x{E",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Beta lactam resistance in Gram negative bacteria</b><br><br>•Many Gram-negative organisms have\nacquired narrow-spectrum {{c1::beta-lactamases}} that break down (hydrolyse) {{c1::penicillins}} such\nas amoxicillin, piperacillin</div>\n<div>•Can often be overcome by\n{{c1::B-lactam/B-lactamase}} inhibitor combinations eg. amoxicillin-clavulanate,\npiperacillin-tazobactam; or\nuse of {{c1::broad-spectrum}} cephalosporins</div>\n<div>•Acquisition of {{c1::‘extended-spectrum\nbeta-lactamases’ (ESBL)}} – hydrolysis of cephalosporins, co-amoxiclav +/-\npiperacillin-tazobactam.</div>",
+                                ""
+                            ],
+                            "guid": "KVH_},);+d",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(0, 32, 96);\"><b>Escalating arms race between humans and bacteria</b><br><br><br>Use\nof narrow-spectrum B-lactams</span></div>\n<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ↓</div>\n<div><span style=\"color: rgb(192, 0, 0);\">Bacterial\nacquisition of narrow-spectrum&nbsp;</span>{{c1::B-lactamases}}</div>\n<div><span style=\"color: rgb(192, 0, 0);\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ↓</span></div>\n<div><span style=\"color: rgb(0, 32, 96);\">Use\nof extended-spectrum B-lactams </span><span style=\"color: rgb(0, 32, 96);\">eg</span><span style=\"color: rgb(0, 32, 96);\">. 3</span><span style=\"color: rgb(0, 32, 96);\">rd</span><span style=\"color: rgb(0, 32, 96);\">\ngen. </span><span style=\"color: rgb(0, 32, 96);\">cephalosporins</span></div>\n<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ↓</div>\n<div><span style=\"color: rgb(192, 0, 0);\">Bacterial\nacquisition of&nbsp;</span>{{c1::ESBLs}}</div>\n<div><span style=\"color: rgb(192, 0, 0);\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ↓</span></div>\n<div><span style=\"color: rgb(0, 32, 96);\">Use\nof very broad-spectrum B-lactams </span><span style=\"color: rgb(0, 32, 96);\">ie</span><span style=\"color: rgb(0, 32, 96);\">. </span><span style=\"color: rgb(0, 32, 96);\">carbapenems</span></div>\n<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ↓</div>\n<div><span style=\"color: rgb(192, 0, 0);\">Bacterial\nacquisition of ….. </span>{{c1::carbapenemases}}</div>",
+                                ""
+                            ],
+                            "guid": "nYL7hYZ:_y",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Multi drug resistant (MDR) Gram negative bacteria</b><br><br>•Biggest clinical problem in the {{c1::Enterobacteriales}}&nbsp;family (<span style=\"font-style: italic;\">E.\ncoli</span>, <span style=\"font-style: italic;\">Klebsiella</span>, <span style=\"font-style: italic;\">Enterobacter</span>, ie.\n‘coliform’ bacteria)</div>\n<br>\n<div>•{{c1::ESBL}}-producing\norganisms: resistant to penicillins, cephalosporins, and\noften B-lactam/B-lactamase inhibitor combinations; but susceptible to {{c1::carbapenems}}<br><br></div>\n<div>•{{c1::<span style=\"color: rgb(192, 0, 0);\">Carbapenemase</span><span style=\"color: rgb(192, 0, 0);\">-producing\n</span><span style=\"color: rgb(192, 0, 0); font-style: italic;\">Enterobacteriales</span>\n(<span style=\"color: rgb(192, 0, 0);\">CPE</span>)}}:\nresistant to carbapenems +\nall/most other subclasses of B-lactams</div>\n<br>\n<div>•CPE (&amp; ESBL) are infection control\npriorities due to their {{c1::MDR}} status</div>",
+                                ""
+                            ],
+                            "guid": "Q>tpNDcB:4",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Carbapenemase-producing Enterobacteriales (CPE)<br><br></b><div>•Latest development in beta-lactam\nresistance in Gram-negative bacteria; often {{c1::co-resistant}} to quinolones,\naminoglycosides, etc.</div>\n<div>•Emergence of {{c1::CPE}} in the mid-2000s</div>\n<div>•Different types of enzymes:</div>\n<div>&nbsp; KPC (<span style=\"font-style: italic;\">Klebsiella</span><span style=\"font-style: italic;\">\n</span><span style=\"font-style: italic;\">pneumoniae</span><span style=\"font-style: italic;\">\n</span>carbapenemase)</div>\n<div>&nbsp; NDM ({{c1::New Delhi metallo-beta-lactamase}})</div>\n<div>&nbsp; OXA-48 carbapenemase</div>\n<div>•Global spread of CPE over the next decade</div>\nNow\nconsidered as yet another public health emergency<b><br></b>",
+                                "<img src=\"paste-242347cfdecef57eb0efcafe4e71a3a4abe286c8.jpg\"><br><br><br>"
+                            ],
+                            "guid": "yA_j:nAVWx",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Other drugr resistance global health problems<br><br></b><div>•Multidrug-resistant (MDR) {{c1::Tuberculosis}}</div>\n<br>\n<div>•MDR {{c1::<span style=\"font-style: italic;\">Neisseria </span><span style=\"font-style: italic;\">gonorrhoeae</span><span style=\"font-style: italic;\">\n</span>(STI\ngonorrhoea)}}</div>\n<br>\n<div>•MDR <span style=\"font-style: italic;\">Plasmodium falciparum </span>(malaria)</div>",
+                                "<img src=\"paste-692adbeddcee191a483c30a09fae8d02c9277507.jpg\"><br><br><br>"
+                            ],
+                            "guid": "Oa@}iTXOjx",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 32, 96); font-weight: bold;\">Healthcare\nsettings – perfect storm for antimicrobial resistance?<br><br></span><div>•Sick {{c1::immunocompromised}} patients – greater\nrisk of infections, increasing need for antibiotics and for longer durations</div>\n<div>•Increased need for {{c1::medical devices}} –\ngreater risk for device-related infections</div>\n<div>•Concentration of such patients – greater\nrisk of spread of {{c1::drug-resistant}} bacteria</div>\n<div>•Patients tend to require more {{c1::hands-on}}\ncare – greater risk of spread of drug-resistant bacteria</div>\n<div>•Etc.</div>",
+                                ""
+                            ],
+                            "guid": "j,OOy8b5/s",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">How can we tackle the challenge of\nantimicrobial resistance?<br><br></span><div>•<span style=\"color: rgb(91, 155, 213);\">Some general principles:</span></div>\n<div>•Minimise the need for {{c1::antibiotic}} eg.\ninfection prevention, vaccination, accurate diagnosis</div>\n<div>•Use antibiotics only\nwhen {{c1::necessary}}</div>\n<div>•Use appropriate antibiotics with the\nappropriate {{c1::dosage}} and {{c1::duration}}</div>\n<div>•Targeted therapy: ie.\n{{c1::narrow-spectrum}} if possible</div>",
+                                "<img src=\"paste-138098d0a56bbb5c81d9d957fc118399d373390d.jpg\"><br><br><br><br><img src=\"paste-103a989772324ec58778632acad4edcfdbaa77e7.jpg\"><br><br><br><br>*narrow spectrum minimizes exposure of broad spectrum antibiotics to organisms that are unrelated to infection"
+                            ],
+                            "guid": "b8}o5`_{Nk",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 32, 96); font-weight: bold;\">Research\n&amp; development of </span><span style=\"color: rgb(0, 32, 96); font-weight: bold;\">new\n</span><span style=\"color: rgb(0, 32, 96); font-weight: bold;\">antibiotics<br><br></span><div>•Some recent developments</div>\n<div>•Agents against Gram-positive bacteria: Eg.</div>\n<div>&nbsp; &nbsp; &nbsp; •&nbsp;{{c1::Linezolid}},\nDaptomycin, {{c1::Ceftaroline}},\nTigecycline</div>\n<div>•Agents against Gram-negative bacteria: Eg.</div>\n<div>&nbsp; &nbsp; &nbsp; •<b>Tigecycline</b></div>\n<div>•Ceftazidime-avibactam;\nmeropenem-vaborbactam</div>\n<div>(ceftazidime, meropenem –\n{{c1::B-lactams}}; </div>\n<div>avibactam/vaborbactam – {{c1::carbapenemase\ninhibitors}})</div>",
+                                "<img src=\"paste-85068e63dbbe7f5963bcce7fd42b2fd311bdf451.jpg\"><br><br><br>"
+                            ],
+                            "guid": "IwQ(Um)pFn",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
                             "tags": []
                         }
                     ]
@@ -2457,7 +2708,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Oesophageal SCC - macroscopic</b><br>-Affects the upper oesophagus&nbsp;{{c1::10-20}}%, mid esophagus ({{c1::50-60}}%, or lower esophagus&nbsp;{{c1::30}}%.<br>-Luminal growth obstruction due to the tumour can cause&nbsp;{{c1::dysphagia}} and&nbsp;{{c1::weight}} loss.<br>-Characterisitcs are {{c1::ulcerating}}, infiltrating, and&nbsp;{{c1::poly}}ploid",
+                                "<b>Oesophageal SCC - macroscopic</b><br>-Affects the upper oesophagus&nbsp;{{c1::10-20}}%, mid esophagus, {{c1::50-60}}%, or lower esophagus&nbsp;{{c1::30}}%.<br>-Luminal growth obstruction due to the tumour can cause&nbsp;{{c1::dysphagia}} and&nbsp;{{c1::weight}} loss.<br>-Characterisitcs are {{c1::ulcerating}}, infiltrating, and&nbsp;{{c1::poly}}ploid",
                                 "<img src=\"paste-3f723a0554e425e364b5724708d24c93bad2a1c8.jpg\"><br><br><br><br>"
                             ],
                             "guid": "r~5*#@=4|a",
@@ -2467,8 +2718,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>Oesophageal SCC - microscopic</b><br>-{{c1::Dysplastic}} squamous epithelium&nbsp;<br>-Invades&nbsp;{{c1::submucosa}} and deeper<br>= +/- {{c1::keratinisation}}, intercellular&nbsp;{{c1::bridges}}<br>-{{c1::poorly}} differentiated sheets of cells<br>-carcino{{c1::sarcoma}}",
-                                "<br>carincosarcoma = carincoma (squamous epithelium) + sarcoma<br><br><img src=\"paste-67dc0a4a141aa20ce99bb99b5ab28fb51afe1cdd.jpg\"><br><br><br><br>"
+                                "<b>Oesophageal SCC - microscopic</b><br>-{{c1::Dysplastic}} squamous epithelium&nbsp;<br>-Invades&nbsp;{{c1::submucosa}} and deeper<br>= +/- {{c1::keratinisation}}, intercellular&nbsp;{{c1::bridges}}<br>-{{c1::poorly}} differentiated sheets of cells<br>-carcino{{c1::sarcoma}}<br><br><img src=\"paste-67dc0a4a141aa20ce99bb99b5ab28fb51afe1cdd.jpg\">",
+                                "<br>carincosarcoma = carincoma (squamous epithelium) + sarcoma<br><br><br><br><br><br>"
                             ],
                             "guid": "xD%:of,V[n",
                             "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
@@ -2865,6 +3116,500 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1dd54bd0-1656-11ec-b491-acde48001122",
+                    "deck_config_uuid": "dbc5d912-0caf-11ec-907d-acde48001122",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-5fb27f8867cbf039e6cf7da739cf6c30c3fd986f.jpg",
+                        "paste-8edfd8a4d5232973e410facaab0ef4fdb8b30db1.jpg",
+                        "paste-d068624dc2a26ede0a86079cdf01f622601eb2b6.jpg",
+                        "paste-f49606cd6e93554e7bd9ca7372eafc89eef093b4.jpg"
+                    ],
+                    "name": "09/13 Lecture 9: Diagnosing Diabetes Mellitus",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diabetes\nMellitus:<br><br><div>A\nterm for several diseases of abnormal {{c1::carbohydrate}} metabolism that are\ncharacterized by {{c1::hyperglycaemia}}.</div>\n<div>Associated\nwith relative or absolute impairment of insulin secretion by the islet cells of\nthe {{c1::pancreas}}, along with varying degrees of peripheral resistance to the action\nof insulin.</div>",
+                                ""
+                            ],
+                            "guid": "2bA}R7a?:",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Normal\nCarbohydrate Metabolism<br><br><div>•Blood\nglucose levels are normally maintained within a relatively narrow range ({{c1::4}}-{{c1::8}}\nmmol/L)</div>\n<div>•This\nensures that glucose is available as</div>\n<div>–an\n{{c1::energy}} source (oxidised to H2O and\nCO2 yielding energy in the from of ATP)</div>\n<div>–a\nprecursor to complex {{c1::carbohydrates}}, proteins and {{c1::lipids}}</div>\n<div>•On\neating</div>\n<div>–Complex\ncarbohydrates are {{c1::hydrolysed}} to simple sugars (including glucose, fructose\n&amp; galactose) that are absorbed through the small {{c1::intestine}} into the\nbloodstream.</div>\n<div>–The\nrise in blood glucose stimulates insulin release from the pancreas.</div>\n<div>–Insulin\nstimulates tissues to use the excess blood glucose:</div>\n<div>•Activating\nglucose uptake into {{c1::muscle}} &amp; adipose tissue</div>\n<div>•Activating\nglycogen synthesis &amp; inhibiting {{c1::glycogenolysis}} in muscle &amp; liver cells</div>\n<div>•Inhibiting\ngluconeogenesis</div>\n<div>–Blood\nglucose levels fall</div>",
+                                ""
+                            ],
+                            "guid": "HFAU3e|uW_",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Normal\nCarbohydrate Metabolism<br><br><div>•Between\nmeals</div>\n<div>–As\nblood glucose levels fall insulin secretion by the pancreas slows and glucagon\nis released. The impact of this change to the hormonal milieu is:</div>\n<div>–{{c1::Gluconeogenesis}}\nand glycogenolysis are activated to maintain blood glucose levels</div>\n<div>•In\nprolonged fasting</div>\n<div>–Lipids\nbecome an increasingly important energy source</div>\n<div>–Fatty\nacids are released from adipose tissue ({{c1::lipolysis}}) and these can be used as an\nenergy source by a variety of tissues (β-{{c1::oxidation}})</div>\n<div>–Fatty\nacids cannot cross the blood brain barrier. When blood glucose levels are low,\nliver cells partially metabolise fatty acids releasing {{c1::ketone}} bodies into the\nbloodstream. {{c1::Ketone}} bodies can cross the blood brain barrier &amp; can be taken\nup by brain cells as an energy source.</div>\n<br>",
+                                "<img src=\"paste-f49606cd6e93554e7bd9ca7372eafc89eef093b4.jpg\">"
+                            ],
+                            "guid": "qkZ)qzN%*2",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Deficiency/Resistance\nto Insulin<br><br><div>•Without\ninsulin glucose is not taken up by muscle &amp; adipose tissue</div>\n<div>•{{c1::Glycogenolysis}}\nis activated in liver and muscle</div>\n<div>•{{c1::Proteins}}\nare catabolised for\nenergy &amp; gluconeogenesis in many tissues</div>\n<div>•Blood\nglucose levels rise</div>\n<div>•Fatty\nacids are released into the bloodstream</div>\n<div>–used\nas an energy source</div>\n<div>–triglycerides\nresynthesized in {{c1::liver}} &amp; repackaged into {{c1::lipoproteins}} (increased risk of atherosclerosis)</div>\n<div>–Fatty\nacids are partially metabolised to ketone bodies that can be taken up as an\nenergy source by brain cells</div>",
+                                ""
+                            ],
+                            "guid": "CeMw9jTc=,",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Symptoms\nassociated with hyperglycaemia and glycosuria<br><br><div>•{{c1::Polyuria}}</div>\n<div>–Filtered\nglucose exceeds tubular reabsorption threshold</div>\n<div>–Osmotic\ndiuresis created by glucose in urine</div>\n<div>•{{c1::Polydipsia}}</div>\n<div>–Combination\nof hyperglycaemia and water loss in urine result in plasma {{c1::hyperosmolality}}</div>\n<div>–Hypertonicity\nis detected by specialised {{c1::hypothalamic}} cells (osmoreceptors). These\nosmoreceptors, along with angiotensin II, released secondary to volume\ndepletion, stimulate thirst centres</div>\n<div>•<span style=\"font-weight: bold; font-style: italic;\">Weight loss</span></div>\n<div>–Glycosuria\nand excess utilisation of {{c1::fat}} and protein as energy source </div>\n<div>•<span style=\"font-weight: bold; font-style: italic;\">Fatigue </span>and <span style=\"font-weight: bold; font-style: italic;\">hunger</span></div>\n<div>–Inability\nof blood glucose to enter cells for {{c1::glycolysis}}</div>",
+                                ""
+                            ],
+                            "guid": "nqOb(:oN}`",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diagnosing\nDiabetes Mellitus<br><br><div><span style=\"font-weight: bold;\">Diagnosing diabetes mellitus is\nbased on demonstrating hyperglycaemia through:</span></div>\n<div></div>\n<div><span style=\"font-weight: bold;\">1. Diabetes&nbsp;</span>{{c1::symptoms}}<span style=\"font-weight: bold;\">&nbsp;(polyuria,\npolydipsia and unexplained weight loss) plus:</span></div>\n<div>a random {{c1::venous}} plasma glucose\nconcentration &gt; 11.1 mmol/L</div>\n<div>&nbsp; or</div>\n<div>a fasting plasma glucose concentration\n&gt; {{c1::7.0}} mmol/L</div>\n<div>&nbsp; or</div>\n<div>plasma glucose concentration &gt; {{c1::11.1}}\nmmol/L two hours after {{c1::75g}} anhydrous glucose in an oral glucose tolerance test\n(OGTT).</div>\n<div></div>\n<div><span style=\"font-weight: bold;\">2. With no symptoms diagnosis\nrequires elevated glucose levels on at least&nbsp;</span>{{c1::two}}<span style=\"font-weight: bold;\">&nbsp;occasions</span></div>\n<div></div>\n<div><span style=\"font-weight: bold;\">3. An HbA</span><span style=\"font-weight: bold;\">1c</span><span style=\"font-weight: bold;\"> of &gt;</span>{{c1::48}}<span style=\"font-weight: bold;\">&nbsp;mmol/mol</span></div>\n<div></div>\n<div><span style=\"font-weight: bold;\">Note: None of these tests are\nspecific for type of diabetes. Type is usually established based on clinical\npresentation.</span></div>",
+                                ""
+                            ],
+                            "guid": "uHgcj:hCvp",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Plasma\nGlucose<br><br><div>•Plasma\nis blood minus the cellular constituents (e.g. red blood cells, white blood\ncells and {{c1::platelets}})</div>\n<div>•Important\npre-analytical issues in ensuring accurate plasma glucose levels</div>\n<div>–Clarity\non patient state (fasting, 2 hour post glucose load, random)</div>\n<div>•Critical\nto document time and fasting state of patient for accurate interpretation</div>\n<div>–Specimen\ntube must prevent blood clotting</div>\n<div>•If\na clot forms, it may be more difficult to get a clean separation of the cells\nfrom the plasma</div>\n<div>•To\nprevent clotting the collection tubes we use contain {{c1::oxalate}} salts. {{c1::Oxalate}}\nprevents clotting by forming {{c1::insoluble}} complexes with the calcium in the blood\nwhich is required for clotting</div>\n<div>–Specimen\ntube must prevent {{c1::glycolysis}}</div>\n<div>•Blood\ncells will continue to metabolise glucose in vitro</div>\n<div>•Blood\ntubes for measuring glucose contain sodium {{c1::fluoride}} to inhibit enzymes involved\nin {{c1::glycolysis}}.&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "CybKU.)T{d",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hb\nA1c<br><br><div>•Proteins\nare continuously undergoing non-enzymatic chemically modification by glucose\n({{c1::glycation}})</div>\n<div>–Results\nin advanced glycation products (AGE) which may contribute to {{c1::microvascular}} and\nmacrovascular complications of diabetes</div>\n<div>•Hb A1c is formed by the glycation of the <span style=\"font-style: italic;\">N</span>-terminal\n{{c1::valine}} residue of each {{c1::β}}-chain\nof Hb A with glucose</div>\n<div>•Formation\nof Hb A1c is essentially {{c1::irreversible}}</div>\n<div>•The\nconcentration in the blood depends on the lifespan of the red blood cell\n(average 120 days) and the blood glucose concentration</div>\n<div>•It\ntherefore reflects the integrated value for blood glucose over the preceding\n6-8 weeks</div>",
+                                "<img src=\"paste-5fb27f8867cbf039e6cf7da739cf6c30c3fd986f.jpg\">largely reflects glycaemic control.<br>Can be expressed as percentage or mmol/mol"
+                            ],
+                            "guid": "A!3dcpFaV6",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "HbA1c in diagnosis<br><br><div>•DCCT\nunits for Hb A1c were given as a % of Hb that is glycated</div>\n<div>•We\nnow use IFCC units (mmol of Hb A1c per\nmol of Hb A)</div>\n<div>•Hb A1c has been accepted as a diagnostic\nindicator of diabetes mellitus at &gt;{{c1::48}} mmol/mol•Caution\nrequired with interpretation because of:</div>\n<div>–Shortened\n{{c1::RBC}} lifespan could result in a ↓ Hb A1c</div>\n<div>•{{c1::Haemolytic}}\ndisease</div>\n<div>•Recent\nsignificant blood loss</div>\n<div>–Lengthened\n{{c1::RBC}} lifespan could result in a ↑ HbA1c</div>\n<div>•{{c1::Iron}}\ndeficiency anaemia</div>\n<div>–Haemoglobin\nvariants (e.g. Hb S, Hb F, Hb C) can interfere with RBC lifespan, Hb glycation\n&amp; analytical methods</div>",
+                                "<img src=\"paste-8edfd8a4d5232973e410facaab0ef4fdb8b30db1.jpg\">"
+                            ],
+                            "guid": "IU*1Im1vbE",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Sickle cell trait}} can interfere with accuracies in measuring and diagnosing diabetes with HbA1C.&nbsp;",
+                                "<img src=\"paste-d068624dc2a26ede0a86079cdf01f622601eb2b6.jpg\">"
+                            ],
+                            "guid": "F^,71}s[YK",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Glycosuria<br><br><div>•Glycosuria\n(or glucosuria) is excretion of glucose in the urine</div>\n<div>•How\ndiabetes (‘to pass through’) mellitus (‘honey-sweet’) got its name!</div>\n<div>•Filtered\nglucose is normally reabsorbed in the {{c1::proximal}} renal tubule</div>\n<div>•However,\nthe renal threshold for glucose reabsorption is ~{{c1::10}} mmol/L &amp; if blood\nglucose is higher than this, glucose will be present in the urine</div>\n<div>•Testing\nfor glycosuria is <u><span style=\"font-weight: bold;\">not\nan accepted way of diagnosing diabetes</span></u></div>\n<div>–Not\n{{c1::sensitive}}</div>\n<div>•moderate\n{{c1::hyperglycaemia}} may not result in glycosuria</div>\n<div>–Not\nspecific</div>\n<div>•renal\nthreshold for glucose reabsorption is {{c1::variable}}</div>\n<div>•some\npeople, especially {{c1::pregnant}} women and children, excrete glucose with relatively\nnormal blood glucose</div>",
+                                ""
+                            ],
+                            "guid": "I2!SsKG.l`",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Diabetes\nRisk States<br><br><div>•Impaired\nFasting Glycaemia/Glucose</div>\n<div>–Fasting\nglucose {{c1::5}}.6-{{c1::7.0}} mmol/l</div>\n<div>–Suggests\n{{c1::hepatic}} insulin resistance</div>\n<div>–Associated\nwith a markedly increased risk of developing type {{c1::II}} diabetes mellitus</div>\n<div>•{{c1::Impaired}}\nGlucose Tolerance</div>\n<div>–OGTT\n2h glucose {{c1::7.8}}-11.0 mmol/l</div>\n<div>–Suggests\n{{c1::muscle}} insulin\nresistance</div>\n<div>–Not\nassociated with increased risk of microvascular disease but at substantially\nincreased risk of macrovascular disease</div>\n<div>•As\nHbA1c climbs from 34 to 48 mmol/l the {{c1::5}} year\nrisk of T2DM increases markedly</div>",
+                                ""
+                            ],
+                            "guid": "MYdx7h+M7P",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "DM\nClassification<br><br><div>•Type\nI Diabetes Mellitus</div>\n<div>–In\nIreland ~15,000\ncases</div>\n<div>•Type\nII Diabetes Mellitus</div>\n<div>–In\nIreland ~210,000 cases</div>\n<div>•Maturity\nOnset Diabetes of the Young (MODY)</div>\n<div>–2\nto 5 percent of diabetes. </div>\n<div>–Non-insulin\ndependent diabetes diagnosed at a young age (&lt;25 years) with autosomal\n{{c1::dominant}} transmission and lack of auto-antibodies. </div>\n<div>–Many\npatients are misclassified as having either type 1 or 2 diabetes.</div>\n<div>•Diseases\nof the {{c1::Pancreas}}</div>\n<div>–Cystic\nfibrosis, hereditary hemochromatosis, chronic pancreatitis, </div>\n<div>•Endocrinopathies</div>\n<div>–Cushing\nsyndrome &amp; acromegaly can lead to glucose dysregulation</div>\n<div>•{{c1::Drug}}-induced\ndiabetes</div>\n<div>–A\nvariety of drugs can impair glucose tolerance including corticosteroids,\nantipsychotics, immunosuppressants</div>\n<div>•Gestational\nDiabetes Mellitus</div>\n<div>–~2%\nof women develop a form of diabetes in pregnancy</div>\n<div>–Increased\nrisk of several adverse outcomes in pregnancy</div>\n<div>•Pre-eclampsia,\nhydramnios, macrosomia, perinatal mortality, miscarriage, etc.</div>\n<div>–Usually\nresolves post-{{c1::partum}} but mothers at increased risk of developing Type {{c1::II}} DM</div>\n<br>",
+                                ""
+                            ],
+                            "guid": "Cpw!4A3:l6",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "T1DM\nClinical Presentation<br><br><div>•Peak\nage is around {{c1::puberty}}, but it may present at any age</div>\n<div>•The\nmost common presentation is with clinical features associated with\nhyperglycaemia</div>\n<div>–{{c1::Polyuria}},\n{{c1::polydipsia}}, fatigue, hunger, weight loss, {{c1::blurred}} vision</div>\n<div>•Timeframe</div>\n<div>–Days,\nweeks or months</div>\n<div>–Shorter\nin children, more insidious in adults</div>\n<div>•Infection\ncommonly {{c1::precipitates}} the initial presentation</div>\n<div>–Fever,\nsore throat, cough, dysuria</div>\n<div>•In\npractice, at diagnosis patients with T1DM commonly have glucose levels of {{c1::15}}-30\nmmol/L and about 25% present with diabetic {{c1::ketoacidosis}}<br><div>•Results\nfrom the autoimmune destruction of the insulin-producing beta cells in the\n{{c1::pancreas}}.</div>\n<div>•Antibodies\nare often detectable to:</div>\n<div>–insulin\n- particularly in children</div>\n<div>–{{c1::65}}-kD\nisoform of glutamic acid\n{{c1::decarboxylase}} (GAD65) - particularly in adults</div>\n<div>–islet\ncells</div></div>",
+                                ""
+                            ],
+                            "guid": "M,q&asJ:)4",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Determinants\n&amp; Risk Factors for T2DM<br><br><div>•{{c1::Genetics}}\nare a significant contributory factor</div>\n<div>–Family\nhistory</div>\n<div>–Ethnicity:\nAsians\n&gt;\nHispanics &gt; Blacks &gt; Whites</div>\n<div>•Demographic\ncharacteristics</div>\n<div>–Risk\nincreases with age</div>\n<div>–Females\nat higher risk than males</div>\n<div>•Lifestyle</div>\n<div>–Obesity\n(central adiposity), physical inactivity, smoking</div>\n<div>–Too\nmuch or too little sleep</div>\n<div>–Red\nmeat, processed meat and sugary drinks are associated with an increased risk</div>\n<div>–Fruits,\nvegetables, nuts, whole grains and olive oil are associated with a reduced risk</div>\n<div>–Westernisation,\nurbanisation, modernisation</div>\n<div>•Traditionally\na disorder of aging but prevalence of obesity &amp; T2DM in children is rising\ndramatically</div>",
+                                ""
+                            ],
+                            "guid": "e1DM]`>=A`",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Insulin\nResistance<br><br><div>•An\nimpaired biological response to insulin found in T2DM</div>\n<div>•The\npancreas makes insulin but the {{c1::tissues}} don’t respond as well to it</div>\n<div>•Reduced\ninsulin-stimulated glucose transport and metabolism in {{c1::adipocytes}} &amp;\nskeletal {{c1::muscle}}</div>\n<div>•Impaired\n{{c1::suppression}} of hepatic glucose output</div>\n<div>•Insulin\nresistance is usually combined with some degree of {{c1::β}}-cell dysfunction in T2DM<br><div>•Pancreas\nends up producing more insulin in order to get the same</div>\n<div>•β-cell\nhyperplasia and {{c1::hypertrophy}} helps maintain normal glucose levels</div>\n<div>•Over\ntime the pancreas becomes {{c1::hypotrophic}} &amp; hypoplastic &amp; glucose levels rise because of lack of insulin produced by pancreas</div>\n<div>•Diabetic\n{{c1::ketoacidosis}} usually doesn’t develop as there is some insulin which limits\nlipolysis</div></div>",
+                                ""
+                            ],
+                            "guid": "mIzC6tgkYa",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Differentiating between Type 1 and Type 2 Diabetes<br><br>•No\nset criteria, but based on clinical presentation &amp; history, sometimes\nsupported by laboratory studies<div>•Body habitus</div>\n<div>–Children\nwith T1DM usually not obese &amp; recent hx of weight loss</div>\n<div>–T2DM\nusually, but not necessarily, obese</div>\n<div>•Age</div>\n<div>–T1DM\nusually present as children</div>\n<div>–T2DM\nusually present later, but with obesity may present in childhood</div>\n<div>•Insulin\nresistance</div>\n<div>–T2DM\nfrequently have acanthosis nigricans,\n{{c1::hypertension}}, {{c1::dyslipidemia}} and polycystic {{c1::ovary}} syndrome</div>\n<div>•Family\nhistory</div>\n<div>–{{c1::10}}%\nin T1DM</div>\n<div>–Up\nto 75-90% in T2DM<br><br><div>•Laboratory\nTests</div>\n<div>–Auto-{{c1::antibodies}}\nan indicator of T1DM, but may be present in T2DM (?slowly progressive\nautoimmune disease)</div>\n<div>–Higher\nfasting insulin &amp; c-peptide levels in T2DM</div>\n<div>–MODY</div>\n<div>•Family\nHistory in keeping with autosomal dominant inheritance</div>\n<div>•Genetic\ntesting can be arranged</div></div>",
+                                ""
+                            ],
+                            "guid": "AXP1d%4l68",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a9c0f2c6-1a29-11ec-8c7b-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "09/14 Lecture 10: Monitoring Diabetes Melleitus",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "a9c21fe8-1a29-11ec-8c7b-c4b301a027bc",
+                    "deck_config_uuid": "e59dc4c0-0bf8-11ec-b866-c4b301a027bc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "Screen Shot 2021-09-20 at 4.06.07 PM.png",
+                        "Screen Shot 2021-09-20 at 4.11.12 PM.png",
+                        "paste-0a82e4f83f839f15b78834c174c6cc0c103bd3d8.jpg",
+                        "paste-1331138825bc5b7db371fab239b2e23392461e17.jpg",
+                        "paste-1707a38cf74c67968e6694d6c3ae62890113e2d4.jpg",
+                        "paste-1d1921fd2dd1a4b270847684ebf2760e9c92a4b0.jpg",
+                        "paste-1e9ca6ba6e16d40592f651d57dbf3b0a5cdb9e0c.jpg",
+                        "paste-2870a610c79655c284e5bdd324f2880eaba7eae1.jpg",
+                        "paste-2f5a4abc99506378587f18b07e1ddf3f59753865.jpg",
+                        "paste-4b77d1f15c34503f78411694510d1eaa0cf3672e.jpg",
+                        "paste-58c76c422176f6433bc562d26de89274f5d62a2b.jpg",
+                        "paste-5d6e3176ee8f4c6d6d5edd42de24edd1db278fee.jpg",
+                        "paste-629d5a0b5988e38325c0c622358615e86822df27.jpg",
+                        "paste-722f750cd628f6c1a4f91ff926e536d7071f3385.jpg",
+                        "paste-78af5203352ca7c71666d34a1a239ebd98e16927.jpg",
+                        "paste-7bf91a18c7f81354ecf25a92e84b647ca5472c71.jpg",
+                        "paste-8f272a48a6b94a3a6399bffc3bd92cd4dadc5c44.jpg",
+                        "paste-8f9be42112bbffd6fd653874e00464819420f057.jpg",
+                        "paste-a3d544ea95f2ae44a9d4ac048d35514fdf553751.jpg",
+                        "paste-b399b6010cde50a344d78c4607a708112c292873.jpg",
+                        "paste-b49c73ef778919afcc3037200fcb046d95c3e708.jpg",
+                        "paste-bccc112958871d962db75fd79472566740236186.jpg",
+                        "paste-cee0b80540e49667e096aff0e3bc74b8336df17a.jpg",
+                        "paste-d02a77f7f54fb969ff607d0c3a888310b627c991.jpg",
+                        "paste-d503973513e980f7d981fe2660951ee5af07134a.jpg",
+                        "paste-da736f91117dd734a2549c3cc6e06be8005c6214.jpg",
+                        "paste-fbbc8810ec21ab7ab594a9d3cd88185e5e5f6c8b.jpg"
+                    ],
+                    "name": "09/15 Lecture 11: Neoplasms of Large Bowel",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a3d544ea95f2ae44a9d4ac048d35514fdf553751.jpg\"><br><br>",
+                                "<img src=\"paste-d503973513e980f7d981fe2660951ee5af07134a.jpg\"><br><br><br>"
+                            ],
+                            "guid": "c?8mae#yeQ",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Polyp}} is a descriptive term for a mass protruding into lumen.&nbsp;",
+                                "Most neoplasms can present as polyps but not all polyps are neoplasms<br><br><br><img src=\"paste-5d6e3176ee8f4c6d6d5edd42de24edd1db278fee.jpg\"><img src=\"paste-58c76c422176f6433bc562d26de89274f5d62a2b.jpg\">"
+                            ],
+                            "guid": "L1y8bo3<~*",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Neoplasm}}: A proliferation of cells that results from autonomous, excessive, unco-ordinated growth<br><br></div>\n<div>{{c1::Adenoma}}: A benign (i.e. no metastatic potential) neoplastic growth of glandular tissue with dysplasia &nbsp;</div>\n<div><br>{{c1::Dysplasia}}: Abnormal cells that have <b>malignant potential but not metastatic potential</b>. In the colon, dysplasia may be low grade or high grade<br><div><br></div>\n<div>{{c1::Adenocarcinoma}}: Invasive neoplastic growth arising within dysplastic glandular epithelium with metastatic potential</div></div>\n<br>\n<div>{{c1::Hamartoma}}: A mass that contains an abnormal arrangement of tissue that is native to the site. Can be neoplastic or non-neoplastic</div>",
+                                ""
+                            ],
+                            "guid": "F#,b{;YvnB",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<u>Types of polyps in Colon</u><br><div><b><br>Epithelial (commonest)</b><br></div>\n<div>–{{c1::Hyperplastic polyps}}<b><i><font color=\"#0000ff\">&nbsp;(one of most common)</font></i></b></div>\n<div>–Sessile serrated lesions</div>\n<div>–{{c1::Adenomas}}<b><i><font color=\"#0000ff\">&nbsp;(one of most common)</font></i></b></div>\n<div>–Carcinomas</div>\n<div>–Neuroendocrine tumours</div>\n<div><b>•Non-epithelial</b></div>\n<div>–{{c1::Lipomas}}</div>\n<div>–{{c1::Gastrointestinal stromal tumours (GIST)}}</div>\n<div>–neural, vascular tumours</div>\n<div>–Lymphoma</div>\n<div><b>•</b>{{c1::Inflammatory&nbsp;}}</div>\n<div>–e.g. chronic inflammatory bowel disease; rectal prolapse</div>\n<div><b>•</b>{{c1::Hamartomas}}</div>",
+                                ""
+                            ],
+                            "guid": "Af&=E}*uZU",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Hyperplastic Polyps (HP)<br></b></div>\n<div><ul><li>Very common</li><li>Most in {{c1::recto-sigmoid}} region</li><li>Usually &lt;0.5 cm</li><li>{{c1::Asymptomatic:: symptomatic/asymptomatic}}</li><li>Composed of hyperplastic mucosa</li><li>Malignant potential {{c1::rare:: rare/common}}</li></ul>In the histology, you can observe&nbsp;{{c1::hyperplastic}} epithelium - columns. Small&nbsp;{{c1::infoldings}} into the lumen of the gland and&nbsp;{{c1::crypts}} due to increased number of cells lining that gland. The&nbsp;{{c1::hyperplastic}} mucosa is causing {{c1::infoldings}} within the crypt that is responsible for the bulge seen in red image (no malignant potential).<img src=\"paste-1d1921fd2dd1a4b270847684ebf2760e9c92a4b0.jpg\">&nbsp;<br><br><img src=\"paste-b49c73ef778919afcc3037200fcb046d95c3e708.jpg\"><br>hyperplastic polpyps</div>\n\n\n\n\n",
+                                "<br><br><br>"
+                            ],
+                            "guid": "yh8o;Rr+&Y",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Sessile Serrated Lesion (SSL)<br></b><br></div>\n<div>-Type of&nbsp;&nbsp;{{c1::hyperplastic polyp}}</div>\n<div>•Usually in {{c1::right}} side of colon</div>\n<div>•Diagnosed on morphology;</div>\n<div>&nbsp; &nbsp; • {{c1::Asymmetric}} architecture at base of crypt:&nbsp; <br>&nbsp; &nbsp; &nbsp; {{c1::boot&nbsp;}}&nbsp;shaped; inverted T</div>\n<div>•{{c1::Serrated}} appearance of crypts</div>\n<div>•No dysplasia in a SSL (but dysplasia arise in an SSL: ‘SSL with dysplasia’)</div>\n<div>•Links to MSI high sporadic (MSI high) carcinomas justifies distinguishing SSL from usual HPs<br><br><img src=\"paste-2f5a4abc99506378587f18b07e1ddf3f59753865.jpg\"><br></div>",
+                                "no dysplasia - but dysplasia can be superimposed on it"
+                            ],
+                            "guid": "weN!7^F/R0",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Adenomas<br></b><div><br>Common<br></div>\n<div>•{{c1::Middle}} age adults</div>\n<div>•{{c1::Left}} side more common than&nbsp;{{c1::right}} side</div>\n<div>•Usually form a {{c1::polyp}}</div>\n<div>•Classified acc. to {{c1::growth}} pattern:</div>\n<div>&nbsp; &nbsp; –Tubular (pedunculated)&nbsp;</div>\n<div>&nbsp; &nbsp; – {{c1::Sessile}}</div>\n<div>&nbsp; &nbsp; –{{c1::‘Flat’}} adenomas are uncommon</div>\n<div>•Have {{c1::dysplastic}} epithelium by definition (low vs high grade)<br><br><img src=\"paste-b399b6010cde50a344d78c4607a708112c292873.jpg\"><br>This image is of a&nbsp;{{c1::tubular}} adenoma.<br><br><img src=\"paste-da736f91117dd734a2549c3cc6e06be8005c6214.jpg\"><br>This image is of a&nbsp;{{c1::pedunculated}} adenoma with a stalk.<br><br><img src=\"paste-629d5a0b5988e38325c0c622358615e86822df27.jpg\"><br></div>This image is of a&nbsp;{{c1::villous (sessile)}} adenoma.",
+                                "<img src=\"paste-8f272a48a6b94a3a6399bffc3bd92cd4dadc5c44.jpg\"><br><br><img src=\"paste-fbbc8810ec21ab7ab594a9d3cd88185e5e5f6c8b.jpg\">"
+                            ],
+                            "guid": "O{:`Jk4MF&",
+                            "note_model_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><div><b>Risk of Progression to Malignancy&nbsp;<br><br></b></div>\n<div>•Size of adenoma</div>\n<div>&nbsp; &nbsp;–Cancer rare in adenoma &lt; {{c1::10}} mm</div>\n<div>&nbsp; &nbsp;–{{c1::40}}% adenomas &gt; 40 mm have a cancer</div>\n<div>•% of villous growth</div>\n<div>&nbsp; &nbsp; –{{c1::Tubulovillous}} &gt; 20%</div>\n<div>&nbsp; &nbsp;<b> –Villous: &gt;80%</b></div>\n<div>•Presence of high grade {{c1::dysplasia}}</div>\n<div>•Number of adenomas</div></div>\n<br>",
+                                "<img src=\"paste-7bf91a18c7f81354ecf25a92e84b647ca5472c71.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "txpq$K6L[S",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Management of Adenomas</b></div>\n<div>•Tubular Adenomas are removed during {{c1::colonoscopy}}</div>\n<div>•<b>High-grade dysplasia </b>(HGD) or invasion in adenoma necessitates ‘complete’ {{c1::excision}} with clear margins</div>\n<div>•VAs may require {{c1::surgery}} if&nbsp; large as it can be difficult to excise a VA and obtain clear margins</div>",
+                                ""
+                            ],
+                            "guid": "A7D^;|$:BB",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Hamartomas<br><br></b></div>\n<div>•Uncommon</div>\n<div>•Can occur {{c1::anywhere}} in GIT</div>\n<div>•Can be solitary</div>\n<div>•Also occur as part of different syndromes</div>\n<div>e.g. {{c1::Peutz jeghers}} or&nbsp;<br></div>\n<div>Cowden, Cronkite&nbsp;</div>\n<div>Canada Syndrome,</div>\n<div>{{c1::Tuberous sclerosis}}<br><br><br><br><img src=\"paste-1331138825bc5b7db371fab239b2e23392461e17.jpg\"><br>Can get massively expanded glands due to the&nbsp;{{c1::hyperplasia}} arranged in a strange way.</div>",
+                                "hamartoma can be hyperplastic or neoplastic. They consist of tissue native to the site arranged in a very disorganized way.&nbsp;<b><ul><li><div><span style=\"font-weight: 400;\">Can get massively expanded glands bc of hyperplasia arranged in a strange way. Splaying of mucosa. </span>Muscularis mucosa moving into lamina propria where it shouldn’t be.</div></li></ul></b>"
+                            ],
+                            "guid": "ERbet6qB]E",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Symptoms of a polyp or mass in colon</b><br><br></div>\n<div>•{{c1::Asymptomatic}}</div>\n<div>•Frank bleeding&nbsp;</div>\n<div>&nbsp; &nbsp; •Especially for large or left-sided lesion</div>\n<div>•{{c1::Occult}} bleeding&nbsp;</div>\n<div>•Detected by screening</div>\n<div>•{{c1::Anemia}}</div>\n<div>•Altered {{c1::bowel}} habit</div>\n<div>•Obstruction&nbsp;</div>\n<div>•Metabolic e.g. {{c1::hypokalemia}}</div>\n<div>•Rarely, intussusception<br><br><b>Intussusception<br></b><div>&nbsp;Can occur with any type of mass<br></div>\n<div>•{{c1::Fixes}} one part of the colon</div>\n<div>•{{c1::Telescopes}} an adjacent portion of the colon</div>\n<div>•Causes {{c1::obstruction}}</div><img src=\"paste-cee0b80540e49667e096aff0e3bc74b8336df17a.jpg\"><b><br></b></div>",
+                                "<img src=\"paste-1707a38cf74c67968e6694d6c3ae62890113e2d4.jpg\"><br><br><br><br>"
+                            ],
+                            "guid": "vug]](78ZI",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Familial Adenomatous Polyposis<br><br></b></div>\n<div>- AD&nbsp;(Autosomal dominant)</div>\n<div>–Inactivating mutation in {{c1::APC}} gene (adenomatous polyposis coli) ch5 which is a {{c1::Tumour suppressor}} gene.</div>\n<div>–&gt;&gt;100 adenomas in large bowel&nbsp;</div>\n<div>–Also in SB, stomach</div>\n<div>–Without colectomy, {{c1::100}}% progress to colorectal carcinoma&nbsp;</div>\n<div>–Extra-GI manifestations are also present (bone tumours, problems with retina..)</div>\n<div>&nbsp; &nbsp; &nbsp;•Cancer and non-cancer</div>",
+                                "<img src=\"paste-8f9be42112bbffd6fd653874e00464819420f057.jpg\"><br><br><br>"
+                            ],
+                            "guid": "MU?LB.)-YF",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Other Polyposis syndromes<br><br>Adenomas</b></div>\n<div>•{{c1::Gardner}}</div>\n<div>•Turcot&nbsp;</div>\n<div>•{{c1::Attenuated}} FAP</div>\n<div>•MYH-associated polyposis (AR)</div>\n<div><br></div>\n<div><b>Hamatomatous (hallmark is lots of&nbsp;</b>{{c1::hamartomas}})</div>\n<div>•{{c1::Peutz-Jeghers}}</div>\n<div>&nbsp; &nbsp; &nbsp; –STK11</div>\n<div>•Juvenile Polyposis</div>\n<div>&nbsp; &nbsp; &nbsp; –SMAD, TGFbpathway</div>",
+                                ""
+                            ],
+                            "guid": "kiLx3I%-L^",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Colorectal Carcinoma: Risk factors&nbsp;<br><br></b></div>\n<div>•Peak 60-70s</div>\n<div>•US, Canada ++</div>\n<div>•Diet: High {{c1::caloric}} diet, high {{c1::fat}} and refined carbohydrate intake and low {{c1::vegetable and fibre:: 2 words}} intake</div>\n<div>•Low intake of vitamin A, E, C</div>\n<div>•{{c1::Smoking}}</div>\n<div>•{{c1::Aspirin}} shown to be protective&nbsp; (Nurses Health Study)</div>\n<div>•Sporadic {{c1::adenomas}}/Hx of removal of polyps</div>",
+                                ""
+                            ],
+                            "guid": "cC6jb/o*5W",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Carcinoma and CIBD</b></div>\n<div>•Risk in long-standing UC with {{c1::pancolitis}}</div>\n<div>•Overall incidence is {{c1::low}}</div>\n<div>•Symptoms masked by underlying {{c1::disease}}</div>\n<div>•Multiple carcinomas without obvious {{c1::mass}}</div>\n<div>•Mechanism not entirely clear (?oxidative stress)</div>",
+                                ""
+                            ],
+                            "guid": "zWClr+oHJq",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Family History&nbsp;<br><br></b></div>\n<div>•Risk of developing CRC increased {{c1::2-3}} fold in 1st degree relatives of CRC patients</div>\n<div>•Number of&nbsp; affected {{c1::relatives}} important</div>\n<div>•3-4 fold increase in risk with &gt; {{c1::1}} family member affected</div>\n<div>•Age of&nbsp; onset&nbsp; of cancer in {{c1::index}} case is important</div>\n<div>•RR {{c1::3.9}} if cancer diagnosed aged 45-59<br><b><br></b><div><b>Think of Hereditary CRC</b> when</div>\n<div>•There is a strong {{c1::family}} history</div>\n<div>•The onset is at a {{c1::young}} age &nbsp;</div>\n<div>•Large numbers of {{c1::polyps}} are found (polyposis syndromes)</div>\n<div>•Cancers are identified in different sites (GI and non-GI) including in family members</div>\n<div>•Non-neoplastic extra-{{c1::GIT}} features are present</div></div>",
+                                "<img src=\"paste-0a82e4f83f839f15b78834c174c6cc0c103bd3d8.jpg\"><br><br><br>"
+                            ],
+                            "guid": "CM1zXwUg[k",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>2 pathways that drive colonic neoplasia</b><br>1.&nbsp;{{c1::Chromosomal instability (CIN)}} pathway<br>2.&nbsp;{{c1::Microsatellite instability (MSI)}} pathway (Hereditary (Lynch) and Sporadic methylation)",
+                                "<img src=\"paste-2870a610c79655c284e5bdd324f2880eaba7eae1.jpg\"><br><br><br>"
+                            ],
+                            "guid": "y!rL+z3dst",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Chromosomal instability (CIN) pathway</b><br><div><br></div>\n<div>•Vogelstein Model of {{c1::Cancer}}</div>\n<div>•Mechanism for cancers in {{c1::FAP}} and in 80% sporadic carcinomas</div>\n<div>•Tumours&nbsp; with CIN show {{c1::aneuploidy}} and {{c1::chromosome}} loss&nbsp;</div>\n<div>•CIN is an effective way of causing loss of a wild type allele of {{c1::TSG&nbsp;}}</div>",
+                                ""
+                            ],
+                            "guid": "czR%e[C=zi",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "CIN (APC) Pathway involves the stepwise accumulation of genetic aberrations that correlate with a morphological progression from normal mucosa to {{c1::adenomas}} to {{c1::carcinomas}} (This is the&nbsp;{{c1::adenoma-carcinoma}} sequence). The&nbsp;{{c1::number}} of mutations are more important than the sequence (4-5 molecular events in key pathways necessary).<br><br><img src=\"paste-78af5203352ca7c71666d34a1a239ebd98e16927.jpg\"><br><br>1.&nbsp;{{c1::APC}}<br>2.&nbsp;{{c1::RAS}}<br>3.&nbsp;{{c1::Carcinoma}}",
+                                ""
+                            ],
+                            "guid": "x4WS/G!2Lv",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Risk of progression to malignancy</b><br><br>In clinical practice, we rely on adenoma {{c1::size}}, presence of high grade {{c1::dysplasia}}, % {{c1::villosity}} and number of {{c1::polyps}} to estimate the risk of progression to malignancy<div>–Cancer rare in adenoma &lt; 10 mm</div>\n<div>–40% of adenomas &gt; {{c1::4}} cm have a cancer</div>",
+                                ""
+                            ],
+                            "guid": "p;wnxI2^|V",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Microsatellite instability (MSI) pathway</b><br><br></div>\n<div>•Involves cancers arising in {{c1::HNPCC/Lynch Family}} Syndrome and 10-15% sporadic cancers&nbsp;</div>\n<div><br></div>\n<div>•HNPCC/Lynch Family Syndrome</div>\n<div>–{{c1::AD}} (autosomal ...)</div>\n<div>–Mutations in DNA {{c1::MMR}} genes</div>\n<div>–{{c1::80}}% lifetime risk of CRC</div>\n<div>–Onset&nbsp;at {{c1::45}} years</div>\n<div>–Rapid growth&nbsp;</div>\n<div>–{{c1::Right::Right/Left}} side (Multiple tumours, mucinous subtype)</div>\n<div>–Also carcinoma of small bowel &amp; endometrium<br><br><img src=\"paste-d02a77f7f54fb969ff607d0c3a888310b627c991.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "h$^0T-l^f_",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-1e9ca6ba6e16d40592f651d57dbf3b0a5cdb9e0c.jpg\">",
+                                "<img src=\"Screen Shot 2021-09-20 at 4.06.07 PM.png\">"
+                            ],
+                            "guid": "Fy5>4oMnvA",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<br><img src=\"paste-4b77d1f15c34503f78411694510d1eaa0cf3672e.jpg\"><br><br><br>",
+                                "<img src=\"Screen Shot 2021-09-20 at 4.11.12 PM.png\">"
+                            ],
+                            "guid": "e(k5a`0-{h",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Classic presentation: right-sided carcinoma</b><br>\n<div><ul><li>{{c1::Fatigue}}</li><li>{{c1::Pallor}}, pale conjunctiva</li><li>{{c1::Iron def}} anaemia</li><li>Vague mass in RIF</li><li>•±Altered {{c1::bowel}} habit</li></ul><br><br><img src=\"paste-722f750cd628f6c1a4f91ff926e536d7071f3385.jpg\"><br></div><br>",
+                                ""
+                            ],
+                            "guid": "zn%eW&Nr>Z",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Classic Presentation: left-sided tumour</b><br>\n<div><ul><li>Altered {{c1::bowel}} habit&nbsp; –Constipation/diarrhoea</li><li>{{c1::PR}} bleeding</li><li>±abdominal {{c1::pain}}</li><li>±LIF mass</li></ul><br><img src=\"paste-bccc112958871d962db75fd79472566740236186.jpg\"><br></div>",
+                                "*PR - post rectal?"
+                            ],
+                            "guid": "g^1]9x}6_N",
+                            "note_model_uuid": "e59a9796-0bf8-11ec-b866-c4b301a027bc",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e5989a9a-0bf8-11ec-b866-c4b301a027bc",
@@ -2911,7 +3656,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50
+                "perDay": 60
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -2924,6 +3669,54 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 60,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "dbc5d912-0caf-11ec-907d-acde48001122",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 60
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
                 "perDay": 9999
             },
             "reviewOrder": 0,
@@ -2993,6 +3786,57 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "dbc60e5a-0caf-11ec-907d-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-68b9c",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": []
